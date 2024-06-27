@@ -1,0 +1,53 @@
+16:57:49,882 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.0.102:57117)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 53
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+16:57:49,963 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 2D 02 66 00 2C 00 00 00 53 00 00 00 00   q..-.f.,...S....
+0010: 00 00 00 00 00 00 00 01 01 31 5B E1 00 00 00 01   .........1[.....
+0020: 00 00 00 00 00 00 00 00 00 00 00 00 00            .............   
+
+16:57:54,850 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.0.102:57117)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 53
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+16:57:54,850 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 2D 02 07 00 2C 00 00 00 53 00 00 00 00   q..-...,...S....
+0010: 00 00 00 00 00 00 00 01 00 3D 09 C9 00 00 00 01   .........=......
+0020: 00 00 00 00 00 00 00 00 00 00 00 00 00            .............   
+
+16:57:59,407 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.0.102:57117)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 53
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+16:57:59,423 - [5] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 2D 02 66 00 2C 00 00 00 53 00 00 00 00   q..-.f.,...S....
+0010: 00 00 00 00 00 00 00 01 01 31 5B E1 00 00 00 01   .........1[.....
+0020: 00 00 00 00 00 00 00 00 00 00 00 00 00            .............   
+
+17:13:10,575 - [7] - ERROR - Game.Logic.PVEGame - Can't create game ai :GameServerScript.AI.Game.CopyTerrorGame
+17:13:10,622 - [8] - ERROR - Game.Logic.BaseGame - Map update error:
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Logic.PVEGame.PrepareNewSession() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 477
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 36
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+17:13:10,701 - [8] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.BaseGame.SendStartLoading(Int32 maxTime) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 1073
+   at Game.Logic.PVEGame.StartLoading() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 531
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 41
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+17:13:33,483 - [8] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVEGame.StartGame() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 567
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 51
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+17:13:33,663 - [8] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.PVEGame.GameOver() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 1025
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 77
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+17:17:19,562 - [17] - ERROR - Game.Server.GameServer - Center Server Disconnect! Stopping Server
+17:17:19,562 - [17] - ERROR - Game.Server.GameServer - Start the game server again after 1 second,and left try times:3

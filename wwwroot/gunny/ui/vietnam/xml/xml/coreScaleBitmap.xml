@@ -1,0 +1,38 @@
+﻿<style name="coreScaleBitmap" version="1.0.1" source="ui/vietnam/swf/coreScaleBitmap.swf">
+	<sets>
+
+	</sets>
+	<customDisplay>
+
+	</customDisplay>
+		
+	<components>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="core.levelRewardBg"
+			resourceLink="asset.core.levelRewardBg_left_up,asset.core.levelRewardBg_up,asset.core.levelRewardBg_right_up,asset.core.levelRewardBg_left,asset.core.levelRewardBg_center,asset.core.levelRewardBg_right,asset.core.levelRewardBg_left_down,asset.core.levelRewardBg_down,asset.core.levelRewardBg_right_down" width="600" height="380" x="25" y="70"/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="core.levelRewardLightBg"
+			resourceLink="asset.core.levelRewardLightBgAsset_leftup,asset.core.levelRewardLightBgAsset_up,asset.core.levelRewardLightBgAsset_rightup,asset.core.levelRewardLightBgAsset_left,asset.core.levelRewardLightBgAsset_center,asset.core.levelRewardLightBgAsset_right,asset.core.levelRewardLightBgAsset_leftdown,asset.core.levelRewardLightBgAsset_down,asset.core.levelRewardLightBgAsset_rightdown" width="590" height="180"/>
+		
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="core.levelRewardhighColourBg"
+			resourceLink="asset.core.highColourBgAsset_leftup,asset.core.highColourBgAsset_up,asset.core.highColourBgAsset_rightup,asset.core.highColourBgAsset_left,asset.core.highColourBgAsset_center,asset.core.highColourBgAsset_right,asset.core.highColourBgAsset_leftdown,asset.core.highColourBgAsset_down,asset.core.highColourBgAsset_rightdown" width="590" height="180"/>
+		
+		<component classname="com.pickgliss.ui.image.ScaleBitmapImage" stylename="core.shop.RankingBackBg" 
+			resourceLink="asset.core.shop.RankingBackBg" scaleGridString="15,15,20,20" 
+		/>
+		<component classname="com.pickgliss.ui.image.ScaleBitmapImage" stylename="core.shop.RankingFrontBg" 
+			resourceLink="asset.core.shop.RankingFrontBg" scaleGridString="15,15,20,20" 
+		/>
+		<component classname="com.pickgliss.ui.image.ScaleBitmapImage" stylename="core.shop.ShopPresentClearingFrameBg1" 
+			resourceLink="asset.core.shop.ShopPresentClearingFrameBg1" scaleGridString="15,15,20,20" 
+		/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="core.levelRewardLightBgII"
+			resourceLink="asset.core.levelRewardLightBgAssetII_leftup,asset.core.levelRewardLightBgAssetII_up,asset.core.levelRewardLightBgAssetII_rightup,asset.core.levelRewardLightBgAssetII_left,asset.core.levelRewardLightBgAssetII_center,asset.core.levelRewardLightBgAssetII_right,asset.core.levelRewardLightBgAssetII_leftdown,asset.core.levelRewardLightBgAssetII_down,asset.core.levelRewardLightBgAssetII_rightdown" width="710" height="185"/>
+		
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="core.levelRewardhighColourBgII"
+			resourceLink="asset.core.levelhighColourBgAssetII_leftup,asset.core.levelhighColourBgAssetII_up,asset.core.levelhighColourBgAssetII_rightup,asset.core.levelhighColourBgAssetII_left,asset.core.levelhighColourBgAssetII_center,asset.core.levelhighColourBgAssetII_right,asset.core.levelhighColourBgAssetII_leftdown,asset.core.levelhighColourBgAssetII_down,asset.core.levelhighColourBgAssetII_rightdown" width="710" height="280"/>
+		
+	</components>
+
+	<bitmaps>
+		<bitmapData resourceLink="asset.core.bg012" x="0" y="-8"/>
+	</bitmaps>
+</style>

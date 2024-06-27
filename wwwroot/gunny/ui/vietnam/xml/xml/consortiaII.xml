@@ -1,0 +1,322 @@
+<style name="consortiaII" version="1.0.1" source="ui/vietnam/swf/consortiaII.swf">
+<sets>
+		<set stylename="consortia.ConsortiaShopView.money_text" args="Arial,14,0xFFFF00,true,,,,,center" 	type="flash.text.TextFormat" />
+		<set stylename="consortia.ConsortiaShopView.money_filter" args="0x4B3014,1,2,2,10" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.ConsortiaShopView.offer_text" args="Arial,14,0x000000,true,,,,,center" type="flash.text.TextFormat" />
+		<set stylename="consortia.ConsortiaShopView.offer_filter" args="0xFFFFFF,1,4,4,5" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.ConsortiaShopItem.data_text" args="Arial,16,0xFFFFFF,,,,,,center" type="flash.text.TextFormat" />
+		<set stylename="consortia.ConsortiaShopItem.data_filter" args="1,45,0x000000,0.3,1,1,10" type="flash.filters.DropShadowFilter"/>
+		<set stylename="consortia.ConsortiaShopItem.money_text" args="Arial,12,0x1A1A1A,true,,,,,center" letterSpacing="-1" type="flash.text.TextFormat" />
+		<set stylename="consortia.ConsortiaShopItem.money_filter" args="0xF3EBE2,1,4,4,10,3" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.ExitConsortiaFrame.explain_text" args="Arial,14,0x000000" type="flash.text.TextFormat"/>
+		<set stylename="consortia.MyConsortiaTax.totalMoney_text" args="Arial,18,0xFFFFFF,true,,,,,center" type="flash.text.TextFormat" />
+		<set stylename="consortia.MyConsortiaTax.totalMoney_filter" args="0x000000,1,2,2,6" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.MyConsortiaAuditingApplyList.fightPower_text" args="Arial,16,0xEF011B,true,,,,,center" type="flash.text.TextFormat" />
+		<set stylename="consortia.MyConsortiaAuditingApplyList.fightPower_filter" args="0xFFFFFF,1,2,2,10" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.applyList_text" args="Arial,16,0x000000" type="flash.text.TextFormat"/>
+		<set stylename="consortia.applyList_filter" args="0xF3EBE2,1,2,2,10" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.MyConsortiaUpgrade.level_text" args="Arial,18,0xDEBE71,true,,,,,right" type="flash.text.TextFormat"/>
+		<set stylename="consortia.MyConsortiaUpgrade.level_filter" args="0x000000,1,3,3,10" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.MyConsortiaUpgrade.explain_text" args="Arial,14,0x312B28" type="flash.text.TextFormat"/>
+		<set stylename="consortia.MyConsortiaUpgrade.title_text" args="Arial,16,0x003264,true,,,,,center" type="flash.text.TextFormat"/>
+		<set stylename="consortia.MyConsortiaUpgrade.title_filter" args="0xFEDBAC,1,5,5,3" type="flash.filters.GlowFilter"/>
+		<set stylename="consortia.AlienationConsortiaFrame_txt2" args="Arial,14,0x2C1525" type="flash.text.TextFormat"/>
+		<set stylename="consortia.AlienationConsortiaFrame_txt3" args="Arial,12,0x693C0C" type="flash.text.TextFormat"/>
+		<set stylename="consortia.AlienationConsortiaFrame_txt1" args="Arial,18,0xFFFFFF,true" type="flash.text.TextFormat"/>
+		<set stylename="consortia.manifestoInput_txt" args="Arial,14,0xffffff" leading="2.0" type="flash.text.TextFormat" />
+		<set stylename="consortia.poseManagerText_txt" args="Arial,16,0x003264,true" type="flash.text.TextFormat"/>
+		<set stylename="consortia.poseManagerFilter1" args="0xffffff,1,2,2,10" type="flash.filters.GlowFilter"/>
+</sets>
+<components>
+	<!--ConsortiaShopView-->
+		<component classname="consortia.view.myConsortia.shop.ConsortiaShopView" stylename="consortia.myConsortiaView.ConsortiaShopView"
+			width="710" height="555" moveEnable="false" backStyle="core.bg006" closestyle="core.closebt"
+			titleStyle="FrameTitleTextStyle" titleOuterRectPosString="6,6,5" 	closeInnerRectString="44,6,3,30,14" 
+			moveInnerRectString="0,30,0,30,1"/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="consortia.ConsortiaShopView.BG"
+			width="594" height="444" x="82" y="67"  
+			resourceLink="asset.consortia.ConsortiaShop.nine1,asset.consortia.ConsortiaShop.nine2,asset.consortia.ConsortiaShop.nine3,asset.consortia.ConsortiaShop.nine4,asset.consortia.ConsortiaShop.nine5,asset.consortia.ConsortiaShop.nine6,asset.consortia.ConsortiaShop.nine7,asset.consortia.ConsortiaShop.nine8,asset.consortia.ConsortiaShop.nine9"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopView.goldTxt"
+			textFormatStyle="consortia.ConsortiaShopView.money_text" 	filterString="consortia.ConsortiaShopView.money_filter"
+			autoSize="none" width="92" height="20" x="89" y="40" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopView.moneyTxt"
+			textFormatStyle="consortia.ConsortiaShopView.money_text" 	filterString="consortia.ConsortiaShopView.money_filter"
+			autoSize="none" width="87" height="20" x="265" y="40" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopView.offerTxt"
+			textFormatStyle="consortia.ConsortiaShopView.offer_text" filterString="consortia.ConsortiaShopView.offer_filter"
+			autoSize="none" width="82" height="20" x="460" y="42" />
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.myConsortiaView.ConsortiaShopView.levelBtn1"
+			unSelectedStyle="asset.consortia.ConsortiaShop.level1UN" selectedStyle="asset.consortia.ConsortiaShop.level1" 	
+			x="37" y="67" displacement="false"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.myConsortiaView.ConsortiaShopView.levelBtn2"
+			unSelectedStyle="asset.consortia.ConsortiaShop.level2UN" selectedStyle="asset.consortia.ConsortiaShop.level2"
+			x="37" y="155" 	displacement="false"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.myConsortiaView.ConsortiaShopView.levelBtn3"
+			unSelectedStyle="asset.consortia.ConsortiaShop.level3UN" selectedStyle="asset.consortia.ConsortiaShop.level3"
+			x="37" y="242" displacement="false"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.myConsortiaView.ConsortiaShopView.levelBtn4"
+			unSelectedStyle="asset.consortia.ConsortiaShop.level4UN" selectedStyle="asset.consortia.ConsortiaShop.level4"
+			x="37" y="330" displacement="false"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.myConsortiaView.ConsortiaShopView.levelBtn5"
+			unSelectedStyle="asset.consortia.ConsortiaShop.level5UN" selectedStyle="asset.consortia.ConsortiaShop.level5"
+			x="37" y="418" displacement="false"/>
+		<component classname="com.pickgliss.ui.controls.container.VBox" stylename="consortia.myConsortiaView.ConsortiaShopList.listBox"
+			spacing="4" y="3"/>
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="consortia.myConsortiaView.ConsortiaShopList.listPanel"
+			parentStyle="core.ScrollPanel" width="560" 	height="420"/>
+			
+		<!--consortiaShopItem-->
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="shopItem.cellCount" textFormatStyle="frameNameTF" filterString="P_g4" x="55" y="40" autoSize='right'/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.myConsortiaView.ConsortiaShopItem.shop7Btn"
+			backStyle="asset.consortia.ConsortiaShop.shopBtnBG" filterString="null,lightFilter,null,grayFilter"
+			x="263" y="6"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.myConsortiaView.ConsortiaShopItem.shop15Btn"
+			parentStyle="consortia.myConsortiaView.ConsortiaShopItem.shop7Btn" x="352" y="6"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.myConsortiaView.ConsortiaShopItem.shop30Btn"
+			parentStyle="consortia.myConsortiaView.ConsortiaShopItem.shop7Btn" x="440" y="6"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.myConsortiaView.ConsortiaShopItem.exploitDetailBtn"
+			backStyle="asset.consortia.ConsortiaShop.ExploitDetailBtn" filterString="null,lightFilter,null,grayFilter"
+			x="440" y="21"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.nameTxt"
+			textFormatStyle="consortia.clubList_text" 	filterString="consortia.clubList_filter"
+			autoSize="none" width="170" height="24" x="66" y="20" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.dataTxt1"
+			textFormatStyle="consortia.ConsortiaShopItem.data_text" filterString="consortia.ConsortiaShopItem.data_filter"
+			autoSize="none" width="80" height="24" x="261" y="10" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.dataTxt2"
+			parentStyle="consortia.myConsortiaView.ConsortiaShopItem.dataTxt1"
+			autoSize="none" width="80" height="24" x="350" y="10" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.dataTxt3"
+			parentStyle="consortia.myConsortiaView.ConsortiaShopItem.dataTxt1"
+			autoSize="none" width="80" height="24" x="440" y="10" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.moneyTxt1"
+			textFormatStyle="consortia.ConsortiaShopItem.money_text" 	filterString="consortia.ConsortiaShopItem.money_filter"
+			autoSize="none" width="85" height="22" x="260" y="37" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.moneyTxt2"
+			parentStyle="consortia.myConsortiaView.ConsortiaShopItem.moneyTxt1"
+			autoSize="none" width="85" height="22" x="350" y="37" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.myConsortiaView.ConsortiaShopItem.moneyTxt3"
+			parentStyle="consortia.myConsortiaView.ConsortiaShopItem.moneyTxt1"
+			autoSize="none" width="85" height="22" x="438" y="37" />
+			
+		<!--ExitConsortiaFrame-->
+		<component classname="consortia.view.myConsortia.ExitConsortiaFrame" stylename="consortia.myConsortiaView.ExitConsortiaFrame"
+			parentStyle="BaseFrame" width="373" height="203" moveEnable="false"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.ExitConsortiaFrame.okBtn"
+			parentStyle="core.simplebt" x="70" y="160" />
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.ExitConsortiaFrame.cancelBtn"
+			parentStyle="core.simplebt" x="220" y="160" />
+		<component classname="com.pickgliss.ui.image.Image" stylename="consortia.myConsortiaView.ExitConsortiaFrame.warning"
+			resourceLink="asset.core.warningAsset" x="48" y="36"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.ExitConsortiaFrame.explain"
+			textFormatStyle="consortia.ExitConsortiaFrame.explain_text" 	x="84" y="100"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="consortia.ExitConsortiaFrame.inputBG"
+			resourceLink="asset.core.bg007" x="146" y="120"/>
+		<component classname="com.pickgliss.ui.controls.TextInput" stylename="consortia.ExitConsortiaFrame.input"  
+			textStyle="AlienationConsortiaFrame.inputTxt"   x="147" y="121" width="100" height="28"/>
+		
+		<!--MyConsortiaAuditingApplyList-->
+		<component classname="consortia.view.myConsortia.apply.MyConsortiaAuditingApplyList" stylename="consortia.myConsortiaView.MyConsortiaAuditingApplyList"
+			parentStyle="BaseFrame" width="513" height="463" moveEnable="false"/>
+		<component classname="com.pickgliss.ui.image.MovieImage" stylename="consortia.myConsortiaView.MyConsortiaAuditingApplyList.BG"
+			resourceLink="asset.consortia.AuditingApply.BG" width="491" 	height="368" x="12" y="43"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.MyConsortiaAuditingApplyList.closeBtn"
+			parentStyle="core.simplebt" x="393" y="421" />
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.MyConsortiaAuditingApplyList.takeInBtn"
+			parentStyle="core.simplebt" x="40" y="421" />
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.myConsortiaView.MyConsortiaAuditingApplyList.levelBtn"
+			backStyle="asset.consortia.AuditingApply.levelBtn" filterString="null,lightFilter,null,grayFilter" x="170" y="44"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.myConsortiaView.MyConsortiaAuditingApplyList.fightingBtn"
+			backStyle="asset.consortia.AuditingApply.fightingBtn" filterString="null,lightFilter,null,grayFilter" x="229" y="46"/>
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="consortia.MyConsortiaAuditingApplyList.selectAllBtnImg"
+			resourceLink="asset.consortia.AuditingApply.allSelectBtn1,asset.consortia.AuditingApply.allSelectBtn2,asset.consortia.AuditingApply.allSelectBtn2"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.selectAllBtn"
+			backStyle="consortia.MyConsortiaAuditingApplyList.selectAllBtnImg" filterString="null,lightFilter,null,grayFilter" x="27" y="381"/>
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="consortia.MyConsortiaAuditingApplyList.agreeBtnImg"
+			resourceLink="asset.consortia.AuditingApply.agreeBtn1,asset.consortia.AuditingApply.agreeBtn2,asset.consortia.AuditingApply.agreeBtn2" />
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.agreeBtn"
+			backStyle="consortia.MyConsortiaAuditingApplyList.agreeBtnImg" filterString="null,lightFilter,null,grayFilter" x="100" y="381"/>
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="consortia.MyConsortiaAuditingApplyList.refuseBtnImg"
+			resourceLink="asset.consortia.AuditingApply.refuseBtn1,asset.consortia.AuditingApply.refuseBtn2,asset.consortia.AuditingApply.refuseBtn2"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.refuseBtn"
+			backStyle="consortia.MyConsortiaAuditingApplyList.refuseBtnImg" filterString="null,lightFilter,null,grayFilter" x="173" y="381"/>
+		<component classname="com.pickgliss.ui.controls.SelectedCheckButton" stylename="consortia.MyConsortiaAuditingApplyList.refuseApplyCheck"
+			parentStyle="core.simpleSelectBtn" x="245" y="383"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.nextBtn"
+			backStyle="asset.consortia.AuditingApply.nextBtn" filterString="null,lightFilter,null,grayFilter" x="468" y="376"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.upBtn"
+			backStyle="asset.consortia.AuditingApply.upBtn" filterString="null,lightFilter,null,grayFilter" x="357" y="376"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaAuditingApplyList.pageTxt"
+			textFormatStyle="consortia.MyConsortiaTax.totalMoney_text" filterString="consortia.MyConsortiaTax.totalMoney_filter"
+			width="59" height="24" x="410" y="380"/>
+		<component classname="com.pickgliss.ui.controls.container.VBox" stylename="consortia.MyConsortiaAuditingApplyList.list"
+			spacing="5"  width="474" 	height="296" x="20" y="78" />
+			
+			 <!--MyConsortiaAuditingApplyList-->
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.item.checkBtn"
+			backStyle="asset.consortia.AuditingApply.item.checkBtn" 	filterString="null,lightFilter,null,grayFilter" 	x="287" y="4"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.item.agreeBtn"
+			backStyle="asset.consortia.AuditingApply.item.agreeBtn" 	filterString="null,lightFilter,null,grayFilter" 	x="344" y="4"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.MyConsortiaAuditingApplyList.item.refuseBtn"
+			backStyle="asset.consortia.AuditingApply.item.refuseBtn" 	filterString="null,lightFilter,null,grayFilter" x="401" y="4"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaAuditingApplyList.item.fightPowerTxt"
+			textFormatStyle="consortia.MyConsortiaAuditingApplyList.fightPower_text" filterString="consortia.MyConsortiaAuditingApplyList.fightPower_filter"
+			autoSize="none" width="68" height="20" x="213" y="3" />
+		<component classname="com.pickgliss.ui.controls.SelectedCheckButton" stylename="consortia.MyConsortiaAuditingApplyList.item.select"
+			parentStyle="core.simpleSelectBtn" x="15" y="7"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaAuditingApplyList.item.nameTxt"
+			textFormatStyle="consortia.applyList_text" filterString="consortia.applyList_filter"
+			autoSize="none" width="105" height="22" x="15" y="-5" />
+		
+		<!--consortiaBankView-->
+		<component classname="consortia.view.myConsortia.bank.ConsortiaBankView" stylename="consortia.myConsortiaView.ConsortiaBankView"
+			width="930" 	height="570" moveEnable="false" backStyle="core.bg006" closestyle="core.closebt" 	titleStyle="FrameTitleTextStyle"
+			titleOuterRectPosString="6,6,5" closeInnerRectString="44,6,3,30,14" moveInnerRectString="0,30,0,30,1"/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="consortia.ConsortiaBankView.leftBG"
+			resourceLink="consortiaBank.leftBG1,consortiaBank.leftBG2,consortiaBank.leftBG3,consortiaBank.leftBG4,consortiaBank.leftBG5,consortiaBank.leftBG6,consortiaBank.leftBG7,consortiaBank.leftBG8,consortiaBank.leftBG9" 
+			width="491" 	height="491" x="18" y="37" />
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.ConsortiaBankView.returnBtn"
+			backStyle="asset.consortia.consortiaBank.returnBtn" filterString="null,lightFilter,null,grayFilter" x="640" y="504"/>
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="consortia.bagTabAsset"
+			resourceLink="consortia.bag.equipTabAsset,consortia.bag.propTabAsset" x="345" y="9"/>
+			
+		<!--ChairChannelFrame-->
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.chairChannel.upGradeBtn"
+			backStyle="asset.chairChannel.upGradeBtn" filterString="null,lightFilter,null,grayFilter" x="16" y="22"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.chairChannel.transferConsortiaBtn"
+			backStyle="asset.chairChannel.transferConsortiaBtn" filterString="null,lightFilter,null,grayFilter" x="125" y="22"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.chairChannel.manifestoBtn"
+			backStyle="asset.chairChannel.manifestoBtn" filterString="null,lightFilter,null,grayFilter" x="16" y="75"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.chairChannel.poseManagerBtn"
+			backStyle="asset.chairChannel.poseManagerBtn" filterString="null,lightFilter,null,grayFilter" x="125" y="75"/>
+			
+		<!--MyConsortiaUpgrade-->
+		<component classname="consortia.view.myConsortia.MyConsortiaUpgrade" stylename="consortia.myConsortiaView.MyConsortiaUpgrade"
+			parentStyle="BaseFrame" width="608" height="300" moveEnable="false"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.MyConsortiaUpgrade.okBtn"
+			parentStyle="core.simplebt" x="110" y="258" />
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.MyConsortiaUpgrade.cancelBtn"
+			parentStyle="core.simplebt" x="400" y="258" />
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="consortia.MyConsortiaUpgrade.upGradeBtnSelected"
+			resourceLink="asset.MyConsortiaUpgrade.upGrade,asset.MyConsortiaUpgrade.light" />
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.MyConsortiaUpgrade.upGradeBtn"
+			unSelectedStyle="asset.MyConsortiaUpgrade.upGrade" selectedStyle="consortia.MyConsortiaUpgrade.upGradeBtnSelected"
+			x="42" y="39" displacement="false"/>
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="consortia.MyConsortiaUpgrade.storeBtnSelected"
+			resourceLink="asset.MyConsortiaUpgrade.storeIMG,asset.MyConsortiaUpgrade.light" />
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.MyConsortiaUpgrade.storeBtn"
+			unSelectedStyle="asset.MyConsortiaUpgrade.storeIMG" selectedStyle="consortia.MyConsortiaUpgrade.storeBtnSelected"
+			x="162" y="39" displacement="false"/>
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="consortia.MyConsortiaUpgrade.shopBtnSelected"
+			resourceLink="asset.MyConsortiaUpgrade.shopIMG,asset.MyConsortiaUpgrade.light" />
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.MyConsortiaUpgrade.shopBtn"
+			unSelectedStyle="asset.MyConsortiaUpgrade.shopIMG" 	selectedStyle="consortia.MyConsortiaUpgrade.shopBtnSelected"
+			x="282" y="39" displacement="false" />
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="consortia.MyConsortiaUpgrade.bankBtnSelected"
+			resourceLink="asset.MyConsortiaUpgrade.bankIMG,asset.MyConsortiaUpgrade.light" />
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.MyConsortiaUpgrade.bankBtn"
+			unSelectedStyle="asset.MyConsortiaUpgrade.bankIMG" selectedStyle="consortia.MyConsortiaUpgrade.bankBtnSelected"
+			x="402" y="39" displacement="false" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.upGradelevelTxt"
+			textFormatStyle="consortia.MyConsortiaUpgrade.level_text" 	filterString="consortia.MyConsortiaUpgrade.level_filter"
+			x="70" y="65" autoSize="none" width="25" height="24" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.storelevelTxt"
+			parentStyle="consortia.MyConsortiaUpgrade.upGradelevelTxt" x="190"	/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.shoplevelTxt"
+			parentStyle="consortia.MyConsortiaUpgrade.upGradelevelTxt" x="310" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.banklevelTxt"
+			parentStyle="consortia.MyConsortiaUpgrade.upGradelevelTxt"  x="430" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.explainTxt"
+			textFormatStyle="consortia.MyConsortiaUpgrade.explain_text" 	x="97" 	y="147" autoSize="none" width="417" height="21" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.nextLevel"
+			parentStyle="consortia.MyConsortiaUpgrade.explainTxt" 	y="168"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.appealTxt"
+			parentStyle="consortia.MyConsortiaUpgrade.explainTxt" y="189"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.consumeTxt"
+			parentStyle="consortia.MyConsortiaUpgrade.explainTxt" y="210"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaUpgrade.titleTxt"
+			textFormatStyle="consortia.MyConsortiaUpgrade.title_text" filterString="consortia.MyConsortiaUpgrade.title_filter"
+			x="220" y="123" autoSize="none" width="135" height="21" />
+		
+		<!--AlienationConsortiaFrame-->
+		<component classname="consortia.view.myConsortia.AlienationConsortiaFrame" stylename="consortia.AlienationConsortiaFrame"
+			parentStyle="BaseFrame" width="343" height="136" moveEnable="false"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.AlienationConsortiaFrame.okBtn"
+			parentStyle="core.simplebt" x="69" y="92" />
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.AlienationConsortiaFrame.cancelBtn"
+			parentStyle="core.simplebt" x="184" y="92" />
+		<component classname="com.pickgliss.ui.image.Image" stylename="consortia.AlienationConsortiaFrame.inputBG"
+			resourceLink="asset.consortia.myConsortiaView.TextBG" width="100" height="20" x="44" y="-47"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.AlienationConsortiaFrame.TextStyle"
+			textFormatStyle="consortia.AlienationConsortiaFrame_txt2" x="11" y="38" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.AlienationConsortiaFrame.TextStyleII"
+			textFormatStyle="consortia.AlienationConsortiaFrame_txt3" x="7" y="63" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="AlienationConsortiaFrame.inputTxt"
+			textFormatStyle="consortia.AlienationConsortiaFrame_txt1" wordWrap="false" multiline="false" autoSize="none"/>
+		<component classname="com.pickgliss.ui.controls.TextInput" stylename="consortia.AlienationConsortiaFrame.input"  
+			textStyle="AlienationConsortiaFrame.inputTxt"   x="172" y="37" width="100" height="24"/>
+			
+		<!--manifestoFrame-->
+		<component classname="consortia.view.myConsortia.MyConsortiaDeclarationFrame" stylename="consortia.manifestoFrame"
+			width="420" 	height="240" parentStyle="BaseFrame" moveEnable="false"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.manifesto.CancelBtn"
+			x='230' y='197' parentStyle="core.simplebt" />
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.manifesto.OKBtn"
+			parentStyle="core.simplebt" x='90' y='197' />
+			
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.manifestoInput" filterString="P_g1" textFormatStyle="consortia.manifestoInput_txt" wordWrap="true" type="input" mouseEnabled="true"/>
+		<component classname="com.pickgliss.ui.text.TextArea" stylename="consortia.myConsortiaView.manifesto.TextInput" 
+			textStyle="consortia.manifestoInput" parentStyle="core.SimpleTextArea" 
+			vScrollProxy='0'  x='10' 	y='33' width='400' 	height='155' 	backgoundInnerRectString="5,3,4,6,-1"/>
+		
+		<!--MyConsortiaRightsFrame-->
+		<component classname="consortia.view.myConsortia.MyConsortiaRightsFrame" stylename="consortia.poseManagerFrame"
+			width="335" 	height="320" parentStyle="BaseFrame" moveEnable="false"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.myConsortiaView.poseManagerCloseCloseBtn"
+			parentStyle="core.simplebt" x='130' y='278' />
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="asset.consortia.MyConsortiaJobItem.pmLVLInfoBg" x='225' y='60'
+			resourceLink="asset.consortia.MyConsortiaJobItem.pmLVLInfo1,asset.consortia.MyConsortiaJobItem.pmLVLInfo2,asset.consortia.MyConsortiaJobItem.pmLVLInfo3,asset.consortia.MyConsortiaJobItem.pmLVLInfo4,asset.consortia.MyConsortiaJobItem.pmLVLInfo4" />
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="consortia.MyConsortiaJobItem.ejiggerBtn"
+			resourceLink="asset.consortia.MyConsortiaJobItem.comfirmBtn,asset.consortia.MyConsortiaJobItem.changeBtn" x="108" y="9"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.MyConsortiaJobItemTxt"  autoSize="none" 
+			textFormatStyle="consortia.poseManagerText_txt"	filterString="consortia.poseManagerFilter1" width="98" height="24" x="9" y="7" />
+</components>
+<customDisplay>
+		<custom classname="consortia.view.myConsortia.shop.ConsortiaShopList" stylename="consortia.myConsortiaView.ConsortiaShopList" 	x="106" y="77"/>
+		<custom classname="flash.geom.Point" stylename="asset.consortia.ConsortiaShop.baseCellPos" x="11" 	y="10"/>
+		<custom classname="ddt.view.common.LevelIcon" stylename="consortia.MyConsortiaAuditingApplyList.item.levelIcon" x="165" y="2"/>
+		<custom classname="consortia.view.myConsortia.bank.ConsortiaBankBagView" stylename="consortia.ConsortiaBankBagView" x="512" y="34"/>
+		<custom classname="flash.geom.Point" stylename="consortia.ConsortiaBankListView.pos" x="-481" y="20"/>
+		<custom classname="consortia.view.myConsortia.ChairChannelFrame" stylename="consortia.ChairChannelFrame" x="270" y="440"/>
+		<custom classname="consortia.view.myConsortia.MyConsortiaJobsList" stylename="consortia.MyConsortiaJobsList" x="11" y="50"/>
+		<custom classname="flash.geom.Point" stylename="consortia.ConsortiaBankListView.listPos" x="13" y="51"/>
+</customDisplay>
+<bitmaps>
+		<bitmapData resourceLink="asset.consortia.ConsortiaShop.CoinBG" x="38" y="41"/>
+		<bitmapData resourceLink="asset.consortia.ConsortiaShop.offerBG" x="410" y="40"/>
+		<bitmapData resourceLink="asset.consortia.ConsortiaShop.shopBottomWord" x="86" y="510"/>
+		<bitmapData resourceLink="asset.consortia.ExitConsortiaFrame.word" x="114" y="57" />
+		<bitmapData resourceLink="asset.consortia.AuditingApply.nameTitle" x="19" y="46" 	/>
+		<bitmapData resourceLink="asset.consortia.AuditingApply.operate" x="301" y="46"/>
+		<bitmapData resourceLink="asset.consortia.AuditingApply.refuseApplyWord" x="20" y="-8" />
+		<bitmapData resourceLink="asset.consortia.AuditingApply.PageTurnBG" x="360" y="380" />
+		<bitmapData resourceLink="asset.consortia.consortiaBank.titleImg" x="113" y="6" />
+		<bitmapData resourceLink="asset.consortia.consortiaBank.BG" x="-5" y="3" />
+		<bitmapData resourceLink="asset.consortia.consortiaBank.title" x="10" y="23" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.light" x="-6" y="-7" /> 
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.BG" x="16" y="119" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.explainWord" x="33" y="142" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.nextLevelWord" x="33" y="163" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.require" x="33" y="184" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.consume" x="33" y="205" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.levelWord" x="36" y="93" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.storeWord" x="156" y="93" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.shopWord" x="276" y="93" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.bankWord" x="396" y="93" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.nothing" x="522" y="39" />
+		<bitmapData resourceLink="asset.MyConsortiaUpgrade.nothingWord" x="519" y="97" />
+		<bitmapData resourceLink="asset.consortia.poseManager" x="10" y="30" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.poseManagerBlackBg" y='7' x='7'/>
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.poseManagerItemLight" y='0' x='0' height='35'/>
+</bitmaps>
+</style>

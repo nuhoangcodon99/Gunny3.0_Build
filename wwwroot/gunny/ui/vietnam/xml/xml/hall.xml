@@ -1,0 +1,47 @@
+<style name="hall" version="1.0.1" source="ui/vietnam/swf/hall.swf">
+<sets>
+</sets>
+<components>
+	<!--作战实验室-->
+	<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="hall.battleSrollPanel"
+		parentStyle="core.ScrollPanel"  
+		width='515' height='370'  vUnitIncrement="5"
+	/>
+	<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="hall.hotSpringAlertPanel"
+		parentStyle="core.ScrollPanel"  
+		width='515' height='370'  vUnitIncrement="5"
+		x="9" y="10"
+	/>
+	<component classname="com.pickgliss.ui.controls.Frame" stylename="hall.battleFrame"
+		backStyle="SimpleFrameBackgound" closestyle="core.closebt" closeInnerRectString="44,6,3,30,14" 
+		titleStyle="FrameTitleTextStyle" titleOuterRectPosString="6,6,5" 
+		containerX="20"	containerY="40" 
+		width="548" height="468" 
+		escEnable='true' 
+	/>
+	<component classname="com.pickgliss.ui.controls.TextButton" stylename="hall.battleBtn"
+		parentStyle='core.simplebt'
+		x='220' y='386' 
+	/>
+	<component classname="com.pickgliss.ui.controls.TextButton" stylename="hall.hotSpringBtn"
+		parentStyle='core.simplebt'
+		x='220' y='394' 
+	/>
+	
+	<!--保存文件-->
+	<component classname="com.pickgliss.ui.controls.BaseButton" stylename="saveFile.okBtn" backStyle="asset.hallSaveFile.okBtn" x="307" y="374" filterString="null,lightFilter,lightFilter,grayFilter"/>
+	<component classname="hall.SaveFileWidow" backStyle="core.bg006" stylename="hall.SaveFileWidow"  closestyle="core.closebt"  titleStyle="FrameTitleTextStyle" titleOuterRectPosString="6,6,5" closeInnerRectString="44,6,3,30,14" width="702" height="439"/>
+	<component classname="com.pickgliss.ui.image.Image" stylename="hall.womenNPC" resourceLink="asset.trainer.welcome.npc" x="400" y="-42"/>
+	<component classname="hotSpring.view.HotSpringAlertFrame" backStyle="SimpleFrameBackgound" stylename="hall.hotSpringAlertFrame" closestyle="core.closebt" titleStyle="FrameTitleTextStyle" titleOuterRectPosString="6,6,5" containerX="10" containerY="31" width="548" height="468" closeInnerRectString="44,6,3,30,14" moveInnerRectString="0,30,0,30,1"/>
+	
+</components>
+<bitmaps>
+	<!--低图背景1~2-->
+	
+	
+	<!--保存文件-->
+	<bitmapData resourceLink="asset.hallSaveFile.noviceBG" x="66" y="52"/>
+
+	
+</bitmaps>
+</style>

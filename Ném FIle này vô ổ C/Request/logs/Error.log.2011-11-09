@@ -1,0 +1,156 @@
+2011-11-09 22:39:14,014 - [18] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:39:15,619 - [10] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:40:29,575 - [18] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:40:29,679 - [10] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:48:29,805 - [10] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:48:29,855 - [16] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:53:23,979 - [10] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: O objeto de comunicação, System.ServiceModel.Channels.ServiceChannel, não pode ser usado para comunicação porque está no estado Com Falha.
+
+Server stack trace: 
+   em System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em Tank.Request.ServerList.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\ServerList.ashx.cs:linha 49
+2011-11-09 22:53:24,542 - [18] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: O objeto de comunicação, System.ServiceModel.Channels.ServiceChannel, não pode ser usado para comunicação porque está no estado Com Falha.
+
+Server stack trace: 
+   em System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em Tank.Request.ServerList.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\ServerList.ashx.cs:linha 49
+2011-11-09 22:55:21,074 - [14] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:55:21,274 - [17] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:56:37,828 - [18] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:56:37,994 - [10] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:57:40,283 - [16] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:57:40,419 - [10] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:57:59,059 - [13] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: O objeto de comunicação, System.ServiceModel.Channels.ServiceChannel, não pode ser usado para comunicação porque está no estado Com Falha.
+
+Server stack trace: 
+   em System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em Tank.Request.ServerList.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\ServerList.ashx.cs:linha 49
+2011-11-09 22:57:59,271 - [14] - ERROR - Tank.Request.ServerList - Load server list error:
+System.ServiceModel.CommunicationObjectFaultedException: O objeto de comunicação, System.ServiceModel.Channels.ServiceChannel, não pode ser usado para comunicação porque está no estado Com Falha.
+
+Server stack trace: 
+   em System.ServiceModel.Channels.CommunicationObject.Close(TimeSpan timeout)
+
+Exception rethrown at [0]: 
+   em System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   em System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   em System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em System.ServiceModel.ClientBase`1.System.ServiceModel.ICommunicationObject.Close(TimeSpan timeout)
+   em Tank.Request.ServerList.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\ServerList.ashx.cs:linha 49
+2011-11-09 22:58:48,099 - [10] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:58:48,258 - [14] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 22:59:49,040 - [18] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 22:59:49,817 - [10] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33
+2011-11-09 23:03:20,484 - [17] - ERROR - Tank.Request.IMListLoad - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.IMListLoad.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\IMListLoad.ashx.cs:linha 33
+2011-11-09 23:03:20,736 - [14] - ERROR - Tank.Request.AdvanceQuestTime - IMListLoad
+System.ArgumentNullException: Valor não pode ser nulo.
+Nome do parâmetro: String
+   em System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   em System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   em Tank.Request.AdvanceQuestTime.ProcessRequest(HttpContext context) na E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Tank.Request\AdvanceQuestTime.ashx.cs:linha 33

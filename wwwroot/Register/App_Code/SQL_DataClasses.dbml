@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Db_Membership" Class="SQL_DataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=GUNNY-C7686D3C2\SQLEXPRESS;Initial Catalog=Db_Membership;Persist Security Info=True;User ID=sa" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="Db_MembershipConnectionString" Provider="System.Data.SqlClient" />
+  <Function Name="dbo.st_add_Account" Method="st_add_Account">
+    <Parameter Name="Username" Parameter="username" Type="System.String" DbType="VarChar(32)" />
+    <Parameter Name="Password" Parameter="password" Type="System.String" DbType="VarChar(200)" />
+    <Parameter Name="Email" Parameter="email" Type="System.String" DbType="VarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.st_Changepassword" Method="st_Changepassword">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <Parameter Name="password" Type="System.String" DbType="NVarChar(200)" />
+    <Parameter Name="new_password" Type="System.String" DbType="NVarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.st_GetUserInfo" Method="st_GetUserInfo">
+    <Parameter Name="id" Type="System.Int32" DbType="Int" />
+    <ElementType Name="st_GetUserInfoResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="NChar(32)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+      <Column Name="Fullname" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NChar(250)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.st_Login" Method="st_Login">
+    <Parameter Name="username" Type="System.String" DbType="NVarChar(32)" />
+    <Parameter Name="password" Type="System.String" DbType="NVarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+  <Function Name="dbo.st_GetUserName" Method="st_GetUserName">
+    <Parameter Name="Username" Parameter="username" Type="System.String" DbType="VarChar(32)" />
+    <ElementType Name="st_GetUserNameResult">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Username" Type="System.String" DbType="NChar(32)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NChar(200)" CanBeNull="true" />
+      <Column Name="Fullname" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NChar(250)" CanBeNull="true" />
+    </ElementType>
+  </Function>
+  <Function Name="dbo.st_Forgotpassword" Method="st_Forgotpassword">
+    <Parameter Name="email" Type="System.String" DbType="NVarChar(200)" />
+    <Parameter Name="UserName" Parameter="userName" Type="System.String" DbType="NVarChar(32)" />
+    <Parameter Name="new_password" Type="System.String" DbType="NVarChar(200)" />
+    <Return Type="System.Int32" />
+  </Function>
+</Database>

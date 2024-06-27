@@ -1,0 +1,52 @@
+<style name="trainer" version="1.0.1" source="ui/vietnam/swf/oldTrainer.swf">
+	<sets>
+		<set stylename="trainer.welcome.nicknameTF" args="Arial,22,0x006600,true" type="flash.text.TextFormat" />
+		<set stylename="trainer.welcome.nicknameGF" args="0xFFFFFF,1,5,5,20,1" type="flash.filters.GlowFilter" />
+	</sets>
+	
+	<customDisplay>
+		<custom classname="trainer.view.QuestionItemView" stylename="trainer.question.questionItemView" width="377" height="37"/>
+		<custom classname="asset.trainer.question.Dot" stylename="trainer.question.dot" scaleX="-1" rotation="-20" x="3" y="45"/>
+	</customDisplay>
+	
+	<customs>
+		<custom classname="flash.geom.Rectangle" stylename="trainer.welcome.npc" width="120" height="175" x="361" y="142"/>
+		<custom classname="flash.geom.Rectangle" stylename="trainer.guide.npc" width="96" height="140" x="258" y="-3"/>
+		
+	</customs>
+	
+	<components>
+		<!--Frame-->
+		<component classname="trainer.view.oldTrainerView.OldWelcomeView" stylename="trainer.welcome.oldMainFrame" moveEnable="false" closestyle="null" parentStyle="BaseFrame" containerX="10" containerY="30" width="500" height="369"/>
+		<component classname="trainer.view.QuestionView" stylename="trainer.question.mainFrame" moveEnable="false" closestyle="null" backStyle="core.bg006" parentStyle="BaseFrame" containerX="10" containerY="30" width="430" height="392" x="290" y="103"/>
+		<component classname="trainer.view.oldTrainerView.UserGuideView" stylename="trainer.guide.mainFrame" moveEnable="false" closestyle="null" backStyle="core.bg006" parentStyle="BaseFrame" containerX="10" containerY="30" width="366" height="184"/>
+		<component classname="quest.QuestRewardCell" stylename="trainer.question.rewardCell" x="112" y="269"/>
+		
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="trainer.welcome.nickname" textFormatStyle="trainer.welcome.nicknameTF" 
+			filterString="trainer.welcome.nicknameGF" x="12" y="65" />
+
+		<component classname="trainer.view.GhostTipFrame"
+		stylename="GhostTip" backStyle="SimpleFrameBackgound"
+		parentStyle="BaseFrame"
+		moveEnable="false" escEnable ="false" 
+		titleStyle="FrameTitleTextStyle"
+		titleOuterRectPosString="6,6,5"
+		width ="555" height="200"/>
+	</components>
+	
+	<bitmaps>
+		<bitmapData resourceLink="asset.trainer.Welcome.Background"  y="4"/>
+		
+		<bitmapData resourceLink="asset.trainer.question.transparentBg" width="274" height="57" x="-290" y="21"/>
+		<bitmapData resourceLink="asset.trainer.question.answer" x="-275" y="23"/>
+		<bitmapData resourceLink="asset.trainer.question.npc" width="87" height="77" x="305" y="5"/>
+		<bitmapData resourceLink="asset.trainer.question.sel" width="377" height="37" x="2" y="2"/>
+		
+		<bitmapData resourceLink="asset.trainer.guide.newHand"  x="-1" y="-24"/>
+		<bitmapData resourceLink="asset.trainer.guide.guide"  x="2" y="15"/>
+		<bitmapData resourceLink="asset.trainer.guide.bg" width="349" height="45" x="-1" y="101"/>
+		<bitmapData resourceLink="asset.trainer.ghostTip" 
+			width="555" height="140" x="5" y="25"/>
+		
+	</bitmaps>
+</style>

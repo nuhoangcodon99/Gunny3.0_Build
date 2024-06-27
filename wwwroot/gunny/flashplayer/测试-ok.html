@@ -1,0 +1,65 @@
+<html>
+<head id="Head1"><title>
+	弹弹堂
+</title>
+<script type="text/jscript">
+     function killErrors() //杀掉所有的出错信息
+  { 
+	return true; 
+  } 
+  window.onerror = killErrors; 
+</script>
+<script type="text/javascript">
+<!--
+var allowLeave = false;
+	function setAllowLeave(setvalue)
+	{ 
+             allowLeave=setvalue;
+	}
+	window.onbeforeunload = function()
+    {
+
+           if(allowLeave==false)
+           {
+        	window.event.returnValue = '当前操作将退出弹弹堂游戏，是否继续？';
+           }
+    }
+
+// -->
+</script>
+<script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<style>
+body{
+	margin:0px auto;
+	padding:0px;
+	background-image:url(images/bg.jpg);
+}
+</style>
+</head>
+<body scroll="no">
+<table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="middle"><table border="0" align="center" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="center">  
+    <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0','width','550','height','400','src','111','quality','high','pluginspage','http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash','movie','Loading.swf?user=12206438&key=24379029965986&v=0' ); //end AC code
+</script>
+	<noscript>
+    <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" name="Main" width="1008" height="608" align="middle" id="Main">
+      <param name="movie" value='Loading.swf?user=12206438&key=24379029965986&v=0' />
+      <param name="allowScriptAccess" value="always" />
+      <param name="quality" value="high" />
+      <param name="menu" value="false">
+      <param name="bgcolor" value="#000000" />
+      <embed src='Loading.swf?user=12206438&key=24379029965986&v=0' width="1008" height="608" align="middle" quality="high" name="Main" allowScriptAccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+    </object>
+    </noscript>
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<Script language="javascript" src="http://192.168.0.4:828/default.aspx?App_Id=1"></Script>
+</body>
+</html>

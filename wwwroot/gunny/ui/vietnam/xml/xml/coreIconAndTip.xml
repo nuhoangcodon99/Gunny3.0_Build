@@ -1,0 +1,61 @@
+﻿<style name="coreIconAndTip" version="1.0.1" source="ui/vietnam/swf/coreIconAndTip.swf">
+	<sets>
+
+	</sets>
+	<customDisplay>
+		
+	</customDisplay>
+		
+	<components>
+		<!--成就点图标-->
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage"
+			stylename="effortView.AchievementPointView.numBG"
+			resourceLink="asset.Effort.1,asset.Effort.2,asset.Effort.3,asset.Effort.4,asset.Effort.5,,,,,asset.Effort.0"
+			x="0" y="0"/>
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="tipPanel.band" resourceLink="asset.core.tip.Band1,asset.core.tip.Band2" x="40" y="90"/>
+	</components>
+
+	<bitmaps>
+		<bitmapData resourceLink="asset.core.focusTipAsset" x="431" y="231"/>
+		
+		<!-- 续费 -->
+		<bitmapData resourceLink="bagAndInfo.AddPrice.Labe" x="41" y="95"/>
+		
+		<!--buff图标-->
+		<bitmapData resourceLink="asset.core.doubleExpAsset" width="26" height="30"/>
+		<bitmapData resourceLink="asset.core.doubleGesteAsset" width="26" height="30"/>
+		<bitmapData resourceLink="asset.core.pvtKickAsset" width="26" height="30"/>
+		<bitmapData resourceLink="asset.core.freeAsset" width="26" height="30"/>
+		
+		<bitmapData resourceLink="asset.core.bufftip.Day" x="26" y="30"/>
+		<bitmapData resourceLink="asset.core.bufftip.Hour" x="40" y="30"/>
+		<bitmapData resourceLink="asset.core.bufftip.Min" x="60" y="30"/>
+		
+		<!--工会等级图片-->
+		<bitmapData resourceLink="asset.core.consortiaTip.LevelPic" x="5" y="13"/>
+		<bitmapData resourceLink="asset.core.consortiaTip.StatePic" x="4" y="44"/>
+		<bitmapData resourceLink="asset.core.consortiaTip.ReputePic" x="5" y="77"/>
+		
+		<!-- 公会图标tip -->
+		<bitmapData resourceLink="asset.core.guildLevelAsset" x="5" y="13"/>
+		<bitmapData resourceLink="asset.core.guildStateAsset" x="5" y="43"/>
+		
+		<!-- ReaponseInvite Start -->
+		<bitmapData resourceLink="invite.response.background_response_title" x="9" y="32" />
+		
+		<!--LevelTipRes-->
+		<bitmapData resourceLink="asset.core.leveltip.WinRateBg" y="-4"/>
+		<bitmapData resourceLink="asset.core.leveltip.ReputeBg" x="-87" y="1"/>
+		<bitmapData resourceLink="asset.core.leveltip.BattleBg" y="-6"/>
+		<bitmapData resourceLink="asset.core.leveltip.LevelTipLv" x="4" y="4"/>
+		<bitmapData resourceLink="asset.core.leveltip.ExploitBg" x="2" y="-9"/>
+		
+		<!--GoodsTip Res-->
+		<bitmapData resourceLink="asset.core.tip.Band1" x="190" y="-10"/>
+		<bitmapData resourceLink="asset.core.tip.Band2" x="190" y="-10"/>
+		<bitmapData resourceLink="asset.core.tip.ColorPiece" x="38" y="-1"/>
+		<bitmapData resourceLink="asset.core.tip.GoodsTipItemRecover" x="2"/>
+		<bitmapData resourceLink="asset.core.tip.GoodsTipItemRecover1" x="2"/>
+		<bitmapData resourceLink="asset.core.tip.GoodsType" y="-1"/>
+	</bitmaps>
+</style>

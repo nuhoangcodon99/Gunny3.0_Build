@@ -1,0 +1,1790 @@
+00:00:37,910 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:02:03,910 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:02:15,769 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:03:25,050 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:04:25,769 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:05:25,753 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:06:39,910 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:07:41,675 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:08:03,910 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:08:34,910 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:09:36,910 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:10:34,910 - [19] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:11:36,925 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:12:36,863 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:12:36,863 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:13:28,191 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:14:29,019 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:15:46,910 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:16:09,332 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:16:38,910 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:17:20,300 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:18:34,519 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:19:34,675 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:21:08,910 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:22:08,910 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:22:22,425 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:23:33,300 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:24:34,894 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:25:34,410 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:26:35,191 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:27:42,910 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:28:35,675 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:29:57,191 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:30:07,191 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:30:07,925 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:30:56,925 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:31:38,191 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:32:38,363 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:33:38,082 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:34:41,425 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:36:04,691 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:36:14,691 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+00:36:14,941 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:36:48,285 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:37:42,285 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:38:48,941 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:39:43,832 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:40:45,753 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:41:46,207 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:42:47,035 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:43:52,957 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:44:52,050 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:45:48,394 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:46:48,597 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:47:58,988 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:48:01,660 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+00:48:57,988 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:49:59,707 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:50:57,300 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:51:51,582 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:52:58,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:53:58,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:54:51,238 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:55:51,394 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:56:51,675 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:57:52,566 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:58:52,191 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+00:59:53,238 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:00:54,300 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:01:54,894 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:03:01,988 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:04:04,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:05:06,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:05:57,191 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:06:58,285 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:07:58,425 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:08:59,222 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:09:59,972 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:11:06,988 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:11:10,082 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:11:50,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:12:14,988 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:13:08,988 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:13:10,988 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:14:04,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:15:13,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:16:13,300 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:16:16,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:16:23,300 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:17:18,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:18:18,988 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:18:28,988 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:18:18,988 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:19:22,988 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:19:30,988 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:20:13,988 - [32] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:21:16,363 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:22:07,378 - [34] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:23:15,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:23:26,988 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:24:03,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:24:17,378 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:25:18,925 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:26:16,988 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:26:18,988 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:26:21,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:27:21,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:27:24,988 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:27:58,988 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:28:24,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:28:25,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:28:50,988 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:29:14,988 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:29:32,988 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:29:50,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:29:55,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:30:22,988 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:31:07,644 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:32:07,613 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:33:17,300 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:33:18,988 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:34:07,878 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:35:20,988 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:36:14,738 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:37:13,988 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:38:14,722 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:38:59,988 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:40:28,238 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:40:38,253 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:40:41,988 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:41:11,238 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:42:45,050 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:43:13,253 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:43:14,191 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:43:30,597 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:44:37,988 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:45:15,988 - [22] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:46:22,988 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:47:36,753 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:47:46,769 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:47:58,988 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:48:19,988 - [39] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+01:48:21,910 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:48:21,910 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+01:49:17,113 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:50:17,035 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:51:17,113 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:52:12,707 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:53:31,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:54:25,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:55:17,957 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:55:37,957 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+01:55:48,988 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:56:20,988 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:57:17,144 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:58:41,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+01:59:17,957 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:00:18,160 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:01:18,253 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:02:21,378 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:03:19,691 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:04:19,332 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:05:20,519 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:06:21,175 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:07:27,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:08:27,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:09:22,972 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:10:23,707 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+02:10:29,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:11:24,488 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:12:24,941 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:13:24,832 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:14:26,550 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:15:35,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:16:35,207 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:17:28,128 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:18:30,550 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:19:29,957 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:20:31,410 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:21:32,175 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:22:32,753 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:23:45,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:25:04,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:26:13,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:27:13,988 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:28:21,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:29:17,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:30:13,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:30:33,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:32:09,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:32:33,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:33:57,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:34:33,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:35:49,988 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:36:41,988 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:37:27,972 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:39:01,988 - [35] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:39:37,988 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:41:16,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:41:31,253 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:42:41,503 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:43:50,003 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:44:56,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:45:44,332 - [28] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:45:52,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+02:46:58,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:47:58,988 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:48:01,878 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+02:48:44,332 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:48:54,332 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+02:49:58,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:50:45,832 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:52:10,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:52:46,878 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:54:19,941 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:54:38,800 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:56:00,363 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:57:12,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:58:04,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+02:59:24,628 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:00:10,988 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:01:29,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:01:42,925 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:02:58,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:04:12,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:04:19,988 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:04:57,988 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:05:18,988 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:05:50,988 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:05:55,988 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:06:55,238 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:07:14,488 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:07:55,285 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:09:00,988 - [39] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:09:56,910 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:10:57,644 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:11:58,144 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:12:59,988 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:14:05,988 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:15:06,003 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:16:39,800 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:16:43,988 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:17:01,566 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:18:02,941 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:19:02,800 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:20:03,847 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:21:03,847 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:21:07,894 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:22:03,863 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:23:03,910 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:24:03,894 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:25:03,894 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:26:12,988 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:27:03,894 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:28:03,910 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:29:03,894 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:30:11,988 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:31:04,175 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:31:05,175 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:31:14,191 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:32:04,566 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:33:05,097 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:34:13,988 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:35:06,503 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:36:06,503 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:37:06,519 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:38:06,519 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:39:06,519 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+03:39:06,519 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:40:06,519 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:41:16,003 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:42:06,878 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:43:07,785 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:44:08,285 - [15] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:45:08,222 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:46:07,738 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:47:10,519 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:48:11,566 - [42] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:48:12,003 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+03:48:23,003 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+03:49:08,238 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:50:08,378 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:51:08,378 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:52:08,378 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:53:08,394 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:54:23,003 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:55:12,378 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:56:18,003 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:57:18,003 - [8] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:58:17,003 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+03:59:17,472 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:00:19,269 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:00:29,269 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:00:35,003 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:01:08,003 - [25] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:02:19,628 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:03:19,003 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:04:20,941 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:05:21,285 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:05:31,285 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:05:41,003 - [39] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:06:18,003 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:07:21,003 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:08:21,003 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:09:22,019 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:10:27,003 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:11:21,003 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:12:21,003 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:12:22,316 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:13:03,003 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:14:22,144 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:15:28,003 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:16:20,003 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:16:33,003 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:17:32,003 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:18:01,003 - [19] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:18:02,488 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:19:03,410 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:20:21,003 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:21:27,019 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:21:51,003 - [19] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:22:20,425 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:23:25,535 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:24:26,722 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:24:36,003 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:25:26,722 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:26:22,003 - [38] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:27:25,894 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:28:25,003 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:28:26,738 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:29:31,003 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:30:26,722 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:31:31,207 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:32:16,722 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:33:24,003 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:34:33,785 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:34:34,503 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:35:25,003 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:36:29,128 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:37:20,160 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:38:29,003 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:38:30,191 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:39:40,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:39:43,003 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:39:55,003 - [20] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:40:38,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:40:39,003 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:41:02,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:41:38,003 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:42:25,003 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:43:11,847 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:44:21,457 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:45:23,128 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:46:40,660 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:46:50,660 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:47:12,003 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:47:43,003 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:47:52,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:48:12,300 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+04:48:14,457 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:49:24,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:50:25,269 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:51:53,222 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:52:00,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:52:26,847 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:53:27,816 - [29] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:54:28,425 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:55:28,816 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+04:55:33,707 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:56:30,316 - [29] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:57:32,878 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:58:30,269 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:59:26,863 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+05:00:31,597 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+05:00:49,003 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+05:01:38,003 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+05:02:32,144 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+05:03:32,207 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do 20:30:38,203 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+2011-12-22 21:30:55,968 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+2011-12-22 21:30:57,968 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+22:30:56,078 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+23:30:52,171 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+23:30:55,171 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)

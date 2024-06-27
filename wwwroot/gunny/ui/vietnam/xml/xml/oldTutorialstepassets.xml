@@ -1,0 +1,92 @@
+<style name="tutorialstepassets" version="1.0.1" source="ui/vietnam/swf/oldTutorialstepassets.swf">
+	<customs>
+		<custom classname="flash.geom.Point" stylename="turorialstep.posIknow1" x="405" y="190"/>
+		<custom classname="flash.geom.Point" stylename="turorialstep.posIknow2" x="402" y="206"/>
+	</customs>
+
+	<customDisplay>
+		<custom classname="asset.tutorialstep.IknowLight" stylename="turorialstep.mcIknow" width="114" height="44"/>
+	</customDisplay>
+
+	<components>
+
+		<custom classname="flash.display.MovieClip" stylename="asset.turorialstep.MasksMC"/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="asset.turorialstep.Note" 
+		resourceLink="asset.tutorialstep.backLT,asset.tutorialstep.backTC,asset.tutorialstep.backRT,asset.tutorialstep.backLC,asset.tutorialstep.backCC,asset.tutorialstep.backRC,asset.tutorialstep.backLB,asset.tutorialstep.backBC,asset.tutorialstep.backRB"/>
+		
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="turorialstep.btnIknow" backStyle="asset.tutorialstep.iknow" width="116" height="45"/>
+		
+	</components>
+	
+	<bitmaps>	
+	
+		<!-- TutorialStep -->		
+		<bitmapData resourceLink="asset.tutorialstep.text_a44"
+			x="207" y="47"/>
+		<bitmapData resourceLink="asset.tutorialstep.text_a45"
+			x="537" y="103" />
+		<bitmapData resourceLink="asset.tutorialstep.text_a57"
+			x="534" y="424" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s11" 
+			x="447" y="357" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s12" 
+			x="348" y="240" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s13" 
+			x="274" y="223" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s14" 
+			x="801" y="197" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s28" 
+			x="138" y="56" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s31" 
+			x="595" y="367" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s33" 
+			x="700" y="60" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s34" 
+			x="320" y="211" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s35" 
+			x="558" y="160" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s36" 
+			x="230" y="325" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s37" 
+			x="144" y="401" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s38" 
+			x="345" y="350" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s39"
+			x="690" y="411" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s40" 
+			x="509" y="414" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s41" 
+			x="170" y="443" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s42"
+			x="700" y="60" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s43" 
+			x="516" y="282" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s44" 
+			x="187" y="34" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s45" 
+			x="340" y="144" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s46" 
+			x="260" y="300" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s47" 
+			x="645" y="160" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s50" 
+			x="509" y="414" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s51" 
+			x="118" y="407" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s52" 
+			x="700" y="60" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s53" 
+			x="623" y="435" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s54" 
+			x="475" y="338" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s55" 
+			x="167" y="344" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s56" 
+			x="668" y="343" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s57" 
+			x="248" y="202" />
+		<bitmapData resourceLink="asset.tutorialstep.text_s61" 
+			x="668" y="351" />
+			
+	</bitmaps>
+</style>

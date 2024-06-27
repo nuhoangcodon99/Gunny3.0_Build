@@ -1,0 +1,134 @@
+﻿<style name="weekly" version="1.0.1" source="ui/vietnam/swf/weekly.swf">
+	<sets>
+		<set stylename="weekly.LinkBtnsTxtFilter" args="0x996348,1,3,3,10" type="flash.filters.GlowFilter"/>
+		
+		<set stylename="weekly.NormalTF" args="Arial,13,0x650202,bold" type="flash.text.TextFormat"/>
+		<set stylename="weekly.LinkBtnsTF" args="Arial,12,0xffffff" type="flash.text.TextFormat"/>
+		
+		<set stylename="weekly.ContentTitlePageInfoTF" args="Arial,20,0x650202,bold" type="flash.text.TextFormat"/>
+	</sets>
+	<customDisplay>
+		<!-- Views -->
+		<custom classname="weekly.view.WeeklyDateView" stylename="weekly.DateView" x="15" y="0"/>
+		<custom classname="weekly.view.WeeklySmallPicsView" stylename="weekly.SmallPicView" x="21" y="90"/>
+		<custom classname="weekly.view.WeeklyMenuView" stylename="weekly.MenuView" x="21" y="255"/>
+		<custom classname="weekly.view.WeeklyBigPicView" stylename="weekly.BigPicView" x="251" y="260"/>
+		<custom classname="weekly.view.WeeklyContentTitleView" stylename="weekly.ContentTitleView" x="15" y="40"/>
+		<custom classname="weekly.view.WeeklyPageGuildView" stylename="weekly.PageGuildView" x="158" y="502"/>
+		<custom classname="asset.weekly.PicLoading" stylename="weekly.PicLoading"/>
+		<custom classname="asset.weekly.Egg" stylename="weekly.Egg" x="675" y="373"/>
+		
+		<custom classname="flash.geom.Point" stylename="weekly.DateViewCurrentDateTextPos" x="538" y="30"/>
+		<custom classname="flash.geom.Point" stylename="weekly.DateViewNextEditionDateTextPos" x="538" y="50"/>
+		<custom classname="flash.geom.Point" stylename="weekly.DateViewCurrentEditionTextPos" x="698" y="30"/>
+		
+		<custom classname="flash.geom.Point" stylename="weekly.ContentRightPageTextPos" x="660" y="-10"/>
+		<custom classname="flash.geom.Point" stylename="weekly.ContentBigPicPos" x="35" y="65"/>
+		
+		<custom classname="flash.geom.Point" stylename="weekly.BigPicLoadingMcPos" x="244" y="75"/>
+		<custom classname="flash.geom.Point" stylename="weekly.SmallPicLoadingMcPos" x="93" y="34"/>
+		<custom classname="flash.geom.Point" stylename="weekly.ContentPicLoadingMcPos" x="351" y="177"/>
+		
+		<custom classname="flash.geom.Point" stylename="weekly.DailyGuildArrowPos" x="70" y="39"/>
+		<custom classname="flash.geom.Point" stylename="weekly.PagePointTipOffset" x="52" y="50"/>
+		
+	</customDisplay>
+	<components>
+		
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="weekly.NormalText" textFormatStyle="weekly.NormalTF"/>
+		
+		<!-- WeeklyPreviewFrame  -->
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.WeeklyBtn" backStyle="asset.weekly.WeeklyBtnBg" x="750" y="22"/>
+		<component classname="weekly.view.WeeklyPreviewFrame"  stylename="weekly.PreviewFrame"  parentStyle="BaseFrame" containerX="20" containerY="40" width="570" height="470"/>
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="weekly.PreviewScroll" parentStyle="core.ScrollPanel" width="530" height="370"/>
+	
+		<!-- WeeklyDailyFrame  -->
+		<component classname="weekly.element.WeeklyDailyFrame"  stylename="weekly.DailyFrame" parentStyle="BaseFrame" containerX="20" containerY="40" width="230" height="180"/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage"  stylename="weekly.DailyFrameGoodsBg" parentStyle="bossbox.scale9GoodsImage" x="-1" y="6" width="183" height="78"/>
+		
+		<!-- WeeklyMagazineView -->
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.CloseBtn" backStyle="asset.weekly.CloseBtn" x="775" y="5"/>
+		
+		<!-- WeeklyDateView -->
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.DailyBtn" backStyle="asset.weekly.DailyBtn" x="0" y="22" useLogID="148" />
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.ActivityBtn" backStyle="asset.weekly.ActivityBtn" x="110" y="22" />
+
+		<!-- WeeklySmallPicsView -->
+		<component classname="com.pickgliss.ui.controls.container.HBox" stylename="weekly.SmallPicContainer"/>
+		
+		<!-- WeeklyMenuView -->
+		<component classname="com.pickgliss.ui.controls.container.VBox" stylename="weekly.MenuContainer" x="8" y="7" spacing="2"/>
+		
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="weekly.MenuButtonOver_1" resourceLink="asset.weekly.MenuButton_1,asset.weekly.MenuButton_Over" />
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="weekly.MenuButtonBg_1" resourceLink="asset.weekly.MenuButton_1,weekly.MenuButtonOver_1,weekly.MenuButtonOver_1,asset.weekly.MenuButton_Over"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.MenuButton_1" backStyle="weekly.MenuButtonBg_1" useLogID="141"/>
+
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="weekly.MenuButtonOver_2" resourceLink="asset.weekly.MenuButton_2,asset.weekly.MenuButton_Over" />
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="weekly.MenuButtonBg_2" resourceLink="asset.weekly.MenuButton_2,weekly.MenuButtonOver_2,weekly.MenuButtonOver_2,asset.weekly.MenuButton_Over"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.MenuButton_2" backStyle="weekly.MenuButtonBg_2" useLogID="142"/>
+		
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="weekly.MenuButtonOver_3" resourceLink="asset.weekly.MenuButton_3,asset.weekly.MenuButton_Over" />
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="weekly.MenuButtonBg_3" resourceLink="asset.weekly.MenuButton_3,weekly.MenuButtonOver_3,weekly.MenuButtonOver_3,asset.weekly.MenuButton_Over"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.MenuButton_3" backStyle="weekly.MenuButtonBg_3" useLogID="143"/>
+		
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="weekly.MenuButtonOver_4" resourceLink="asset.weekly.MenuButton_4,asset.weekly.MenuButton_Over" />
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="weekly.MenuButtonBg_4" resourceLink="asset.weekly.MenuButton_4,weekly.MenuButtonOver_4,weekly.MenuButtonOver_4,asset.weekly.MenuButton_Over"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.MenuButton_4" backStyle="weekly.MenuButtonBg_4" useLogID="144"/>
+				
+		<!-- WeeklyBigPicView -->
+		<component classname="com.pickgliss.ui.controls.container.HBox" stylename="weekly.BigPicsSwitchBtnContainer" x="360" y="185" spacing="10"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="weekly.SwitchBtn_1" selectedStyle="asset.weekly.SwitchBtn_1b" unSelectedStyle="asset.weekly.SwitchBtn_1a" filterString="null,lightFilter,null,grayFilter"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="weekly.SwitchBtn_2" selectedStyle="asset.weekly.SwitchBtn_2b" unSelectedStyle="asset.weekly.SwitchBtn_2a" filterString="null,lightFilter,null,grayFilter"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="weekly.SwitchBtn_3" selectedStyle="asset.weekly.SwitchBtn_3b" unSelectedStyle="asset.weekly.SwitchBtn_3a" filterString="null,lightFilter,null,grayFilter"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="weekly.SwitchBtn_4" selectedStyle="asset.weekly.SwitchBtn_4b" unSelectedStyle="asset.weekly.SwitchBtn_4a" filterString="null,lightFilter,null,grayFilter"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="weekly.SwitchBtn_5" selectedStyle="asset.weekly.SwitchBtn_5b" unSelectedStyle="asset.weekly.SwitchBtn_5a" filterString="null,lightFilter,null,grayFilter"/>
+	
+		<!-- WeeklyContentView -->
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.MainBtn" backStyle="asset.weekly.MainBtn" x="35" y="22"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.PreBtn" backStyle="asset.weekly.PrePagebtn" x="15" y="485" useLogID="146"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="weekly.NextBtn" backStyle="asset.weekly.NextPagebtn" x="680" y="485" useLogID="147"/>
+		
+		<!-- WeeklyContentTitleView -->
+		
+		<!-- WeeklyLinkEditor -->
+		<component classname="weekly.element.WeeklyLinkEditor"  stylename="weekly.LinkEditorFrame"  parentStyle="BaseFrame" width="340" height="260"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="weekly.LinkBtnsText" textFormatStyle="weekly.LinkBtnsTF" filterString="weekly.LinkBtnsTxtFilter" type="dynamic"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="weekly.LinkBtn" textStyle="weekly.LinkBtnsText" backStyle="asset.weekly.LinkBtnBg" backgoundInnerRectString="8,8,4,4,-1" filterString="null,lightFilter,null,grayFilter" x="-2"/>
+		<component classname="com.pickgliss.ui.controls.container.HBox" stylename="weekly.LinkContainer" x="20" y="40" spacing="30"/>
+		<component classname="com.pickgliss.ui.controls.container.VBox" stylename="weekly.LinkBtnContainer" spacing="5"/>
+	</components>
+	
+	<customLanguage>
+		<custom stylename="ok" value="O K"/>
+		<custom stylename="cancel" value="Hủy bỏ"/>
+		<custom stylename="close" value="Đóng"/>
+		<custom stylename="weekly.magazineTitle" value="Bản tin Gunny"/>
+		<custom stylename="weekly.CurrentDateText" value="Năm {0}tháng{1}ngày{2}"/>
+		<custom stylename="weekly.NextEditionDateText" value="Bản tin kế ra mắt:Năm {0}tháng{1}ngày{2}"/>
+		<custom stylename="weekly.CurrentEditionText" value="Kỳ thứ {0}"/>
+		<custom stylename="weekly.CategoryName_0" value="Tin hot"/>
+		<custom stylename="weekly.CategoryName_1" value="Event"/>
+		<custom stylename="weekly.CategoryName_2" value="Tin nhanh"/>
+		<custom stylename="weekly.CategoryName_3" value="Truyện tranh"/>
+		<custom stylename="weekly.Editor" value="Biên tập: {0}"/>
+		<custom stylename="weekly.LinkTo" value="Liên kết:"/>
+		<custom stylename="weekly.Category" value="Mục {0}"/>
+		<custom stylename="weekly.Page" value="Trang {0}"/>
+		<custom stylename="weekly.LoadInfoErrorMsg" value="Tải bản tin thất bại"/>
+		<custom stylename="weekly.CreateXMLDoc" value="Tạo ra file XML"/>
+		<custom stylename="weekly.UploadFiles" value="Tải lên"/>
+		<custom stylename="weekly.NoFileCanBeUpload" value="Hiện không có file cần tải lên"/>
+		<custom stylename="weekly.InfoNotSeyYet" value="Thông tin không đầy đủ, không thể tạo file XML"/>
+		<custom stylename="weekly.DailyFrameTitle" value="Nhận mỗi ngày" />
+		<custom stylename="weekly.DailyInstruction1" value="Thẻ x2 EXP*60 phút"/>
+		<custom stylename="weekly.DailyInstruction2" value="Bách bảo rương bất ngờ*1"/>
+	</customLanguage>
+	
+	<bitmaps>
+		<bitmapData resourceLink="asset.weekly.Bg" x="-22" y="-7"/>
+		<bitmapData resourceLink="asset.weekly.Title" x="246" y="10"/>
+		<bitmapData resourceLink="asset.weekly.DailyGoodInfo" x="16" y="20"/>
+		<bitmapData resourceLink="asset.weekly.PageGuildLine" x="5" y="5"/>
+		<bitmapData resourceLink="asset.weekly.PageGuildZoomBg"/>
+	</bitmaps>
+</style>

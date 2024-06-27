@@ -1,0 +1,2335 @@
+﻿TemplateID	Name
+-300	lễ kim
+-200	xu
+-100	vàng
+1101	
+1102	Hip hop Tím
+1103	Nón lông cừu
+1104	Siberia
+1105	Thượng Hải xưa
+1106	Phù thuỷ teen
+1107	Nón hồng tâm
+1108	Nón len
+1109	Vòng thiên sứ
+1110	Nón kỷ niệm
+1111	Nón tròn model
+1112	Nón ác quỷ
+1113	Cao bồi Texas
+1114	Gấu Po béo ú
+1115	Nón kiểu Hàn
+1116	Bẫy côn trùng
+1117	Nón da dê
+1119	Nón thùng sắt
+1120	Hallowen
+1121	Nón chấm sao
+1122	Nón phớt
+1123	Nón kết hồng
+1124	Nón thời trang
+1125	Nón bảo hiểm
+1126	Nón quý tộc
+1127	Tuyết rơi
+1128	Nhiếp ảnh gia
+1129	Nón đế giày
+1130	Nón gấu xinh
+1131	Nhóc mèo
+1132	Ụm bò
+1133	Rô bốt
+1134	Nón đan
+1135	Nón cao bồi
+1136	Khăn quyết tâm
+1137	Hiphop
+1138	Khăn buộc
+1139	Kẹo ngọt
+1140	Mơ ước
+1141	Thùy mị
+1142	Nón lưới
+1143	Dê mập
+1144	Nón khỉ
+1145	Đầu khỉ
+1146	Thảo Mã
+1147	Thổ dân
+1148	Mickey
+1149	Bùa hộ thân
+1150	Mãn đầu lạnh
+1163	Trái cây
+1164	Nón bảo hiểm
+1165	Nón hồng
+1166	Nón Bola Bala
+1167	Ảnh đế
+1168	Đội viên
+1169	Ván chót
+1170	Hàng rong
+1171	Nón tai bèo
+1172	Kiếng mát
+1173	Nón MJ
+1174	Nón Lạc Việt
+1175	Nón sinh nhật
+1178	Nón Quan Công
+1181	Nón Gia Cát Lương
+1182	Kính đường trường
+1185	Phù thủy kim xà
+1186	Nón SNSD
+1189	Thượng Úy
+1191	Nón nhân sâm
+1194	Cá Nemo
+1195	Tai sói
+1196	Chiếc sừng Minotaure
+1197	Chấp cánh ước mơ
+1198	Parkour
+1199	Nón lá
+1201	Mặc định
+1202	Hiphop Tím
+1203	Nón lông cừu
+1204	Siberia
+1205	Thượng Hải
+1206	Phù thuỷ teen
+1208	Nón len
+1209	Vòng thiên sứ
+1210	Kẹp tóc cam
+1211	Lông vũ trắng
+1212	Kẹp tai thỏ
+1213	Tai thỏ
+1214	Nón bươm bướm
+1215	Nón kiểu Hàn
+1216	Nón tròn model
+1217	Nón ác quỷ
+1218	Cao bồi Texas
+1219	Gấu Po béo ú
+1220	Blue
+1221	Bẫy côn trùng
+1222	Nón da dê
+1223	Nón thùng sắt
+1224	Hallowen
+1225	Nón chấm sao
+1226	Nón phớt
+1227	Nón kết hồng
+1228	Nón thời trang
+1229	Nón bảo hiểm
+1230	Nón quý tộc
+1231	Tuyết rơi
+1232	Kẹp bướm
+1233	Nón đế giày
+1234	Nón gấu xinh
+1235	Nhóc mèo
+1236	Ụm bò
+1237	Rô bốt
+1238	Nón đan
+1239	Kẹp bướm
+1240	Nón cao bồi
+1241	Khăn quyết tâm
+1242	Hiphop
+1243	Khăn buộc
+1244	Sao nhỏ
+1245	Dễ thương
+1246	Bướm hồng
+1247	Hoa cưới
+1248	Kẹo ngọt
+1249	Mơ ước
+1250	Thùy mị
+1251	Nón lưới
+1252	Dê mập
+1253	Nón khỉ
+1254	Đầu khỉ
+1255	Thảo Mã
+1256	Y tá nhỏ
+1257	Mickey
+1258	Thổ dân
+1259	Bùa hộ thân
+1260	Mãn đầu lạnh
+1263	Trái cây
+1264	Nón bảo hiểm
+1265	Nón hồng
+1266	Nón Bola Bala
+1267	Ảnh hậu
+1268	Đội viên
+1269	Ván chót
+1270	Hàng rong
+1271	Nón tai bèo
+1272	Kiếng mát
+1273	Nón MJ
+1274	Nón Lạc Việt
+1275	Nón sinh nhật
+1277	Nón nơ hồng
+1279	Ruy băng sắc màu
+1280	Nơ hồng
+1282	Kính đường trường
+1283	Hoa cài
+1285	Phù thủy kim xà
+1286	Nón SNSD
+1287	Romayn
+1288	Nón kết hoa
+1289	Thượng Úy
+1290	Nữ vương pha lê
+1291	Nón nhân sâm
+1292	Tiểu Hoàng Phi
+1293	Người hầu gái
+1294	Cá Nemo
+1295	Tai sói
+1296	Chiếc sừng Minotaure
+1297	Nón Arale
+1298	Parkour
+1299	Nón lá
+1301	Mũ Học Viên
+1303	Mã não óng ánh
+1305	Nón lông vũ đỏ
+1306	Búi tóc
+1307	Nón chống rét
+1308	Nón lính chì
+1310	Nón Thái nam 1
+1311	Nón Thái nam 2
+1312	Mặt nạ Anbu
+1313	Tổ chim
+1314	Mũ Giáo viên
+1315	Đầu lân
+1316	Nón Goblin
+1317	Nón quỷ
+1324	Mũ Gà
+1325	Gà nhí
+1326	Nón lá Boss Gà
+1328	Sinh nhật 2 tuổi
+1400	Băng-đô Lolita
+1401	Mũ Học Viên
+1402	Nón đỏ
+1403	Mã não óng ánh
+1404	Bảo vệ tai
+1406	Búi tóc
+1407	Nón chống rét
+1408	Nón lính chì
+1409	Nón tai thỏ
+1410	Nón Thái nữ 1
+1411	Nón Thái nữ 2
+1412	Mặt nạ Anbu
+1413	Tổ chim
+1414	Mũ Giáo viên
+1415	Đầu lân
+1416	Nón Goblin
+1417	Nón quỷ
+1424	Mũ Gà
+1425	Gà nhí
+1426	Nón lá Boss Gà
+1428	Sinh nhật 2 tuổi
+2101	Mặc định
+2102	Kính Hacker
+2103	Kính quân dụng
+2104	Mặt nạ báo
+2105	Kính gọng thép
+2106	Kính màu trà
+2108	Kính Radar
+2109	Kính Laser
+2110	Kính tròn
+2111	Kính Xayda
+2112	Kính trái tim
+2113	Kính sọc ngang
+2114	Kính Angel
+2115	Kính Batman
+2116	Kính thể thao
+2117	Kính râm
+2118	Kính tròn
+2119	Eye-I
+2120	Mặt trời
+2121	Trí tuệ-I
+2122	Gợi cảm
+2123	Eye-II
+2124	Kính choáng
+2125	Kính mát
+2126	Trí tuệ-II
+2127	Hải tặc dễ thương
+2128	Tương lai
+2129	Ảo ảnh
+2131	Mặt nạ Tà Thần
+2132	Mắt tiền
+2133	Khăn che vui vẻ
+2134	Khăn che màu hồng
+2135	Phong cách hoàng gia
+2136	Mắt kính màu trà
+2137	Gấu một mắt
+2138	Kính lặn
+2139	Kính 4 tròng
+2140	Quốc bảo
+2141	Nắng sân trường
+2142	Mèo bông
+2143	Carnival
+2146	Vải băng
+2147	Viền đen
+2148	Viền đen
+2149	Kiếng đồng hồ
+2150	Cảnh giới đỏ
+2201	Mặc định
+2202	Kính Hacker
+2203	Kính quân dụng
+2204	Mặt nạ báo
+2205	Kính gọng thép
+2206	Kính màu trà
+2207	Mặt nạ vũ hội
+2208	Kính Radar
+2209	Kính Laser
+2210	Kính tròn
+2211	Kính Xayda
+2212	Kính trái tim
+2213	Kính sọc ngang
+2214	Kính Angel
+2215	Kính Batman
+2216	Kính thể thao
+2217	Kính râm
+2218	Kính tròn
+2219	Eye-I
+2220	Mặt trời
+2221	Trí tuệ-I
+2222	Gợi cảm
+2223	Eye-II
+2224	Kính choáng
+2225	Kính mát
+2226	Trí tuệ-II
+2227	Hải tặc dễ thương
+2228	Tương lai
+2229	Ảo ảnh
+2231	Mặt nạ Tà Thần
+2232	Mắt tiền
+2233	Khăn che vui vẻ
+2234	Khăn che màu hồng
+2235	Phong cách hoàng gia
+2236	Mắt kính màu trà
+2237	Gấu một mắt
+2238	Kính lặn
+2239	Kính 4 tròng
+2240	Quốc bảo
+2241	Nắng sân trường
+2242	Mèo bông
+2243	Carnival
+2246	Vải băng
+2247	Kính 3D
+2248	Viền đen
+2249	Kiếng đồng hồ
+2250	Cảnh giới đỏ
+3101	Kiểu tân binh
+3102	Mái xéo
+3103	Công tử đa tình
+3104	Kinh điển
+3105	Trẻ trung
+3106	Điển trai
+3107	Đầu trọc
+3108	La Mã
+3109	Kiểu Teen
+3110	Kiểu râu bắp
+3111	Năng động
+3112	Tóc so le ngắn
+3113	Phong độ
+3114	Anh hàng xóm
+3115	Beethoven
+3116	Nhiệt huyết
+3117	Tóc ngắn
+3118	Tóc suông
+3119	Dâng trào
+3120	Kẻ thật thà
+3121	Tự nhiên
+3122	Học sinh giỏi
+3123	Quá đẹp!
+3124	Chú bé ngoan
+3125	Đầu đinh
+3126	Bum bê
+3127	Phục cổ
+3128	Bobo
+3129	Chiến quốc
+3130	Tóc đỏ
+3131	Phong độ
+3132	Ma lực
+3133	Thảm hoa
+3134	Thông minh
+3135	Tâm huyết
+3136	Lạnh lùng
+3137	Tiểu Bát Thần
+3138	Tiểu Mao
+3139	B.S.B
+3140	Tóc xoăn
+3141	Tự nhiên 2
+3142	Bùng nổ
+3143	Kiếm sĩ tóc bạc
+3144	Oai phong
+3145	Đầu máy bay
+3146	Hoạt bát
+3147	Hộ vệ
+3148	Địa Trung Hải
+3149	Kíp nổ
+3150	Hợp thời trang
+3151	Táo bạo
+3152	StreetLife
+3153	Từng trải
+3156	Xoắn tự nhiên
+3157	Sáng ngời
+3158	Otaku
+3159	Bát xéo
+3160	Giận dữ
+3161	Monsavon
+3162	Huyền bí
+3163	Bốc lửa
+3164	Tóc xoắn
+3165	Kool boy
+3166	Quả táo
+3167	Tóc  che mặt
+3168	Bồng bềnh
+3169	Phi Luân Khải
+3170	Hiệp sĩ trẻ
+3201	Tân binh
+3202	Đuôi ngựa
+3203	Công chúa
+3204	Chun-li
+3205	Nét cổ điển
+3206	Thảo nguyên
+3207	Phong cách Ý
+3208	Nhí nhảnh
+3209	Medusa
+3210	Mỹ nhân
+3211	Đáng yêu
+3212	Logic
+3213	Trẻ trung
+3214	Tóc xoăn
+3215	Nhu mì
+3216	Cô láng giềng
+3217	Thanh xuân
+3218	Búp bê
+3219	Kiều diễm
+3220	Mạnh mẽ
+3221	Mát mẻ
+3222	Tôi yêu biển
+3223	Tóc mai
+3224	Nhẹ nhàng
+3225	Bạn học
+3226	Thiếu nữ
+3227	Phục cổ
+3228	Ngọt ngào
+3229	Kẹo hồ lô
+3230	Hot girl
+3231	Happy Baby
+3232	Nữ thần
+3233	Công chúa
+3234	Lãng mạng
+3235	Tí hon
+3236	Tình đầu
+3237	Vivian
+3238	Tâm tình
+3239	Đường mật
+3240	Nữ hĩep
+3241	Kẹp gấu trúc
+3242	Mộng hoàng kim
+3243	Con gái nhà võ
+3244	Tình Paris
+3245	Công chúa rừng xanh
+3246	Sặc sỡ
+3247	Sport girl
+3248	Tóc lolita
+3249	Mọi thời đại
+3250	Tóc dài ơi!
+3251	Phù thủy nhỏ
+3252	S-girl
+3253	Bọ hung
+3254	OfficeLady
+3255	Cô gái điện từ
+3258	Xoắn socola
+3259	Tóc xoắn búp bê
+3260	Minh tinh
+3261	Tóc búi tròn
+3262	Tự tin
+3263	Giai nhân
+3264	Dám nói dám làm
+3265	Tóc kẹp nơ
+3266	BOBO
+3267	Tóc tím dễ thương
+3268	Tóc mây
+3269	Hoang dã
+3270	Mái ngố
+3271	Trái tim hồng
+3272	Màu đỏ trà
+3273	Tóc ai cập
+3274	Thảm cỏ xanh
+3275	Thục nữ
+4101	Mặc định
+4102	Phong cách
+4103	Thiên nhiên
+4104	Thánh giá
+4105	Ngôi sao
+4106	Dấu son
+4107	Hình thoi
+4108	Thẹn thùng
+4109	Phá phách
+4110	Nghịch ngợm
+4111	Sẹo mắt
+4112	Sẹo mặt
+4113	Dấu ấn
+4114	Rừng thiêng
+4115	Nóng bỏng
+4116	Gấu trúc
+4117	Tròn trịa
+4118	Sao biển
+4119	Trăng khuyết
+4120	Bông tuyết
+4121	Trân châu
+4122	Chiếc lá
+4123	Bút sáp
+4124	Giọt nước
+4125	Bông tai hồng
+4126	Hoa mai
+4127	Mùa xuân
+4128	Mặt mèo
+4129	Hoa văn lửa
+4130	Khẩu trang
+4131	Bập bồng
+4132	Phong tình
+4133	Dũng sĩ nửa thú
+4134	Hululu
+4135	Tĩnh lặng　
+4136	Thành Cát Tư Hãn
+4137	Mèo nhỏ
+4138	Khẩu trang MT
+4139	Búp bê yêu thương
+4140	Nam tử hán
+4141	Thái Dương Ngư
+4142	Kẹo trái cây
+4143	ashman
+4144	Tươi vui
+4145	Đạo nhân
+4146	Tẩu thuốc
+4147	Nhất Tiễn Mai
+4148	Nhân gian nhạc gia
+4149	Sức mạnh của gấu
+4150	Tổng đài viên
+4151	Dấu môi son
+4152	Dấu ấn Ai Cập
+4153	Môi ớt cây
+4154	Bông tai kỳ bí
+4164	Chíp chíp
+4201	Mặc định
+4202	Phong cách
+4203	Thiên nhiên
+4204	E thẹn
+4205	Thánh giá
+4206	Ngôi sao
+4207	Dấu son
+4208	Hình thoi
+4209	Thẹn thùng
+4210	Phá phách
+4211	Nghịch ngợm
+4212	Sẹo mắt
+4213	Sẹo mặt
+4214	Dấu ấn
+4215	Rừng thiêng
+4216	Nóng bỏng
+4217	Gấu trúc
+4218	Tròn trịa
+4219	Sao biển
+4220	Trăng khuyết
+4221	Bông tuyết
+4222	Trân châu
+4223	Chiếc lá
+4224	Bút sáp
+4225	Giọt nước
+4226	Hồng bảo thạch
+4227	Hoa mai
+4228	Mùa xuân
+4229	Mặt mèo
+4230	Hoa văn lửa
+4231	Khẩu trang
+4232	Bập bồng
+4233	Phong tình
+4234	Dũng sĩ nửa thú
+4235	Hululu
+4236	Tĩnh lặng　
+4237	Thành Cát Tư Hãn
+4238	Mèo nhỏ
+4239	Khẩu trang MT
+4240	Búp bê yêu thương
+4241	cô gái ngỗ ngược
+4242	Thái Dương Ngư
+4243	Kẹo trái cây
+4244	ashman
+4245	Tươi vui
+4246	Đạo nhân
+4247	Tẩu thuốc
+4248	Nhất Tiễn Mai
+4249	Nhân gian nhạc gia
+4250	Sức mạnh của gấu
+4251	Tổng đài viên
+4252	Dấu môi son
+4253	Dấu ấn Ai Cập
+4254	Môi ớt cây
+4255	Bông tai kỳ bí
+4265	Chíp chíp
+5101	Lính mới
+5102	Thể thao
+5103	Hip-hop
+5104	Phong trần
+5105	Taekwondo
+5106	Sành điệu
+5107	Hỏa diệm sơn
+5108	Nghệ sỹ
+5109	Pha trộn
+5110	Nhẹ nhàng
+5111	Cướp biển
+5112	Thong dong
+5113	Lạnh lùng
+5114	Thám tử
+5115	Kín đáo
+5116	Võ sỹ
+5117	Tu thân
+5118	Dạo phố
+5119	Nghiêm trang
+5120	Thủy thủ
+5121	Binh lính
+5122	Tâm trạng tốt
+5123	Xuất chúng
+5124	Thể thao
+5125	Tay súng nhỏ
+5126	Xuống phố
+5127	Cos Siêu Nhân
+5128	Học sinh ngoan
+5129	Bé xinh
+5130	Angel Memories
+5131	Trái tim ấm áp
+5132	Áo gấu
+5133	Cái bang
+5134	Tự tại
+5135	Musical
+5136	Relax
+5137	Bão táp xanh
+5138	Chơi hết mình
+5139	Quyền lực
+5140	Thiếu gia
+5141	Hoàng bào
+5142	Áo Thảo Mã
+5143	Ma-bư
+5144	Tản bộ
+5145	Quán quân bóng nước
+5146	Street Boy
+5147	Trượt băng
+5148	Tã lót tím
+5150	Áo giáp hoàng đế
+5151	Hướng dẫn viên
+5152	Thanh niên tình nguyện
+5153	Siêu nhân Gunny（nam）
+5155	Áo Lạc Việt
+5156	Cơn thịnh nộ Sulan
+5157	Ngôi sao lung linh
+5158	Chiến bào Quan Công
+5159	Gia Cát chi bào
+5160	Chàng hip-hop
+5161	Chàng lang thang
+5162	Parkour
+5163	Áo nhân sâm
+5164	Phản ngịch
+5165	Cao bồi miền Tây
+5166	Kỵ sĩ thần thú
+5167	Chiến xa
+5168	Tỏ tình guitar
+5169	Thời thượng
+5170	Yêu Pet
+5171	Áo đầu lâu
+5172	Chu du
+5173	Chàng hàng xóm
+5174	Kidswant
+5175	Áo giáp Minotaure
+5176	Thuyền trưởng móc sắt
+5177	Trinh thám trong đêm
+5178	Chiến sĩ dũng cảm
+5179	Che chở
+5180	Tay đua ngựa
+5181	Khôi ngô tuấn tú
+5182	Bác sĩ
+5184	Dạ Miêu
+5185	Octopus
+5187	Phiêu bạt
+5188	Người giàu có
+5189	Nhà thám hiểm
+5190	Vua Karaoke
+5191	Ngự xà
+5192	Đồng phục học viên
+5193	Ảo thuật bài
+5195	Sắc màu
+5196	Phán quan
+5197	Lộc giáp
+5198	Kín đáo
+5199	Áo dài Nam
+5201	Lính mới
+5202	Lễ phục
+5203	Nắng xuân
+5204	Ngọn lửa
+5205	Dễ thương
+5206	Hello Hawaii
+5207	Thiếu nữ
+5208	Tinh nghịch
+5209	Đồng phục
+5210	Ánh dương
+5211	Đơn giản
+5212	Hẹn ước
+5213	Dạo bước
+5214	Bé ngoan
+5215	Mộng mơ
+5216	Váy dạ hội
+5217	Võ sỹ
+5218	Tự do
+5219	Trào lưu mới
+5220	Váy caro
+5221	Khiêu vũ
+5222	Thể thao
+5223	Lễ phục
+5224	Cởi mở
+5225	Lam quý phái
+5226	Siêu phàm
+5227	Khái niệm mới
+5228	Cà phê sữa
+5229	let's dance
+5230	Thanh xuân
+5231	Siêu nhân
+5232	Cô bé dâu tây
+5233	China doll
+5234	Áo gấu
+5235	Áo hở rún
+5236	Đồng phục
+5237	Mode
+5238	Tâm tình
+5239	Bồng bềnh
+5240	Áo Thảo Mã
+5241	Panda
+5242	Lolita
+5243	Kỷ niệm trường học
+5244	Phút nhàn rỗi
+5245	Gió nhiệt đới
+5246	Phục vụ
+5247	Sức xuân
+5248	Váy pháo hoa
+5250	Áo khoác hoàng đế
+5251	Áo bà ba
+5252	Thanh niên tình nguyện
+5253	Siêu nhân Gunny（Nữ）
+5254	Áo Lạc Việt
+5255	Bảo vệ rừng xanh
+5256	Công chúa váy ngắn
+5257	Ngôi sao lung linh
+5258	Áo bơi màu hồng
+5259	Áo dân tộc
+5260	Kem dâu
+5261	Mùa hè
+5262	Trẻ trung
+5263	Bước nhảy
+5264	Kỉ niệm trường học
+5265	Thanh xuân
+5266	Mỹ nhân
+5267	Cá tính
+5268	Giai nhân
+5269	Nhí nhảnh
+5270	Áo nhân sâm
+5271	Gấu nhỏ
+5272	Cổ động viên
+5273	Nữ vương Gunny
+5274	Lolita
+5275	Thiên nga Ballet
+5276	Yêu cuồng nhiệt
+5277	Ngọt ngào
+5278	Tiểu ma tiên
+5279	Thư thả
+5280	Nữ hiệp
+5281	Tay đua ngựa
+5282	Miêu Cơ
+5283	Nữ vương băng giá
+5284	Váy hoa và gấu pooh
+5285	Nữ cảnh sát mèo đen
+5286	Áo Arale
+5287	Octopus
+5288	Cung đình
+5289	Công chúa lai
+5290	Nữ vương săn bắn
+5291	Nữ vương sô-cô-la
+5292	Bạch tuyết
+5293	Đồng phục học viên
+5295	Đồ nhung trắng
+5296	Bà già noel
+5297	Áo vui vẻ
+5298	Lãng mãn trẻ thơ
+5299	Áo dài Nữ
+5300	Cheerleader
+5301	Vua sàn nhảy
+5302	Áo bóng chày
+5303	Đại gia
+5304	Anti Trojan
+5305	Thiên vương
+5306	Đồng phục giáo viên
+5307	Kỵ sĩ rồng
+5308	Áo Lân
+5317	Áo Gà Choai
+5400	Đặc công
+5401	Melinda
+5402	Đẹp rạng rỡ
+5403	Thỏ con
+5404	Ngôi sao
+5405	Độc bá
+5406	Sấm sét
+5407	Áo ca sĩ
+5408	Áo trẻ em
+5409	Đồng phục giáo viên
+5410	Áo may mắn
+5411	Nữ đạo sĩ
+5422	Áo Gà Điệu
+6101	Thế hệ mới
+6102	Trung thực
+6103	Kiên cường
+6104	Trầm tư
+6105	Lương thiện
+6106	Tự tin
+6107	Buồn rầu
+6108	Ngầu
+6109	Ngây thơ
+6110	Đau thương
+6111	Lạc lõng
+6112	Thần sắc
+6113	Mắt to
+6114	Bông tai
+6115	Thư thái
+6116	Cương trực
+6117	Thư giãn
+6118	Nham hiểm
+6119	Vui vẻ
+6120	Lý Quỳ
+6121	Quen biết
+6122	Đau mắt hột
+6123	Giả vờ
+6124	Xuất thần
+6125	Đắc ý
+6126	Nanh cọp con
+6127	Nói mớ
+6128	Nhẫn nhịn
+6129	Chua ngọt
+6130	Thức đêm
+6131	Hớn hở
+6132	Đạm định đế
+6133	Mắt tinh khôi
+6134	Nộ khí xung thiên
+6135	Mắt xanh
+6136	Manly
+6201	Thế hệ mới
+6202	Lãng mạn
+6203	Chất phác
+6204	Tình ý
+6205	Long lanh
+6206	Thuần khiết
+6207	Khó chịu
+6208	Lanh lợi
+6209	Bất mãn
+6210	Búp bê
+6211	Vết thương
+6212	Cười mĩm
+6213	Nước ròng
+6214	Nhíu mày
+6215	Nhu mì
+6216	Nghiêm túc
+6217	Cười mĩm
+6218	Kiên cường
+6219	Buồn ngủ
+6220	Nổi giận
+6221	Trong suốt
+6222	Tỏ tình
+6223	Chói lọi
+6224	Miệng mèo
+6225	Tâm trạng tốt
+6226	Hùng biện
+6227	Nói mớ
+6228	Lạc Thiên Phái
+6229	poket
+6230	Máy phát điện
+6231	Trí lực hội tụ
+6232	Cà tím
+6233	Mê ly
+6234	Xảo quyệt
+6235	Chí tình
+6236	Tinh ranh
+6237	Mắt tím
+6238	Mi gió
+7001	Búa phá đá
+7002	Tên nỏ
+7003	AK-48
+7005	Súng Hoàng Kim
+7006	VIP-Pháo
+7007	VIP-Lựu đạn
+7008	VIP-Phi tiêu
+7009	VIP-Sấm sét
+7010	VIP-Lu gạch
+7011	VIP_ GIỎ ĐỒ
+7012	VIP-Tủ thuốc
+7013	VIP-Túi vũ khí
+7014	Vip TV, tủ lạnh
+7015	WOW-Pháo
+7016	WOW-Lựu đạn
+7017	WOW-Phi tiêu
+7018	WOW-Sấm sét
+7019	Wow Lu gạch
+7020	Wow GIỎ ĐỒ
+7021	Wow Tủ thuốc
+7022	Wow Túi vũ khí
+7023	Wow TV, tủ lạnh
+7024	VIP-Boomerang
+7025	弓
+7026	Vip-Thương cổ
+7027	VIP·Búa Minotaure
+7028	Dụng cụ học tập
+7101	Búa đồng
+7102	Cung đồng
+7103	Pháo
+7104	Lựu đạn
+7105	Phi tiêu
+7106	Sấm sét
+7107	Lu sành sứ
+7108	Giỏ trái cây
+7109	Dao phẫu thuật
+7110	Cái bô
+7111	Điện gia dụng
+7201	Búa vàng
+7202	Nỏ vàng
+8001	Mặc định
+8002	Chúc phúc
+8003	Tinh xảo
+8004	Ác ma
+8005	Lắc xương thú
+8006	Vĩnh cửu
+8007	Lắc vàng Huyền Vũ
+8008	Lắc Thanh Long
+8009	Lắc vàng Bạch Hổ
+8010	Vòng tăng tấn công
+8011	Vòng tăng phòng thủ
+8012	Vòng nhanh nhẹn
+8013	Vòng tăng may mắn
+8014	Bao tay Venus
+8102	Chúc phúc+1
+8103	Tinh xảo+1
+8104	Ác ma+1
+8106	Vĩnh cửu+1
+8114	Bao tay Venus +1
+8202	Chúc phúc+2
+8203	Tinh xảo+2
+8204	Ác ma+2
+8206	Vĩnh cửu+2
+8214	Bao tay Venus +2
+8302	Chúc phúc+3
+8303	Tinh xảo+3
+8304	Ác ma+3
+8306	Vĩnh cửu+3
+8314	Bao tay Venus +3
+8402	Chúc phúc+4
+8403	Tinh xảo+4
+8404	Ác ma+4
+8406	Vĩnh cửu+4
+8414	Bao tay Venus +4
+8502	Chúc phúc+5
+8503	Tinh xảo+5
+8504	Ác ma+5
+8506	Vĩnh cửu+5
+8514	Bao tay Venus +5
+9001	Mặc định
+9002	Thiên Vũ
+9003	Cỏ bốn lá
+9004	Mã não
+9005	Lam hải
+9006	Nhẫn chữ P
+9007	Nhẫn thép
+9008	Nhẫn sắc bén
+9009	Nhẫn chúc phúc
+9010	Nhẫn Chu Tước
+9011	Nhẫn Huyền Vũ
+9012	Nhẫn Thanh Long
+9013	Nhẫn Bạch Hổ
+9014	Nhẫn tấn công
+9015	Nhẫn phòng thủ
+9016	Nhẫn nhanh nhẹn
+9017	Nhẫn may mắn
+9018	Cuồng công kích
+9019	Đỉnh phòng ngự
+9020	Siêu nhanh nhẹn
+9021	Cực may mắn
+9022	Vật định tình
+9023	Nhẫn vĩnh cửu
+9024	Lãng mạn
+9025	Hạnh phúc
+9102	Thiên Vũ+1
+9103	Cỏ bốn lá+1
+9105	Lam hải+1
+9106	Nhẫn chữ P+1
+9122	Vật định tình+1
+9123	Vĩnh cửu +1
+9124	Lãng mạn +1
+9125	Hạnh phúc +1
+9202	Thiên Vũ+2
+9203	Cỏ bốn lá+2
+9205	Lam hải+2
+9206	Nhẫn chữ P+2
+9222	Vật định tình+2
+9223	Vĩnh cửu +2
+9224	Lãng mạn +2
+9225	Hạnh phúc +2
+9302	Thiên Vũ+3
+9303	Cỏ bốn lá+3
+9305	Lam hải+3
+9306	Nhẫn chữ P+3
+9322	Vật định tình+3
+9323	Vĩnh cửu +3
+9324	Lãng mạn +3
+9325	Hạnh phúc +3
+9402	Thiên Vũ+4
+9403	Cỏ bốn lá+4
+9405	Lam hải+4
+9406	Nhẫn chữ P+4
+9422	Vật định tình+4
+9423	Vĩnh cửu +4
+9424	Lãng mạn +4
+9425	Hạnh phúc +4
+9502	Thiên Vũ+5
+9503	Cỏ bốn lá+5
+9505	Lam hải+5
+9506	Nhẫn chữ P+5
+9522	Vật định tình+5
+9523	Vĩnh cửu +5
+9524	Lãng mạn +5
+9525	Hạnh phúc +5
+10001	Tấn công +2
+10002	Tấn công +1
+10003	Súng 3 tia
+10004	Sát thương +50%
+10005	Sát thương +40%
+10006	Sát thương +30%
+10007	Sát thương +20%
+10008	Sát thương +10%
+10009	Hồi máu nhóm
+10010	Ẩn thân
+10011	Ẩn nhóm
+10012	Hồi máu
+10013	Đổi gió
+10015	Đạn băng
+10016	Chuyển đến
+10017	Dẫn đường
+10018	Kích nộ
+10019	Sát thương +5%
+10020	Áo giáp
+10021	Miễn kháng
+10022	Nguyên tử
+10023	bánh trung thu
+10024	POW
+10025	Bay
+10060	Set hoàng kim-Lựu đạn
+10061	Set hoàng kim-Pháo
+10062	Set hoàng kim-lu gạch
+10063	Set hoàng kim-Tủ thuốc
+10064	Set hoàng kim-Phi tiêu
+10065	Set hoàng kim-Sấm sét
+10066	Set hoàng kim-Giỏ trái cây
+10067	Set hoàng kim-Túi vũ khí
+10068	Set hoàng kim-Tivi tủ lạnh
+10069	Set hoàng kim-Boomerang
+10070	Set hoàng kim-Thương cổ
+10071	Set hoàng kim-Búa Minotaure
+10200	Đạo cụ vô hạn
+11001	Đá Chu Tước 1
+11002	Đá Chu Tước 2
+11003	Đá Chu Tước 3
+11004	Đá Chu Tước 4
+11005	Đá Huyền Vũ 1
+11006	Đá Huyền Vũ 2
+11007	Đá Huyền Vũ 3
+11008	Đá Huyền Vũ 4
+11009	Đá Thanh Long 1
+11010	Đá Thanh Long 2
+11011	Đá Thanh Long 3
+11012	Đá Thanh Long 4
+11013	Đá Bạch Hổ 1
+11014	Đá Bạch Hổ 2
+11015	Đá Bạch Hổ 3
+11016	Đá Bạch Hổ 4
+11017	Bùa may mắn 15%
+11018	Bùa may mắn 25%
+11019	Đá cường hóa 1
+11020	Bùa ma thuật
+11021	Đá cường hóa 2
+11022	Đá cường hóa 3
+11023	Đá cường hóa 4
+11024	Đá cường hóa 5
+11026	Mũi khoan cấp 3
+11027	Mũi khoan cấp 4
+11030	Đá Chu Tước 5
+11031	Đá Huyền Vũ 5
+11032	Đá Thanh Long 5
+11033	Đá Bạch Hổ 5
+11034	Mảnh ghép mũi khoan
+11035	Mũi khoan cấp 1
+11036	Mũi khoan cấp 2
+11037	Mảnh ghép sơ cấp VIP·Thiên sứ ban phúc
+11038	Mảnh ghép cao cấp VIP·Thiên sứ ban phúc
+11039	Mảnh ghép sơ cấp VIP·Boomerang
+11040	Mảnh ghép cao cấp VIP·Boomerang
+11041	Mảnh ghép sơ cấp VIP· Thương cổ
+11042	Mảnh ghép cao cấp VIP·Thương cổ
+11043	Mảnh ghép sơ cấp VIP·Búa Minotaure
+11044	Mảnh ghép cao cấp VIP·Búa Minotaure
+11045	Mảnh ghép sơ cấp Khiêng bolobala
+11046	Mảnh ghép cao cấp Khiêng bolobala
+11100	Loa lớn thế giới
+11101	Loa nhỏ
+11102	Loa lớn
+11103	Nhẫn cầu hôn
+11104	Lá cờ Chiến thắng
+11105	Card người tốt
+11106	Hoa Hồng
+11107	kinh nghiệm
+11108	đèn bí đỏ
+11109	Vớ đỏ
+11201	Chu Tước
+11202	Huyền Vũ
+11203	Thanh Long
+11204	Bạch Hổ
+11205	Túi quà
+11206	Túi quà
+11207	Túi quà
+11208	Túi quà
+11209	Túi quà
+11210	Rương vũ khí
+11212	Rương bảo thiết
+11214	Quà tân thủ_Vũ khí
+11215	Quà _ Y phục
+11216	Quà _ Y phục
+11217	Túi quà-Mắt
+11218	Túi quà-Mắt
+11219	Túi quà-Trang sức
+11220	Túi quà-Đạo cụ
+11223	Túi thơm
+11224	Túi quà Gunny
+11225	Túi quà Gunny
+11226	Rương vũ khí
+11227	Rương quà
+11228	Thêm sức cấp 5
+11229	Túi quà Cấp 10
+11230	Thêm sức cấp 5
+11231	Túi quà Cấp 10
+11232	Hộp thần bí
+11233	Rương vàng
+11234	Túi quà yêu thương lớn
+11235	Túi quà yêu thương lớn
+11236	Túi quà hào hoa lớn
+11238	Túi điện thoại
+11239	Túi quà Cấp 1
+11240	Túi quà Cấp 2
+11241	Túi quà Cấp 3
+11242	Túi quà Cấp 4
+11243	Túi quà Cấp 5
+11244	Túi quà Guild
+11245	Quà Guild sơ cấp
+11246	Quà Guild 1
+11247	Quà Guild 2
+11248	Túi quà set Ngưu Lang
+11249	Túi quà set Chức Nữ
+11250	Túi quà set Ngưu Lang
+11251	Túi quà set Chức Nữ
+11252	Lì xì cấp 1
+11253	Túi quà đại gia
+11254	Túi vũ khí VIP
+11255	Túi quà nạp thẻ
+11256	Nguyệt Thần Bảo Hợp
+11257	Lì xì cấp 2
+11258	Lì xì cấp 3
+11259	Lì xì cấp 4
+11260	Lì xì cấp 5
+11261	Rương may mắn
+11262	Rương WOW
+11263	Túi vũ khí WOW cấp 5
+11264	Túi vũ khí WOW cấp 9
+11265	Chúc phúc yêu thương
+11266	Túi bùa
+11267	Nước kinh nghiệm may mắn
+11268	Lời cảm tạ
+11269	Túi quà Tiểu Bố Đinh
+11270	Túi quà bé tuyết
+11271	Quà Noel
+11272	Túi cánh lớn
+11273	Túi cánh nhỏ
+11274	Túi quà Laba
+11275	Túi card vui vẻ
+11276	Ống heo
+11277	Công·Quà tặng lắc tay
+11278	Nhanh·Quà tặng lắc tay
+11279	Công·Quà tặng nhẫn
+11280	Nhanh·Quà tặng nhẫn
+11281	Túi cường hóa kim đồng
+11282	Túi cường hóa ngọc nữ
+11283	Túi quà tân xuân
+11284	Túi quà tình nồng
+11285	Kẹo tình nhân  (nhỏ)
+11286	Kẹo tình nhân  (vừa)
+11287	Kẹo tình nhân  (lớn)
+11288	Hộp ước nguyện
+11289	Hộp ước nguyện
+11290	Túi tân thủ lu gạch
+11291	Túi tân thủ tủ thuốc
+11292	Túi tân thủ oanh thiên
+11293	Túi tân thủ đồ điện
+11294	Túi tân thủ lu gạch
+11295	Túi tân thủ tủ thuốc
+11296	Túi tân thủ oanh thiên
+11297	Túi tân thủ đồ điện
+11298	Bách bảo rương bất ngờ
+11301	Ngưng Tụ
+11302	Công thức - Nhẫn
+11303	Công thức - Lắc
+11304	Công thức dung luyện—châu báu
+11401	Kèn thanh đồng
+11402	Kèn bạch ngân
+11403	Kèn hoàng kim
+11404	Kèn rung chuyển
+11405	Đồng tiền Johnny
+11406	Mảnh vỡ trăng rầm
+11407	Gà lửa
+11408	Huân chương
+11409	Bông tuyết
+11410	Nguyên liệu cháo Laba
+11411	Hoa hồng
+11412	Phiếu đổi thưởng
+11413	Mảnh ghép thần bí
+11414	Phụ kiện hộp ước nguyện
+11415	Lễ kim--"Tôi"
+11416	Lễ kim--"yêu"
+11417	Lễ kim--"Gunny"
+11418	Lễ kim--"Online"
+11419	Huân chương--"Trứng"
+11420	Huân chương--"Đạn"
+11421	Huân chương--"Đường"
+11422	Quả trứng bị trộm
+11423	Trứng phục sinh
+11424	Rương hỗn hợp
+11425	Mặt nạ buồn
+11426	Mặt nạ vui vẻ
+11427	Túi quà Thánh Thú
+11428	Túi quà kinh nghiệm
+11430	Túi châu báu tấn công
+11431	Túi châu báu phòng thủ
+11432	Túi châu báu thuộc tính
+11433	Túi lu gạch
+11434	Túi lưu đạn
+11435	Túi tủ thuốc
+11436	Túi Tivi-tủ lạnh
+11437	Đá viên
+11438	Nước lạnh
+11439	Bánh ú của thuyền trưởng
+11440	Mảnh ghép thuyền rồng
+11441	Đinh vít
+11442	Dấu ấn sơ cấp
+11443	Dấu ân trung cấp
+11444	Chìa Vạn Phúc
+11445	Đâu đỏ
+11446	Cánh hoa hồng
+11447	Bút đỏ
+11448	Cây tre
+11449	Bông hoa nhỏ
+11450	Dấu ấn túi quà đền đáp cấp 1
+11451	Dấu ấn túi quà đền đáp cấp 2
+11452	Phiếu điểm danh sơ cấp
+11453	Phiếu điểm danh cao cấp
+11454	Bánh Trùng Dương
+11455	Sơn thù du
+11456	Búa lu vàng
+11457	Huy chương "Bất"
+11458	Huy chương "Khả"
+11459	Huy chương "Chiến"
+11460	Huy chương "Bại"
+11461	Keo dán
+11462	Thư phản hồi
+11463	Pháo hoa
+11464	Bánh trôi nước
+11465	Hạt giống
+11466	Cuốc
+11467	Cánh hoa
+11468	Thư ăn năn
+11469	Đậu thần
+11470	Mảnh ghép cánh diều
+11471	Trâu cày
+11472	Roi da
+11473	Giọt nước
+11474	Tiền vàng sinh nhật
+11475	Huân chương sinh nhật
+11476	Cúc vàng
+11477	Rượu
+11478	Mồi lửa
+11479	Cây giống
+11480	Giọt mưa
+11481	Bảo thạch màu đỏ
+11482	Bảo thạch màu lam
+11483	Huân chương lao động
+11484	Bảo thạch màu lục
+11485	Bảo thạch màu tím
+11486	Cơm ngũ sắc
+11487	Cẩm chướng hồng
+11488	Hạt giống
+11489	Bắp rang
+11490	Kẹo hồ lô
+11491	Viên bi
+11492	Cây cỏ gai
+11493	Bọ rùa
+11494	Tiền đổi trang phục
+11495	Cánh hoa tím
+11496	Cánh hoa hồng
+11497	Cánh hoa vàng
+11498	Cánh hoa cam
+11499	Cánh hoa đỏ
+11500	Món quà nhỏ
+11501	Túi quà may mắn
+11502	Túi quà hạnh phúc
+11503	Túi quà sơ nhập
+11504	Quà Quốc Khánh
+11505	Hộp Quà Đỏ
+11506	Mystery kẹo
+11507	Mystery kẹo
+11508	Hộp quà Noel
+11509	Giỏ quà năm mới
+11510	Bao lì xì năm mới
+11511	Trái cây
+11512	Mâm Ngũ Quả
+11513	Quà Tết
+11514	Giỏ quà Tết
+11515	Rương quà tặng
+11516	Túi quà Cấp 7
+11517	Túi quà Cấp 6
+11518	Nếp dẻo
+11519	Gạo nếp
+11901	Nước kinh nghiệm 1
+11902	Nước kinh nghiệm 2
+11903	Nước kinh nghiệm 3
+11904	Nước kinh nghiệm 4
+11905	Nước kinh nghiệm 5
+11906	Nước kinh nghiệm siêu cấp
+11907	Bánh chưng
+11991	Thẻ cảm nhận VIP
+11992	Thẻ VIP
+11993	Thẻ đổi tên hội
+11994	Card đổi tên
+11995	Thẻ đạo cụ
+11996	Card chống đá
+11997	Thẻ x2 công trạng
+11998	Thẻ x2 kinh nghiệm
+11999	Card biến sắc
+12001	Lá chuối
+12002	Dây mây
+12003	Trúc mai rùa
+12004	Âm mưu của khỉ
+12005	Sổ sách của khỉ
+12006	Rương báu
+12007	Lông khỉ
+12008	Tivi mini
+12009	Chuối
+12010	Kinh thánh
+12011	Phiến đá
+12012	Mảnh vỡ
+12013	Trang sức đã đốt
+12014	Vạt áo ma
+12015	Trang sức tinh xảo
+12016	Năng lượng xanh
+12017	Mảnh rào sắt
+12018	Thạch điêu nhỏ
+12019	Di thư
+12020	Quạt đen
+12021	Quạt hồng
+12022	Quạt vàng
+12023	Quạt lam
+12024	Quạt lục
+12025	Tranh thủy mặc
+12026	Khí cầu nhiều màu
+12027	Mảnh vỡ hải tặc
+12028	Bánh răng máy
+12029	Dây xích lớn
+12030	Vòng cứu sinh
+12031	Sừng Rồng
+12032	Nón ma thuật
+12033	Trứng thần bí
+12034	Mũi chú hề
+12035	Bóng dấu hỏi
+12036	Sách đỏ
+12037	Lá cây đậu
+12038	Nhánh cây đậu
+12039	Lưỡi câu
+12040	Cánh hoa lửa
+12041	Mảnh bậc thang
+12042	Đậu Hà Lan
+12043	Nhật ký thuỷ thủ
+12044	Tượng dưới biển
+12045	Hải quỳ
+12046	Vỏ ngọc trai
+12047	Rương cũ
+12048	San hô
+12049	Ngọc trai đen
+12050	Sứa biển
+12051	Trân châu
+12052	Đại Kiều sử
+12053	Đá phiến
+12054	Áo phơi khô
+12055	Vớ ướt
+12056	Cá tươi
+12057	Gạch
+12058	Sách hướng dẫn
+12059	Bánh răng
+12060	Linh kiện
+12061	Phi thuyền nhỏ
+12062	Gỗ
+12063	Khăn tay
+12064	Dầu thô
+12065	Nấm thích linh
+12066	Tinh hoa mộc linh
+12067	Sâu độc
+12068	Lá thụ nhân
+12069	Quả đào
+12070	Vỏ ốc sên
+12071	Nấm tiên linh
+12072	Cờ đầu lâu
+12073	Thùng gỗ
+12074	Kaola
+12075	Dây thừng
+12076	Gỗ thụ nhân
+12077	Ổn áp đỏ
+12078	Ổn áp vàng
+12079	Ổn áp xanh
+12080	Áp-phích trứng xoay
+12081	Áp-phích chim cánh cụt
+12082	Đá vỡ
+12083	Nón thợ mỏ
+12084	Áp-phích gà con
+12085	Áp-phích gấu con
+12086	Thiên cơ phổ 1
+12087	Thiên cơ phổ 2
+12088	Thiên cơ phổ 3
+12089	Truyện cổ tích
+12090	Nham thạch vụn
+12091	Rêu
+12092	Cá nheo con
+12093	Lá non
+12094	Mảnh nham thạch
+12095	Mảnh "Sách cấm" (2)
+12096	Mảnh "Sách cấm" (3)
+12097	Mảnh "Sách cấm" (1)
+12098	Mảnh vỡ thủy tinh
+12099	Chân thỏ
+12100	Chân dơi quỷ
+12101	Nước mắt hối hận
+12102	Đầu bí rợ
+12103	Tròng mắt
+12104	Hài cốt
+12105	Móng quạ đen
+12106	Ống thép vỡ vụn
+12107	Bánh răng lớn
+12108	Dây da
+12109	Lá vàng
+12110	Giá gỗ
+12111	Bột lạ
+12112	Thu cô nương
+12113	Thép chữ L
+12114	Lông thần bí
+12115	Gốm sứ thô
+12116	Lông vũ
+12117	Mảnh ốc biển
+12118	Vỏ ốc gai
+12119	Giun đất
+12120	Mảnh vật tổ
+12121	Vỏ ốc
+12122	Vỏ dừa
+12123	"Sổ tay"
+12124	Răng rồng
+12125	Sâu đá vôi
+12126	Vảy cá
+12127	Đèn pin rỉ
+12128	Mảnh đá vôi
+12129	Chim may mắn
+12130	Đá vân mẫu
+12131	Sách người chết
+12132	Vải dơ
+12133	Bình chất lỏng
+12134	Mảnh gậy vỡ
+12135	Mảnh quan tài
+12136	Trang sức tinh chế
+12137	Lông mèo
+12138	Phiến đá thần
+12139	Bọ cánh cứng
+12140	Bình hoa
+12141	Sách nấu ăn
+12142	Thắt lưng hồng
+12143	Răng thỏ
+12144	Trân châu đen
+12145	Hạt nhân
+12146	Mũi gấu Pooh
+12147	Mảnh giấy
+12148	Móng quỷ
+12149	Nhện lửa
+12150	Mảnh sừng
+12151	Lưu huỳnh
+12152	Roi lửa
+12153	Rương vàng
+12154	Nham thạch khô cứng
+12155	Mảnh vải rách
+12156	Long Đơn Toái Phiến
+13100	Viewtiful Joe
+13101	Mặc định (Nam)
+13102	Thuyền trưởng
+13103	Ngưu Lang
+13104	Nón rơm
+13105	Nico Robin
+13106	Chức nữ
+13107	Hải tặc nữ đế
+13110	Shin–Cậu Bé Bút Chì
+13111	Mũi xanh
+13113	Ichigo
+13114	Rukia
+13115	Hải tặc
+13116	Hằng Nga
+13117	Thỏ Ngọc
+13118	Optimus Prime
+13121	Gà 2 tuổi
+13124	Ông Santa
+13125	Bà Santa
+13126	Lộc thúc thúc
+13127	Tuần Lộc muội muội
+13128	Soo Yi Jung
+13129	Geum Jan Di
+13130	Jung Ji Hoon
+13131	Goo Jung Pyo
+13132	Won Bin
+13133	Công Chúa Tuyết
+13134	Hoàng Tử Tuyết
+13135	Gà Con
+13136	Kim đồng
+13137	Ngọc nữ
+13138	Nữ Tiểu Hổ
+13139	Nam Tiểu Hổ
+13140	Hổ cát tường
+13141	Gấu tắm
+13142	Tia sáng vàng
+13143	Nàng Pandora
+13144	Nàng sấm sét
+13145	Chàng liệt hỏa
+13146	GÀ BÉO
+13147	Bánh sinh nhật
+13148	Gấu trắng
+13149	Zakumi
+13150	Bộ Hòang Kim Nữ
+13151	Bộ Hòang Kim Nam
+13153	Tân nương
+13154	Tân lang
+13155	Nữ hiệp
+13156	Đại hiệp
+13157	Thiên sứ Lolita
+13158	Bounty Hunter
+13159	MT
+13160	SM
+13161	Nam tước dơi
+13162	Nữ tước dơi
+13163	Khôi thái lang
+13164	Hồng thái lang
+13165	Xác ướp nhỏ
+13166	Tinh linh noel
+13167	Đặc phái noel
+13168	V.I.P - Cấp 1
+13169	V.I.P - Cấp 1
+13170	Học sinh
+13171	Học sinh
+13172	V.I.P - Cấp 2
+13173	V.I.P - Cấp 2
+13174	Batman vàng
+13175	Chuột chuỗi xinh xắn
+13176	Hoàng tử chuột chuỗi
+13179	Đạn hoàn nữ bá
+13180	Đạn hoàn bá giả
+13181	Vua gunny
+13182	Hoàng hậu gunny
+13183	Thần tài
+13184	Naruto
+13185	Sasuke
+13186	Kakashi
+13187	Gaira
+13188	Alice
+13189	Thám tử Conan
+13190	Mèo xanh
+13191	Hatsune Miku
+13192	Cửu Vĩ Hồ Ly
+13193	Tôn Ngộ Không
+13194	Báu công phu
+13195	Captor Sakura
+13196	Nhện đỏ
+13197	Yuna-Chan
+13198	Thỏ năm mới
+13200	Anh thư
+13201	Mặc định (Nữ)
+13202	Cô gái tân thời
+13203	Chức nữ
+13204	Ngưu Lang
+13205	Hải tặc
+13206	Thuyền trưởng
+13300	Gà xì tin
+13301	Gà kute
+13302	Gà ăn vặt
+13303	Gà u sầu
+13304	Đặc nhiệm thần phong (nữ)
+13305	Đặc nhiệm thần phong (nam)
+13306	Đao khách
+13307	Trọng tài (nữ)
+13308	Trọng tài (nam)
+13309	Nhà vô địch (nữ)
+13310	Nhà vô địch (nam)
+13311	Chú ong vàng
+13312	Thợ săn
+13313	Chong chóng bảo bảo
+13314	Thỏ Loli
+13315	Mèo lười
+13316	Phong Vân nam hiệp
+13317	Phong Vân nữ hiệp
+13318	Siêu nhân điện quang
+13319	Cảnh sát không gian
+13320	Đặc nhiệm không gian
+13800	HCM (nữ）
+13801	HCM (nam)
+13803	Bình Định (nam)
+13804	Đà Nẵng (nam)
+13805	Đồng Nai (nam)
+13806	Hà Nội (nam)
+13807	Hải Phòng (nam)
+13808	Khánh Hòa (nam)
+13809	Bình Định (nữ）
+13810	Đà Nẵng (nữ）
+13811	Đồng Nai (nữ）
+13812	Hà Nội (nữ）
+13813	Hải Phòng (nữ）
+13814	Khánh Hòa (nữ）
+14000	Lục bảo thạch
+14001	Mắt rồng
+14002	Dây chuyền (mặc định)
+14003	Giọt nước
+14004	Nước mắt
+14005	Ares
+14006	VIP·Lục Bảo Thạch
+14007	VIP·Mắt Rồng
+14008	VIP·Giọt Nước
+14009	VIP·Nữ Thần
+14010	VIP·Ares
+14011	S-Lục bảo thạch
+14012	S-Mắt rồng
+14013	S-Giọt Nước
+14014	S-Nữ Thần
+14015	S-Ares
+14126	Set Close Up (nữ)
+14127	Set Close Up (nam)
+15001	Cánh (mặc định)
+15002	Tinh linh hồng
+15003	Bầu trời
+15004	Lôi chấn
+15005	Ngọn lửa
+15006	Thần ái tình
+15007	Phong trần
+15008	Thần hoa
+15009	Thần biển
+15018	Chuồn Chuồn Cam
+15019	Chuồn Chuồn Ngọc
+15020	Lam Thiên Điểu
+15021	Ngọc Thiên Điểu
+15022	Hòang Thiên Điểu
+15023	Hồng Thiên Điểu
+15024	Bích Thần Điệp
+15025	Ngọc Thần Điệp
+15026	Lam Thần Điệp
+15027	Bươm Bướm Tím
+15028	Bươm Bướm Xanh
+15029	Bươm Bướm Vàng
+15030	V.I.P
+16000	Pháo chat ( mặc định)
+16001	Mây ngũ sắc
+16002	Heo hồng
+16003	Hét
+16004	Giấc mơ xanh
+16005	Mật ngọt
+16006	Chi chi cha cha
+16007	Cục xương
+16008	Tâm tình
+17001	Thiên sứ ban phúc
+17002	VIP·Thiên sứ ban phúc
+17003	Khiên Gà
+17004	Khiên của Bolo Bala
+20101	Hộp thẻ kiến đỏ
+20102	Hộp thẻ kiến xanh
+20103	Hộp thẻ nữ vương kiến
+20104	Hộp thẻ gà hồng
+20105	Hộp thẻ gà tinh anh
+20106	Hộp thẻ đội trưởng gà
+20107	Hộp thẻ Quốc vương gà
+20108	Hộp thẻ dũng sĩ bộ lạc
+20109	Hộp thẻ chiến sĩ bộ lạc
+20110	Hộp thẻ Bulan anh
+20111	Hộp thẻ thẻ Bulan em
+20112	Hộp thẻ tù trưởng bộ lạc
+20113	Hộp thẻ chim ưng
+20114	Hộp thẻ sói dữ
+20115	Hộp thẻ quỷ khăn hồng
+20116	Hộp thẻ Minotaure
+20117	Hộp thẻ phi tiêu
+20118	Hộp thẻ lựu đạn
+20119	Hộp thẻ pháo
+20120	Hộp thẻ sấm sét
+20121	Hộp thẻ nô lệ Goblin
+20122	Hộp thẻ công nhân Goblin
+20123	Hộp thẻ chiến binh Goblin
+20124	Hộp thẻ công binh Goblin
+20125	Hộp thẻ chỉ huy Goblin
+20126	Hộp thẻ gà con
+20127	Hộp thẻ gà mái
+20128	Hộp thẻ gà trống
+20129	Hộp thẻ gà mái xấu xí
+20130	Hộp thẻ gà thể thao
+20131	Hộp thẻ gà huấn luyện
+20132	Hộp thẻ gà khán giả
+20133	Hộp thẻ gà quyền vương
+20134	Hộp thẻ gà trọng tài
+21001	Tình yêu thương
+21002	Đôi tim yêu
+21003	Bên nhau mãi
+21004	Trọn đời bên nhau
+21005	Mãi yêu thương
+21006	Kết duyên
+22001	Pháo chào
+70061	VIP-Pháo
+70062	VIP-Pháo
+70063	VIP-Pháo
+70071	VIP-Lưu đạn
+70072	VIP-Lưu đạn
+70073	VIP-Lưu đạn
+70081	VIP-Phi tiêu
+70082	VIP-Phi tiêu
+70083	VIP-Phi tiêu
+70091	VIP-Sấm sét
+70092	VIP-Sấm sét
+70093	VIP-Sấm sét
+70101	VIP-Lu gạch
+70102	VIP-Lu gạch
+70103	VIP-Lu gạch
+70111	VIP-Giỏ trái cây
+70112	VIP-Giỏ trái cây
+70113	VIP-Giỏ trái cây
+70121	VIP-Tủ thuốc
+70122	VIP-Tủ thuốc
+70123	VIP-Tủ thuốc
+70131	VIP-Túi vũ khí
+70132	VIP-Túi vũ khí
+70133	VIP-Túi vũ khí
+70141	VIP-Tivi Tủ lạnh
+70142	VIP-Tivi Tủ lạnh
+70143	VIP-Tivi Tủ lạnh
+70151	WOW-Pháo
+70152	WOW-Pháo
+70153	WOW-Pháo
+70161	WOW-Lưu đạn
+70162	WOW-Lưu đạn
+70163	WOW-Lưu đạn
+70171	WOW-Phi tiêu
+70172	WOW-Phi tiêu
+70173	WOW-Phi tiêu
+70181	WOW-Sấm sét
+70182	WOW-Sấm sét
+70183	WOW-Sấm sét
+70191	WOW-Lu gạch
+70192	WOW-Lu gạch
+70193	WOW-Lu gạch
+70201	WOW-Giỏ trái cây
+70202	WOW-Giỏ trái cây
+70203	WOW-Giỏ trái cây
+70211	WOW-Tủ thuốc
+70212	WOW-Tủ thuốc
+70213	WOW-Tủ thuốc
+70221	WOW-Túi vũ khí
+70222	WOW-Túi vũ khí
+70223	WOW-Túi vũ khí
+70231	WOW-Tivi Tủ lạnh
+70232	WOW-Tivi Tủ lạnh
+70233	WOW-Tivi Tủ lạnh
+70241	Vip-boomerang
+70242	Vip-boomerang
+70243	Vip-boomerang
+70261	Vip-Thương cổ
+70262	Vip-Thương cổ
+70263	Vip-Thương cổ
+70271	VIP·Búa Minotaure
+70272	VIP·Búa Minotaure
+70273	VIP·Búa Minotaure
+70281	Dụng cụ học tập
+70282	Dụng cụ học tập
+70283	Dụng cụ học tập
+71050	Phi tiêu
+71051	Phi tiêu
+112001	Phòng·Quà tặng lắc tay
+112002	May·Quà tặng lắc tay
+112003	Phòng·Quà tặng nhẫn
+112004	May·Quà tặng nhẫn
+112005	Gói tháng 10 RMB
+112006	Gói tháng 20 RMB
+112007	Gói tháng 30 RMB
+112008	Rương vũ khí VIP +5
+112009	Túi quà dấu ấn sơ cấp
+112010	Túi quà dấu ấn trung cấp
+112011	Túi quà dấu ấn cao cấp
+112012	Rương lễ kim
+112013	Túi quà "mến bạn"
+112014	Túi quà "tôi mến"
+112015	Túi quà "Tôi mến bạn"
+112016	Túi quà  Ichigo
+112017	Túi quà Rukia
+112018	Túi quà nhẫn lãng mạn
+112019	Rương Thần Tài
+112020	Đậu tương ân
+112021	Khóa đồng tâm
+112022	Đậu đỏ socola
+112023	Hoa hồng
+112024	Túi quà cám ơn tiêu phí
+112025	Túi quà Ngưu Lang Chức nữ
+112026	Túi quà Gunny may mắn
+112027	Túi quà Thần thú xanh
+112028	túi quà trinh thám
+112029	Túi quả hỏa sơn
+112030	Túi quà kỳ nghỉ
+112031	Túi quà chúc phúc
+112032	Túi quà Thần thú hồng
+112033	Túi quà gấu
+112034	Túi quà vườn trường
+112035	Túi quà cô bé dâu tây
+112036	Túi quà thần binh
+112037	Trung thu hoa đăng
+112038	Bánh trung thu đặc biệt
+112039	Túi quà đến đáp cấp 1
+112040	Túi quà đến đáp cấp 2
+112041	Túi quà đến đáp cấp 3
+112042	Túi phiếu báo danh sơ cấp
+112043	Túi phiếu báo danh trung cấp
+112044	Túi phiếu báo danh cao cấp
+112045	Túi VIP Thiên sứ ban phúc
+112046	Túi VIP-boomerang
+112047	Lu vàng
+112048	Túi châu báu thuộc tính
+112049	Túi quà lu vàng
+112050	Túi nước kinh nghiệm lớn
+112051	Túi ưu đãi cường hóa
+112052	Túi sơn thù du
+112053	Túi bao tay Venus
+112054	Túi quà lu vàng cấp 1
+112055	Túi quà lu vàng cấp 2
+112056	Đèn quả bí
+112057	rương haalloween
+112058	Huy chương "Bất khả chiến bại"
+112059	Trứng thần bí
+112060	Túi cường hóa cấp 5
+112061	vớ noel
+112062	Đèn hoa ngày Tết
+112063	bản đồ bảo tàng
+112064	Rương hải tặc
+112065	Túi quà đặc biệt
+112066	Bánh xếp
+112067	Cung hỉ tân xuân
+112068	Tình duyên dáng thế
+112069	Chén chè trôi nước
+112070	Túi quà Cát tường như ý
+112071	Lồng đèn nguyên tiêu
+112072	Túi quà mừng xuân
+112073	Túi quà thực vật
+112074	Túi quà cánh diều
+112075	Hoa khai phú quý
+112076	Túi quà giọt nước
+112077	Trẻ ngoan không được mở
+112078	Chúc phúc rico
+112079	Chúc phúc max
+112080	Chúc phúc toto
+112081	Chúc phúc bruce
+112082	Chúc phúc conan
+112083	Rương hỗn hợp
+112084	Rương mộng mơ
+112085	Rương đệ tử sơ cấp
+112086	Rương đệ tử trung cấp
+112087	Rương đệ tử cao cấp
+112088	Rương sư phụ sơ cấp
+112089	Rương sư phụ trung cấp
+112090	Rương sư phụ cao cấp
+112091	Rương tốt nghiệp
+112092	Rương tri ân
+112093	Rương tri ân
+112094	Rương tri ân
+112095	Rương tri ân
+112096	Rương tri ân
+112097	Rương tân thủ
+112098	Rương thời gian
+112100	Hũ bạc
+112101	Hũ vàng
+112102	Rương lãng mạn
+112103	Cẩm chướng đỏ
+112104	Sữa bò
+112105	Rương Bounty Hunter
+112106	Túi quà thiếu nhi
+112107	Rương vũ khí wow
+112108	Hộp thẻ bài ngẫu nhiên
+113025	Hộp set trang bị
+113026	Hộp quà Quốc Khánh
+113027	Hộp quà tình yêu
+113028	Mảnh ghép chiến công
+114401	Hộp vỏ nhựa
+114402	Mảnh tre
+114403	Giấy màu
+114404	Lồng đèn trung thu
+114405	Gói đồ mặn
+114406	Gói đồ chay
+114407	Gói bột bánh dẻo
+114408	Gói bột mì
+114461	Keo dán
+119993	Túi quà boss gà
+119994	Túi nguyên liệu Trung Thu
+119995	Túi quà trung thu
+119996	Túi trang phục mùa trung thu
+119997	Lồng đèn trung thu
+119998	Bánh trung thu
+119999	Túi quà boss kiến
+120000	Áo hóa trang
+130000	Túi quà cao thủ ném tuyết
+130001	Vớ Giáng Sinh
+130002	Món quà nhỏ của Tuần lộc
+130003	Tạ lễ  của Tuần lộc
+130005	Tài liệu kiến
+130010	Mũi đỏ
+130011	Lục lạc
+130012	Roi da nữ vương
+130022	Rương huyền bí
+130024	Rương cá tháng 4
+130025	túi quà chiến công
+130026	túi quà hạnh phúc
+130031	cánh hoa
+130035	Bảo thạch màu đỏ
+130036	Bảo thạch màu lam
+130037	Bảo thạch màu lục
+130038	Bảo thạch màu tím
+130100	Hồng Ngọc
+130101	Lam Ngọc
+130102	Cẩm Thạch
+130103	Ruby
+140020	túi quà lễ phục sinh
+140021	Phục sinh bảo rương
+140031	Mồi  lửa
+150020	mật tịch thần bí
+150021	Chứng nhận dũng sĩ
+150022	kèn xung trận
+150023	Âm mưu Minotaure
+150030	đinh ốc
+150031	Lá chuối
+150032	Roi lửa
+150033	Cờ đầu lâu
+160001	Phiếu đổi thưởng CloseUp Lửa – Băng
+160002	Hộp quà CloseUp Lửa – Băng
+170001	Túi quà CloseUp
+170011	Thiên thần chúc phúc
+170012	Huân chương guild
+170013	sâu hại
+170014	giống cây thần
+170015	băng hồn phách
+170016	Huyền vũ tinh thạch
+170017	Chu Tước tinh thạch
+170018	Thanh Long tinh thạch
+170019	Bạch Hổ tinh thạch
+170020	Túi nước kinh nghiệm
+170021	Túi quà " Gà vàng "
+170022	Trúc mai rùa
+170100	Lời của hoa
+170101	Kho báu bộ lạc
+170102	Huân chương bạc
+170103	Cánh hoa vàng
+170104	Cánh hoa cam
+170105	Cánh hoa đỏ
+170106	Cánh hoa hồng
+170107	Cây chổi
+170108	Thùng rác
+170109	Thiên thạch
+170110	Kiếm diệt quái
+170111	Gà con
+170112	Lông tơ
+170113	Cảm tạ sư phụ
+170114	Phần thưởng đệ tử
+170115	Quà tặng Trung Thu
+170119	Roi da pochi
+170120	Hạt giống
+170122	Trứng kiến
+170128	Hộp bánh trung thu
+170129	Quà tặng lồng đèn trung thu
+170130	Gói đồ mặn
+170131	Gói bột bánh dẻo
+170132	Mảnh tre
+170133	Giấy màu
+170134	Bánh trung thu
+170135	Bánh trung thu đặc biệt
+170136	Lồng đèn trung thu
+170137	Túi quà boss kiến
+170138	Túi quà trung thu
+180001	băng keo lớn
+180002	Trà đá
+180003	Túi quà cây xanh
+180004	Môi trường xanh
+180005	Băng keo nhỏ
+180006	ngọn lửa hung tàn
+180010	Túi ưu đãi Thần Tài cao cấp
+180011	Túi ưu đãi Thần Tài
+180012	Túi trang phục
+180013	Rương combo vật phẩm (nam)
+180014	Combo nam 1
+180015	combo nam 2
+180016	combo nam 3
+180017	Combo nam 4
+180018	Combo nam 5
+180019	"Rương combo vật phẩm
+(nữ)"
+180020	Combo nữ 1
+180021	Combo nữ 2
+180022	Combo nữ 3
+180023	combo nữ 4
+180024	Combo nữ 5
+180025	Đèn lồng đỏ lớn
+180026	Huy hiệu chiến công
+180027	Túi quà năm học mới
+311000	châu báu tấn công
+311100	Châu báu tấn công Lv1
+311101	châu báu tấn công —cường kích Lv1
+311102	châu báu tấn công —nhanh Lv1
+311103	châu báu tấn công —ban phúc Lv1
+311104	châu báu tấn công —thương nặng Lv1
+311105	châu báu tấn công —dẫn dắt Lv1
+311106	châu báu tấn công —hàn băng Lv1
+311107	châu báu tấn công —hạt nhân Lv1
+311108	châu báu tấn công —xuyên giáp Lv1
+311109	châu báu tấn công —bạo kích Lv1
+311110	châu báu tấn công —hút máu Lv1
+311111	châu báu tấn công —phong ấn Lv1
+311112	châu báu tấn công —thần báo Lv1
+311113	châu báu tấn công —mệt Lv1
+311114	châu báu tấn công —phỏng Lv1
+311115	châu báu tấn công —xích Lv1
+311116	châu báu tấn công —liên kích Lv1
+311117	châu báu tấn công —nhược hóa Lv1
+311118	S châu báu tấn công —cường kích Lv1
+311119	S châu báu tấn công —nhanh Lv1
+311120	S châu báu tấn công —ban phúc Lv1
+311121	S châu báu tấn công —thương nặng Lv1
+311122	S châu báu tấn công —dẫn dắt Lv1
+311123	S châu báu tấn công —hàn băng Lv1
+311124	S châu báu tấn công —hạt nhân Lv1
+311125	S châu báu tấn công —xuyên giáp Lv1
+311126	S châu báu tấn công —bạo kích Lv1
+311127	S châu báu tấn công —hút máu Lv1
+311128	S châu báu tấn công —phong ấn Lv1
+311129	S châu báu tấn công —thần báo Lv1
+311130	S châu báu tấn công —mệt Lv1
+311131	S châu báu tấn công —phỏng Lv1
+311132	S châu báu tấn công —xích Lv1
+311133	S châu báu tấn công —liên kích Lv1
+311134	S châu báu tấn công —nhược hóa Lv1
+311199	châu báu tấn công Lv1
+311200	Châu báu tấn công Lv2
+311201	châu báu tấn công —cường kích Lv2
+311202	châu báu tấn công —nhanh Lv2
+311203	châu báu tấn công —ban phúc Lv2
+311204	châu báu tấn công —thương nặng Lv2
+311205	châu báu tấn công —dẫn dắt Lv2
+311206	châu báu tấn công —hàn băng Lv2
+311207	châu báu tấn công —hạt nhân Lv2
+311208	châu báu tấn công —xuyên giáp Lv2
+311209	châu báu tấn công —bạo kích Lv2
+311210	châu báu tấn công —hút máu Lv2
+311211	châu báu tấn công —phong ấn Lv2
+311212	châu báu tấn công —thần báo Lv2
+311213	châu báu tấn công —mệt Lv2
+311214	châu báu tấn công —phỏng Lv2
+311215	châu báu tấn công —xích Lv2
+311216	châu báu tấn công —liên kích Lv2
+311217	châu báu tấn công —nhược hóa Lv2
+311218	S châu báu tấn công —cường kích Lv2
+311219	S châu báu tấn công —nhanh Lv2
+311220	S châu báu tấn công —ban phúc Lv2
+311221	S châu báu tấn công —thương nặng Lv2
+311222	S châu báu tấn công —dẫn dắt Lv2
+311223	S châu báu tấn công —hàn băng Lv2
+311224	S châu báu tấn công —hạt nhân Lv2
+311225	S châu báu tấn công —xuyên giáp Lv2
+311226	S châu báu tấn công —bạo kích Lv2
+311227	S châu báu tấn công —hút máu Lv2
+311228	S châu báu tấn công —phong ấn Lv2
+311229	S châu báu tấn công —thần báo Lv2
+311230	S châu báu tấn công —mệt Lv2
+311231	S châu báu tấn công —phỏng Lv2
+311232	S châu báu tấn công —xích Lv2
+311233	S châu báu tấn công —liên kích Lv2
+311234	S châu báu tấn công —nhược hóa Lv2
+311299	châu báu tấn công Lv2
+311300	Châu báu tấn công Lv3
+311301	châu báu tấn công —cường kích Lv3
+311302	châu báu tấn công —nhanh Lv3
+311303	châu báu tấn công —ban phúc Lv3
+311304	châu báu tấn công —thương nặng Lv3
+311305	châu báu tấn công —dẫn dắt Lv3
+311306	châu báu tấn công —hàn băng Lv3
+311307	châu báu tấn công —hạt nhân Lv3
+311308	châu báu tấn công —xuyên giáp Lv3
+311309	châu báu tấn công —bạo kích Lv3
+311310	châu báu tấn công —hút máu Lv3
+311311	châu báu tấn công —phong ấn Lv3
+311312	châu báu tấn công —thần báo Lv3
+311313	châu báu tấn công —mệt Lv3
+311314	châu báu tấn công —phỏng Lv3
+311315	châu báu tấn công —xích Lv3
+311316	châu báu tấn công —liên kích Lv3
+311317	châu báu tấn công —nhược hóa Lv3
+311318	S châu báu tấn công —cường kích Lv3
+311319	S châu báu tấn công —nhanh Lv3
+311320	S châu báu tấn công —ban phúc Lv3
+311321	S châu báu tấn công —thương nặng Lv3
+311322	S châu báu tấn công —dẫn dắt Lv3
+311323	S châu báu tấn công —hàn băng Lv3
+311324	S châu báu tấn công —hạt nhân Lv3
+311325	S châu báu tấn công —xuyên giáp Lv3
+311326	S châu báu tấn công —bạo kích Lv3
+311327	S châu báu tấn công —hút máu Lv3
+311328	S châu báu tấn công —phong ấn Lv3
+311329	S châu báu tấn công —thần báo Lv3
+311330	S châu báu tấn công —mệt Lv3
+311331	S châu báu tấn công —phỏng Lv3
+311332	S châu báu tấn công —xích Lv3
+311333	S châu báu tấn công —liên kích Lv3
+311334	S châu báu tấn công —nhược hóa Lv3
+311399	châu báu tấn công Lv3
+311400	Châu báu tấn công Lv4
+311401	châu báu tấn công —cường kích Lv4
+311402	châu báu tấn công —nhanh Lv4
+311403	châu báu tấn công —ban phúc Lv4
+311404	châu báu tấn công —thương nặng Lv4
+311405	châu báu tấn công —dẫn dắt Lv4
+311406	châu báu tấn công —hàn băng Lv4
+311407	châu báu tấn công —hạt nhân Lv4
+311408	châu báu tấn công —xuyên giáp Lv4
+311409	châu báu tấn công —bạo kích Lv4
+311410	châu báu tấn công —hút máu Lv4
+311411	châu báu tấn công —phong ấn Lv4
+311412	châu báu tấn công —thần báo Lv4
+311413	châu báu tấn công —mệt Lv4
+311414	châu báu tấn công —phỏng Lv4
+311415	châu báu tấn công —xích Lv4
+311416	châu báu tấn công —liên kích Lv4
+311417	châu báu tấn công —nhược hóa Lv4
+311418	S châu báu tấn công —cường kích Lv4
+311419	S châu báu tấn công —nhanh Lv4
+311420	S châu báu tấn công —ban phúc Lv4
+311421	S châu báu tấn công —thương nặng Lv4
+311422	S châu báu tấn công —dẫn dắt Lv4
+311423	S châu báu tấn công —hàn băng Lv4
+311424	S châu báu tấn công —hạt nhân Lv4
+311425	S châu báu tấn công —xuyên giáp Lv4
+311426	S châu báu tấn công —bạo kích Lv4
+311427	S châu báu tấn công —hút máu Lv4
+311428	S châu báu tấn công —phong ấn Lv4
+311429	S châu báu tấn công —thần báo Lv4
+311430	S châu báu tấn công —mệt Lv4
+311431	S châu báu tấn công —phỏng Lv4
+311432	S châu báu tấn công —xích Lv4
+311433	S châu báu tấn công —liên kích Lv4
+311434	S châu báu tấn công —nhược hóa Lv4
+311499	châu báu tấn công Lv4
+311999	châu báu tấn công
+312000	Châu báu phòng thủ
+312100	Châu báu phòng ngự Lv1
+312101	Châu báu phòng thủ —thạch phu Lv1
+312102	Châu báu phòng thủ —kiên cố Lv1
+312103	Châu báu phòng thủ —hồi phục Lv1
+312104	Châu báu phòng thủ —chống đào Lv1
+312105	Châu báu phòng thủ —giảm đau Lv1
+312106	Châu báu phòng thủ —hấp thụ Lv1
+312107	Châu báu phòng thủ —nộ Lv1
+312108	Châu báu phòng thủ —phản xạ Lv1
+312109	SChâu báu phòng thủ —thạch phu Lv1
+312110	SChâu báu phòng thủ —kiên cố Lv1
+312111	SChâu báu phòng thủ —hồi phục Lv1
+312112	SChâu báu phòng thủ —chống đào Lv1
+312113	SChâu báu phòng thủ —giảm đau Lv1
+312114	SChâu báu phòng thủ —hấp thụ Lv1
+312115	SChâu báu phòng thủ —nộ Lv1
+312116	SChâu báu phòng thủ —phản xạ Lv1
+312199	Châu báu phòng thủ Lv1
+312200	Châu báu phòng ngự Lv2
+312201	Châu báu phòng thủ —thạch phu Lv2
+312202	Châu báu phòng thủ —kiên cố Lv2
+312203	Châu báu phòng thủ —hồi phục Lv2
+312204	Châu báu phòng thủ —chống đào Lv2
+312205	Châu báu phòng thủ —giảm đau Lv2
+312206	Châu báu phòng thủ —hấp thụ Lv2
+312207	Châu báu phòng thủ —nộ Lv2
+312208	Châu báu phòng thủ —phản xạ Lv2
+312209	SChâu báu phòng thủ —thạch phu Lv2
+312210	SChâu báu phòng thủ —kiên cố Lv2
+312211	SChâu báu phòng thủ —hồi phục Lv2
+312212	SChâu báu phòng thủ —chống đào Lv2
+312213	SChâu báu phòng thủ —giảm đau Lv2
+312214	SChâu báu phòng thủ —hấp thụ Lv2
+312215	SChâu báu phòng thủ —nộ Lv2
+312216	SChâu báu phòng thủ —phản xạ Lv2
+312299	Châu báu phòng thủ Lv2
+312300	Châu báu phòng ngự Lv3
+312301	Châu báu phòng thủ —thạch phu Lv3
+312302	Châu báu phòng thủ —kiên cố Lv3
+312303	Châu báu phòng thủ —hồi phục Lv3
+312304	Châu báu phòng thủ —chống đào Lv3
+312305	Châu báu phòng thủ —giảm đau Lv3
+312306	Châu báu phòng thủ —hấp thụ Lv3
+312307	Châu báu phòng thủ —nộ Lv3
+312308	Châu báu phòng thủ —phản xạ Lv3
+312309	SChâu báu phòng thủ —thạch phu Lv3
+312310	SChâu báu phòng thủ —kiên cố Lv3
+312311	SChâu báu phòng thủ —hồi phục Lv3
+312312	SChâu báu phòng thủ —chống đào Lv3
+312313	SChâu báu phòng thủ —giảm đau Lv3
+312314	SChâu báu phòng thủ —hấp thụ Lv3
+312315	SChâu báu phòng thủ —nộ Lv3
+312316	SChâu báu phòng thủ —phản xạ Lv3
+312399	Châu báu phòng thủ Lv3
+312400	Châu báu phòng ngự Lv4
+312401	Châu báu phòng thủ —thạch phu Lv4
+312402	Châu báu phòng thủ —kiên cố Lv4
+312403	Châu báu phòng thủ —hồi phục Lv4
+312404	Châu báu phòng thủ —chống đào Lv4
+312405	Châu báu phòng thủ —giảm đau Lv4
+312406	Châu báu phòng thủ —hấp thụ Lv4
+312407	Châu báu phòng thủ —nộ Lv4
+312408	Châu báu phòng thủ —phản xạ Lv4
+312409	SChâu báu phòng thủ —thạch phu Lv4
+312410	SChâu báu phòng thủ —kiên cố Lv4
+312411	SChâu báu phòng thủ —hồi phục Lv4
+312412	SChâu báu phòng thủ —chống đào Lv4
+312413	SChâu báu phòng thủ —giảm đau Lv4
+312414	SChâu báu phòng thủ —hấp thụ Lv4
+312415	SChâu báu phòng thủ —nộ Lv4
+312416	SChâu báu phòng thủ —phản xạ Lv4
+312499	Châu báu phòng thủ Lv4
+312999	Châu báu phòng thủ
+313000	Châu báu thuộc tính
+313100	Châu báu thuộc tính Lv1
+313101	Châu báu thuộc tính —Tấn công Lv1
+313102	Châu báu thuộc tính —Phòng thủ Lv1
+313103	Châu báu thuộc tính —Nhanh nhẹn LV1
+313104	Châu báu thuộc tính —May mắn Lv1
+313105	Châu báu thuộc tính —Sát thương Lv1
+313106	Châu báu thuộc tính —Hộ giáp LV1
+313107	SChâu báu thuộc tính —Tấn công Lv1
+313108	SChâu báu thuộc tính —Phòng thủ Lv1
+313109	SChâu báu thuộc tính —Nhanh nhẹn LV1
+313110	SChâu báu thuộc tính —May mắn Lv1
+313111	SChâu báu thuộc tính —Sát thương Lv1
+313112	SChâu báu thuộc tính —Hộ giáp LV1
+313199	Châu báu thuộc tính Lv1
+313200	Châu báu thuộc tính Lv2
+313201	Châu báu thuộc tính —Tấn công Lv2
+313202	Châu báu thuộc tính —Phòng thủ Lv2
+313203	Châu báu thuộc tính —Nhanh nhẹn LV2
+313204	Châu báu thuộc tính —May mắn Lv2
+313205	Châu báu thuộc tính —Sát thương Lv2
+313206	Châu báu thuộc tính —Hộ giáp LV2
+313207	SChâu báu thuộc tính —Tấn công Lv2
+313208	SChâu báu thuộc tính —Phòng thủ Lv2
+313209	SChâu báu thuộc tính —Nhanh nhẹn LV2
+313210	SChâu báu thuộc tính —May mắn Lv2
+313211	SChâu báu thuộc tính —Sát thương Lv2
+313212	SChâu báu thuộc tính —Hộ giáp LV2
+313299	Châu báu thuộc tính Lv2
+313300	Châu báu thuộc tính Lv3
+313301	Châu báu thuộc tính —Tấn công Lv3
+313302	Châu báu thuộc tính —Phòng thủ Lv3
+313303	Châu báu thuộc tính —Nhanh nhẹn LV3
+313304	Châu báu thuộc tính —May mắn Lv3
+313305	Châu báu thuộc tính —Sát thương Lv3
+313306	Châu báu thuộc tính —Hộ giáp LV3
+313307	SChâu báu thuộc tính —Tấn công Lv3
+313308	SChâu báu thuộc tính —Phòng thủ Lv3
+313309	SChâu báu thuộc tính —Nhanh nhẹn LV3
+313310	SChâu báu thuộc tính —May mắn Lv3
+313311	SChâu báu thuộc tính —Sát thương Lv3
+313312	SChâu báu thuộc tính —Hộ giáp LV3
+313399	Châu báu thuộc tính Lv3
+313400	Châu báu thuộc tính Lv4
+313401	Châu báu thuộc tính —Tấn công Lv4
+313402	Châu báu thuộc tính —Phòng thủ Lv4
+313403	Châu báu thuộc tính —Nhanh nhẹn LV4
+313404	Châu báu thuộc tính —May mắn Lv4
+313405	Châu báu thuộc tính —Sát thương Lv4
+313406	Châu báu thuộc tính —Hộ giáp LV4
+313407	SChâu báu thuộc tính —Tấn công Lv4
+313408	SChâu báu thuộc tính —Phòng thủ Lv4
+313409	SChâu báu thuộc tính —Nhanh nhẹn LV4
+313410	SChâu báu thuộc tính —May mắn Lv4
+313411	SChâu báu thuộc tính —Sát thương Lv4
+313412	SChâu báu thuộc tính —Hộ giáp LV4
+313499	Châu báu thuộc tính Lv4
+313500	Châu báu thuộc tính
+313599	Châu báu thuộc tính
+313999	Châu báu thuộc tính
+314101	Thẻ kiến đỏ
+314102	Thẻ kiến xanh
+314103	Thẻ nữ vương kiến
+314104	Thẻ gà hồng
+314105	Thẻ gà tinh anh
+314106	Thẻ đội trưởng gà
+314107	Thẻ Quốc vương gà
+314108	Thẻ chiến sĩ bộ lạc
+314109	Thẻ dũng sĩ bộ lạc
+314110	Thẻ Bulan em
+314111	Thẻ Bulan anh
+314112	Thẻ tù trưởng bộ lạc
+314113	Thẻ chim ưng
+314114	Thẻ sói dữ
+314115	Thẻ quỷ khăn hồng
+314116	Thẻ Minotaure
+314117	Thẻ phi tiêu
+314118	Thẻ lựu đạn
+314119	Thẻ pháo
+314120	Thẻ sấm sét
+314121	Thẻ nô lệ Goblin
+314122	Thẻ công nhân Goblin
+314123	Thẻ chiến binh Goblin
+314124	Thẻ công binh Goblin
+314125	Thẻ chỉ huy Goblin
+314126	Thẻ gà con
+314127	Thẻ gà mái
+314128	Thẻ gà trống
+314129	Thẻ gà mái xấu xí
+314130	Thẻ gà thể thao
+314131	Thẻ gà huấn luyện
+314132	Thẻ gà khán giả
+314133	Thẻ gà quyền vương
+314134	Thẻ gà trọng tài
+325100	Thư may mắn
+325101	Audi A6
+325102	Trường Giang số 7
+325103	So-co-la
+325104	Máy bay điều khiển
+325105	Pháo đỏ
+325106	Thỏ vàng
+325107	Cung hỉ phát tài
+325108	Kem
+325109	Lamborghini
+325110	Hoa bách hợp
+325111	Bánh kem
+325112	Lì xì
+325113	Hoa hồng
+325114	Hoa hướng dương
+325115	Gấu teddy
+325116	Trang viên Tước sĩ
+325117	bầu trời sao
+325118	Tulip
+325119	Bô công anh
+325120	Bánh quy
+325121	Bánh kem dâu
+325122	Chó robot
+325123	Hộp nhạc
+325124	Búp bê babi
+325125	Túi da Lv
+325126	Dây chuyền kim cương
+1199991	Bảo tàng bản đồ
+1223004	Túi lì xì Tết
+1999991	Túi chiến thắng
+1999992	Túi quà thẻ Vip
+11203600	Kẹo thần bí
+11203601	Phế phẩm
+11203603	Túi quà cống hiến

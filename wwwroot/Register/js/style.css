@@ -1,0 +1,16 @@
+/* ----------------------------------------------------------------------------------------------------------------*/
+/* ---------->>> global settings needed for thickbox <<<-----------------------------------------------------------*/
+/* ----------------------------------------------------------------------------------------------------------------*/
+
+#ValidationSummary1{
+height:200px;
+width:230px;
+left:20px;
+top:23px;
+position:absolute;
+background-color:#e8e8e8;
+border-right: 1px solid #ccc;
+border-bottom: 1px solid #ccc;
+border-top: 1px solid #666;
+border-left: 1px solid #666;
+}

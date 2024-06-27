@@ -1,0 +1,29 @@
+<style name="gotoPage" version="1.0.1" source="ui/vietnam/swf/gotoPage.swf">
+	<sets>
+	</sets>
+	
+	<components>
+		<!--Frame-->
+		<component classname="gotopage.view.GotoPageView" stylename="gotopage.mainFrame" moveEnable="false" parentStyle="BaseFrame" containerX="0" containerY="0" width="280" height="485" x="715" y="60"/>
+		
+		<!--Image-->
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn" resourceLink="asset.gotopage.selectedBox" width="252" height="43" x="15"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn0" parentStyle="gotopage.btn" y="41"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn1" parentStyle="gotopage.btn" y="84"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn2" parentStyle="gotopage.btn" y="126"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn3" parentStyle="gotopage.btn" y="168"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn4" parentStyle="gotopage.btn" y="211"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn5" parentStyle="gotopage.btn" y="254"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn6" parentStyle="gotopage.btn" y="295"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn7" parentStyle="gotopage.btn" y="337"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="gotopage.btn8" parentStyle="gotopage.btn" y="380"/>
+		
+		<!--Button-->
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="gotopage.btnClose" parentStyle="core.simplebt" width="84" height="29" x="98" y="403"/>
+	</components>
+	
+	<bitmaps>
+		<bitmapData resourceLink="asset.gotopage.icon" x="36" y="45"/>
+		<bitmapData resourceLink="asset.gotopage.bgGrid" x="25" y="83"/>
+	</bitmaps>
+</style>

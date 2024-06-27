@@ -1,0 +1,14 @@
+18:33:27,155 - [7] - ERROR - Game.Logic.PVEGame - Can't create game ai :GameServerScript.AI.Game.CopyTerrorGame
+18:33:27,220 - [8] - ERROR - Game.Logic.BaseGame - Map update error:
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.ThrowHelper.ThrowKeyNotFoundException()
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at Game.Logic.PVEGame.PrepareNewSession() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 477
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 36
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697
+18:33:27,253 - [8] - ERROR - Game.Logic.BaseGame - Map update error:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Logic.BaseGame.SendStartLoading(Int32 maxTime) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 1073
+   at Game.Logic.PVEGame.StartLoading() in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\PVEGame.cs:line 531
+   at Game.Logic.Actions.CheckPVEGameStateAction.Execute(BaseGame game, Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\Actions\CheckPVEGameStateAction.cs:line 41
+   at Game.Logic.BaseGame.Update(Int64 tick) in e:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Logic\BaseGame.cs:line 697

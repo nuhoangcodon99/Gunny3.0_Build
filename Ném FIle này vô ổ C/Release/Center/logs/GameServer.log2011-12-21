@@ -1,0 +1,268 @@
+04:47:45,160 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+04:48:46,160 - [7] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+04:49:48,160 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+05:48:28,441 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+05:48:31,941 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+06:48:52,769 - [29] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+07:15:50,894 - [24] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+07:22:10,894 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+07:38:52,957 - [47] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+07:48:43,957 - [31] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+07:48:44,957 - [51] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+08:48:41,222 - [47] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+09:48:33,003 - [47] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+09:48:34,566 - [49] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+10:48:48,660 - [12] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+11:17:59,300 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+11:48:29,003 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+11:48:34,753 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+12:48:45,972 - [31] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+13:48:59,175 - [48] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+13:49:01,175 - [47] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+14:48:29,863 - [46] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+15:48:44,410 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+15:48:52,566 - [46] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+17:21:02,691 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+17:23:07,722 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+17:48:49,722 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+17:48:52,722 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+18:30:15,722 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+18:31:15,722 - [36] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+18:48:47,378 - [34] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+19:21:31,785 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:24:24,800 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:25:23,800 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:26:23,800 - [37] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:27:25,800 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:28:25,800 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:30:28,816 - [29] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:32:28,816 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:35:28,832 - [29] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+19:48:57,863 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+19:48:57,863 - [31] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+19:51:29,878 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+20:01:34,863 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+20:14:40,863 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+20:15:33,863 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+20:48:35,550 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+21:19:04,878 - [3] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+21:48:52,878 - [16] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+21:48:55,878 - [31] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+21:50:25,878 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+21:51:23,878 - [40] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+22:48:57,910 - [34] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+22:50:26,910 - [17] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+22:53:56,910 - [43] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+22:57:57,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:04:13,910 - [11] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:06:57,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:09:15,910 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:10:01,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:11:29,910 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:12:01,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:13:33,910 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:14:01,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:15:31,910 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:18:05,910 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:20:15,910 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:22:41,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:23:41,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:27:49,910 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:29:49,910 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:30:49,910 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:31:25,941 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+23:32:41,550 - [21] - ERROR - Bussiness.BaseBussiness - Init
+System.InvalidOperationException: Tempo limite expirado. O período de tempo limite foi atingido antes que fosse obtida uma conexão do pool. Isso pode ter ocorrido porque todas as conexões do pool estavam em uso e o tamanho máximo do pool foi atingido.
+   em System.Data.ProviderBase.DbConnectionFactory.GetConnection(DbConnection owningConnection)
+   em System.Data.ProviderBase.DbConnectionClosed.OpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory)
+   em System.Data.SqlClient.SqlConnection.Open()
+   em SqlDataProvider.BaseClass.Sql_DbObject.OpenConnection(SqlConnection _SqlConnection)
+   em SqlDataProvider.BaseClass.Sql_DbObject.RunProcedure(String ProcedureName, SqlParameter[] SqlParameters)
+   em Bussiness.ServiceBussiness.UpdateService(ServerInfo info)
+23:32:01,910 - [23] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:34:51,910 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:48:30,425 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+23:48:42,910 - [5] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+23:49:15,160 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:52:54,160 - [27] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:53:21,910 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:54:15,691 - [30] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:55:48,910 - [26] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:56:21,910 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:57:45,910 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)
+23:58:21,910 - [41] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.ConsortiaBussiness.ScanConsortia(String& noticeID)

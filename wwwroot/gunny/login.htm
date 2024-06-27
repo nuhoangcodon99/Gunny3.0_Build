@@ -1,0 +1,370 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta http-equiv="expires" content="0" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<title>Webgame Gunny Online</title>
+		<link rel="stylesheet" type="text/css" href="scripts/style.css" />
+		<link rel="stylesheet" type="text/css" href="scripts/global.css" />
+		<link rel="stylesheet" type="text/css" href="scripts/thickbox.css" />
+		<script type="text/javascript" src="./scripts/webtoolkit.md5.js"></script>
+
+		<!--[if IE 6]>
+			<script src="scripts//js/DD_belatedPNG_0.0.8a.js?1311753873"></script>
+			<script>
+				DD_belatedPNG.fix(
+					'h1 a,#nav ul li a.serverTot,#nav ul li a.serverMoi,#nav ul li a.serverDay,#Header .ShortLink li a',
+				);
+			</script>
+		<![endif]-->
+		<script src="scripts/ga.js" async="" type="text/javascript"></script>
+		<script type="text/javascript" src="scripts/jquery-core.htm"></script>
+		<script type="text/javascript" src="scripts/fadegallery.js"></script>
+		<script src="scripts/jquery.htm" type="text/javascript"></script>
+		<script src="scripts/call-jcarousel.htm" type="text/javascript"></script>
+		<script language="javascript">
+			$(document).ready(function () {
+				if ($('p.TextWarning').length > 0) {
+					var color = ['black', 'red'];
+					var i = 0;
+
+					var change_c = setInterval(function () {
+						if (i == color.length) {
+							i = 0;
+						}
+						$('p.TextWarning > a').css('color', color[i]);
+						i = i + 1;
+					}, 500);
+				}
+			});
+		</script>
+		<script src="scripts/swfobject.js" type="text/javascript"></script>
+		<script src="scripts/jquery.js" type="text/javascript"></script>
+		<script src="scripts/jquery-1.4.1.js" type="text/javascript"></script>
+		<script src="scripts/jqModal.js" type="text/javascript"></script>
+		<script src="scripts/destroyie6.js" type="text/javascript"></script>
+		<script src="scripts/flash_detect_min.js" type="text/javascript"></script>
+		<script src="scripts/common.js" type="text/javascript"></script>
+
+		<script
+			charset="utf-8"
+			src="scripts/thickbox.js"
+			type="text/javascript"
+		></script>
+
+		<script type="text/javascript">
+			$(document).ready(function () {
+				$('#username').focus();
+				var $j = jQuery.noConflict();
+				// Make the AJAX call to the WebMethod when the textbox loses focus
+				$j('#username').blur(function () {
+					$j.ajax({
+						type: 'POST',
+						url: 'CheckUserName.aspx/KiemTraTenDangNhap',
+						data: "{'TenDangNhap':'" + $j('#username').val() + "'}",
+						contentType: 'application/json; charset=utf-8',
+						dataType: 'json',
+						success: function (message) {
+							if (message.d == false) {
+								$j('#checkReturn').css({
+									color: 'red',
+									'font-weight': 'bold',
+									'font-size': 'small',
+									'padding-left': '5px',
+								});
+								$j('#checkReturn').text('Username này đã tồn tại');
+								// Ẩn Nút Submit nếu UserName không hợp lệ
+								$j('#btnSubmit').hide();
+							} else {
+								$j('#checkReturn').css({
+									color: 'green',
+									'font-weight': 'bold',
+									'font-size': 'small',
+									'padding-left': '5px',
+								});
+								$j('#btnSubmit').show();
+								$j('#checkReturn').text(
+									'UserName này chưa có. Bạn có thể sử dụng',
+								);
+							}
+						},
+						error: function (errormessage) {
+							//Hiển thị lỗi nếu xảy ra
+							$j('#checkReturn').text(errormessage.responseText);
+						},
+					});
+				});
+			});
+		</script>
+
+		<script
+			async="async"
+			defer="defer"
+			charset="utf-8"
+			src="scripts/jquery-1.js"
+			type="text/javascript"
+		></script>
+		<script type="text/javascript" src="scripts/unionpower.js"></script>
+		<link rel="stylesheet" type="text/css" href="scripts/jquery.css" />
+		<link rel="stylesheet" href="unionpower.css" type="text/css" />
+	</head>
+
+	<body>
+		<!--[if lt IE 6
+			]><div
+				style="
+					clear: both;
+					height: 40px;
+					padding: 0;
+					text-align: center;
+					position: relative;
+					background: #000;
+				"
+			>
+				<a
+					href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home?ocid=ie6_countdown_bannercode"
+					onclick="DestroyIE6('Gunny',Idgunny)"
+					><img
+						src="http://img.zing.vn/eventgame/images/destroyie6.jpg"
+						border="0"
+						height="42"
+						width="940"
+						alt="B?n ?ang s? d?ng phi�n b?n Internet Explorer ?? l?i th?i, ?? c� tr?i nghi?m duy?t web nhanh h?n, an to�n h?n, h?y n�ng c?p ngay h�m nay."
+				/></a>
+			</div>
+		<![endif]-->
+
+		<div id="Wrapper" class="WrapperListServer">
+			<div id="WrapperIn">
+				<div id="Header">
+					<h1>
+						<a href="./index.html" title="Trang chủ Gunny">Trang chủ Gunny</a>
+					</h1>
+					<ul class="ShortLink">
+						<li>
+							<a
+								class="TrangChu"
+								href="https://www.facebook.com/bengokyeuanh.99"
+								title="Trang chủ Gunny"
+								target="_blank"
+								>Trang chủ</a
+							>
+						</li>
+
+						<li>
+							<a
+								class="DienDan"
+								href="https://www.facebook.com/bengokyeuanh.99"
+								target="_blank"
+								title="Diễn đàn"
+								>Diễn đàn</a
+							>
+						</li>
+
+						<li>
+							<a
+								class="NapXu"
+								href="https://www.facebook.com/bengokyeuanh.99"
+								target="_blank"
+								title="Nạp xu"
+								>Nạp xu</a
+							>
+						</li>
+						<li>
+							<a
+								class="HoTro"
+								href="https://www.facebook.com/bengokyeuanh.99"
+								target="_blank"
+								title="Hỗ trợ"
+								>Hỗ trợ</a
+							>
+						</li>
+					</ul>
+				</div>
+				<div id="MainContent">
+					<div class="News">
+						<iframe
+							allowtransparency="1"
+							marginheight="0"
+							marginwidth="0"
+							src="scripts/idzingme.htm"
+							frameborder="0"
+							height="228"
+							scrolling="no"
+							width="772"
+						></iframe>
+					</div>
+					<script type="text/javascript">
+						$('#password').keypress(function (e) {
+							if (e.keyCode == 13) {
+								document.frmLogin.submit();
+							}
+						});
+					</script>
+					<script type="text/javascript"></script>
+					<script src="scripts/validate.js" type="text/javascript"></script>
+					<link rel="stylesheet" type="text/css" href="jqModal.css" />
+					<div class="FormLogin">
+						<div class="QuickReg">
+							<div class="quickReg">
+								<a
+									href="../register/Default.aspx?type=154&amp;eventid=63&amp;bannerid=104&amp;pid=49&amp;placeValuesBeforeTB_=savedValues&amp;TB_iframe=true&amp;height=430&amp;width=366"
+									title=""
+									class="thickbox"
+									style="
+										background: url(images/dang-ky-nhanh.jpg) no-repeat scroll
+											0pt 0pt transparent;
+									"
+									id="quickregister"
+									>Đăng ký nhanh</a
+								>
+							</div>
+						</div>
+
+						<form
+							action="LoginGame.aspx"
+							id="frmLogin"
+							name="frmLogin"
+							method="post"
+							target="_top"
+						>
+							<div class="frm_dangnhap">
+								<div class="username">
+									<input
+										name="txtUserName"
+										id="username"
+										value=""
+										class="txt_box"
+										type="text"
+									/><br />
+								</div>
+								<div class="password">
+									<input
+										name="addpassword"
+										id="password"
+										value=""
+										onkeyup="this.form.txtPassword.value = MD5(this.form.addpassword.value)"
+										class="txt_box"
+										type="password"
+									/>
+									<input id="sign" type="hidden" value="" name="txtPassword" />
+									<!--<INPUT id="sign" type="text" value="" name="txtPassword"> -->
+								</div>
+								<input
+									value=""
+									style="height: 0px; width: 0px"
+									tabindex="999"
+									hidefocus="true"
+									type="submit"
+								/>
+							</div>
+
+							<div class="frm_button">
+								<a
+									href="#"
+									class="ChoiNgay"
+									onclick="return checklogin();"
+									title="Đăng nhập"
+									>Đăng nhập</a
+								>
+
+								<input name="appid" id="appid" value="ZG" type="hidden" />
+								<input name="group" id="group" value="LOGIN" type="hidden" />
+								<input
+									name="sign"
+									id="sign"
+									value="724507a7f013e28cae01babde0130b32"
+									type="hidden"
+								/>
+								<input name="time" id="time" value="1333967082" type="hidden" />
+							</div>
+
+							<div class="login">
+								<p style="text-align: center">
+									<!--a href="https://id.zing.vn/register/index.49.html" class="dangky" id = "dangky"><strong>&#272;&#259;ng k&#253; t&#224;i kho&#7843;n</strong></a-->
+								</p>
+								<div class="LuuY">
+									<p style="text-align: center">
+										<a
+											href="../register/changepass.aspx?type=154&amp;eventid=63&amp;bannerid=104&amp;pid=49&amp;placeValuesBeforeTB_=savedValues&amp;TB_iframe=true&amp;height=430&amp;width=366"
+											title=""
+											class="thickbox"
+											style=""
+											id="quickregister"
+											>Đổi mật khẩu</a
+										>
+										<br /><a
+											href="../register/forgotpass.aspx?type=154&amp;eventid=63&amp;bannerid=104&amp;pid=49&amp;placeValuesBeforeTB_=savedValues&amp;TB_iframe=true&amp;height=430&amp;width=366"
+											title=""
+											class="thickbox"
+											style=""
+											id="quickregister"
+											>Quên mật khẩu</a
+										>
+									</p>
+									<p class="TextWarning">
+										<a
+											href="http://www.adobe.com/support/flashplayer/downloads.html"
+											target="_blank"
+											>Cài ngay Adobe Flash 11.0, chơi Gunny không lag!</a
+										>
+										<br />Bấm F11 để chơi Gunny toàn màn hình
+									</p>
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+				<div id="Footer">
+					<ul>
+						<li>
+							<a
+								href="http://www.vng.com.vn/"
+								title="Công ty VNG"
+								target="_blank"
+								>Công ty VNG</a
+							>
+						</li>
+						<li>
+							<a
+								href="https://www.facebook.com/bengokyeuanh.99"
+								title="Công ty 7Road"
+								target="_blank"
+								>Công ty 7Road</a
+							>
+						</li>
+					</ul>
+					<a
+						class="Rating"
+						href="http://game.zing.vn/rating/index.html?pid=64&amp;eventid=7&amp;bannerid=29"
+						title="Xếp loại game"
+						target="_blank"
+						>Xếp loại game</a
+					>
+					<p>
+						© Bản quyền thuộc Ánh Ngọc.<br />Không Sao Chép - Coppy dưới mọi
+						hình thức.<br />Quốc Oai - Hà Nội
+					</p>
+				</div>
+			</div>
+		</div>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-12222092-1']); // for Id
+			_gaq.push(['_trackPageview']);
+
+			(function () {
+				var ga = document.createElement('script');
+				ga.type = 'text/javascript';
+				ga.async = true;
+				ga.src =
+					('https:' == document.location.protocol
+						? 'https://ssl'
+						: 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0];
+				s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+	</body>
+</html>

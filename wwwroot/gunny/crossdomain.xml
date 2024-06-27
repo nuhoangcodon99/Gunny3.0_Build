@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cross-domain-policy>
+	<allow-http-request-headers-from domain="ddtankwind.us" headers="*" />
+	<allow-http-request-headers-from domain="*.ddtankwind.us" headers="*" />
+	<allow-access-from domain="ddtankwind.us" />
+	<allow-access-from domain="*.ddtankwind.us" />
+	<allow-access-from domain="192.1678.0.105" />
+	<allow-access-from domain="50.7.228.45" />
+	<allow-access-from domain="50.63.84.118" />
+</cross-domain-policy>

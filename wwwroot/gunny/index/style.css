@@ -1,0 +1,287 @@
+* { 
+	padding: 0;
+	margin: 0;
+}
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000;
+	background: #70b241;
+}
+.Wrapper {
+	background: url(../images/bg-header.jpg) no-repeat center top ;
+}
+.Main {
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+h1 {
+	padding: 20px 0 0 421px;
+	width: 160px;
+	height: 64px;
+	display: block;
+	float: left;
+}
+a.Logo {
+	width: 160px;
+	height: 62px;
+	display: block;
+	text-indent: -9999px;
+}
+ul.Link {
+	display: block;
+	padding: 24px 0 3px 167px;
+	width: 250px;
+	float: left;
+}
+	ul.Link li {
+		display: inline;
+		color: #000;
+		font-size: 11px;
+		font-weight: bold;
+	}
+		ul.Link li a:link,
+		ul.Link li a:visited {
+			color: #000;
+			text-decoration: none;
+		}
+		ul.Link li a:hover {
+			color: #a35c00;
+			text-decoration: none;
+		}
+a.ChoiNgay:link,
+a.ChoiNgay:visited {
+	background: url(../images/choingay.jpg) no-repeat;
+	height: 138px;
+	width: 137px;
+	display: inline;
+	text-indent: -9999px;
+	position: absolute;
+	top: 65px;
+	right: 101px
+}
+a.ChoiNgay:hover {
+	background-position: 0 -138px;
+}
+a.TangCode:link,
+a.TangCode:visited {
+	background: url(../images/tangcode.jpg) no-repeat;
+	height: 134px;
+	width: 136px;
+	display: block;
+	text-indent: -9999px;
+	position: absolute;
+	top: 439px;
+	left: 27px;
+}
+a.TangCode:hover {
+	background-position: 0 -134px;
+}
+a.TangCodeOff:link,
+a.TangCodeOff:visited,
+a.TangCodeOff:hover {
+	background: url(../images/tangcode.jpg) no-repeat;
+	background-position: 0 -268px;
+	height: 134px;
+	width: 136px;
+	display: block;
+	text-indent: -9999px;
+	position: absolute;
+	top: 439px;
+	left: 27px;
+	cursor: default;
+}
+ul.Nav {
+	padding: 369px 0 20px 189px;
+	display: block;
+	overflow: hidden;
+	width: 496px;
+	float: left;
+}
+	ul.Nav li {
+		float: left;
+	}
+		ul.Nav li a {
+			background: url(../images/menu.jpg) no-repeat;
+			height: 110px;
+			display: block;
+			 text-indent: -9999px;
+		}
+		ul.Nav li a.NhiemVu:link,
+		ul.Nav li a.NhiemVu:visited {
+			background-position: 0 0;
+			width: 116px;
+		}
+		ul.Nav li a.NhiemVu:hover {
+			background-position: 0 -110px;
+		}
+		ul.Nav li.Off a.NhiemVu:link,
+		ul.Nav li.Off a.NhiemVu:visited,
+		ul.Nav li.Off a.NhiemVu:hover {
+			background-position: 0 -220px;
+		}
+		ul.Nav li a.BatGa:link,
+		ul.Nav li a.BatGa:visited {
+			background-position: -116px 0;
+			width: 123px;
+		}
+		ul.Nav li a.BatGa:hover {
+			background-position: -116px -110px;
+		}
+		ul.Nav li.Off a.BatGa:link,
+		ul.Nav li.Off a.BatGa:visited,
+		ul.Nav li.Off a.BatGa:hover {
+			background-position: -116px -220px;
+		}
+		ul.Nav li a.SuMenh:link,
+		ul.Nav li a.SuMenh:visited {
+			background-position: -239px 0;
+			width: 123px;
+		}
+		ul.Nav li a.SuMenh:hover {
+			background-position: -239px -110px;
+		}
+		ul.Nav li.Off a.SuMenh:link,
+		ul.Nav li.Off a.SuMenh:visited,
+		ul.Nav li.Off a.SuMenh:hover {
+			background-position: -239px -220px;
+		}
+		ul.Nav li a.TongHop:link,
+		ul.Nav li a.TongHop:visited {
+			background-position: -362px 0;
+			width: 123px;
+		}
+		ul.Nav li a.TongHop:hover {
+			background-position: -362px -110px;
+		}
+		ul.Nav li.Off a.TongHop:link,
+		ul.Nav li.Off a.TongHop:visited,
+		ul.Nav li.Off a.TongHop:hover {
+			background-position: -362px -220px;
+		}
+.BoxNews {
+	float: left;
+	padding: 372px 0 20px 20px;
+	width: 270px
+}
+.BoxNews h2 {
+	background: url(../images/title.jpg) no-repeat;
+	width: 140px;
+	height: 21px;
+	text-indent: -9999px;
+}
+ul.News {
+	display: block;
+	overflow: hidden;
+}
+	ul.News li {
+		float: left;
+		background: url(../images/line.gif) repeat-x bottom;
+		font-size: 11px;
+		font-weight: bold;
+		width: 100%;
+		padding: 2px 0 4px 0;
+	}
+	ul.News li.Last {
+		background: none;
+	}
+		ul.News li a:link,
+		ul.News li a:visited {
+			background: url(../images/icon-nor.gif) no-repeat left 6px;
+			padding: 0 0 2px 10px;
+			text-decoration: none;
+			color: #f6deac;
+		}
+		ul.News li a:hover {
+			background: url(../images/icon-hover.gif) no-repeat left 6px;
+			color: #ffcc00;
+		}
+.Footer {
+	height: 100px;
+	padding: 25px 0 20px 0;
+	color: #000;
+	font-size: 11px;
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	line-height: 18px;
+	text-align: center;
+}
+.Footer p {
+	width: 480px;
+	float: left;
+	padding: 11px 0 0 0;
+}
+.Vng {
+    float: left;
+    height: 54px;
+    margin: 0 26px 0 257px;
+    text-indent: -9999px;
+    width: 35px;
+	background: url(../images/space.gif) repeat;
+	display: inline;
+}
+.Kingsoft {
+    float: left;
+    height: 31px;
+    margin: 10px 10px 10px 0;
+    text-indent: -9999px;
+    width: 32px;
+	background: url(../images/space.gif) repeat;
+	display: inline;
+}
+.QuickReg{
+	background: none;
+	overflow: hidden;
+	padding-top: 36px;
+	position: absolute;
+	z-index: 1000;
+	height: 410px;
+	width: 440px;
+	padding: 0;	
+}
+.QuickReg .SurveyClose{
+	background: url(../images/close1.gif) no-repeat;	
+	height: 23px;
+	left: 384px;
+	top: 23px;
+	width: 25px;
+	position: absolute;
+	display: block;
+	text-indent: -1000em;
+}
+.QuickReg .SurveyContent{
+	height: auto;
+	overflow: hidden;
+	padding: 0 0 0 20px;
+	width: auto;	
+}
+.QuickVideo{
+	background: none;
+	overflow: hidden;
+	padding-top: 36px;
+	position: absolute;
+	z-index: 1000;
+	height: 416px;
+	width: 768px;
+	padding: 0;	
+}
+.QuickVideo .SurveyClose{
+	background: url(../images/close.png) no-repeat;	
+	height: 23px;
+	left: 740px;
+	top: 0px;
+	width: 25px;
+	position: absolute;
+	display: block;
+	text-indent: -1000em;
+}
+.QuickVideo .SurveyContent{
+	height: auto;
+	overflow: hidden;
+	padding: 0 0 0 20px;
+	width: auto;	
+}

@@ -1,0 +1,18 @@
+20:30:38,203 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+2011-12-22 21:30:55,968 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+2011-12-22 21:30:57,968 - [9] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+22:30:56,078 - [18] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)
+23:30:52,171 - [14] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanMail(String& noticeUserID)
+23:30:55,171 - [10] - ERROR - Bussiness.BaseBussiness - Init
+System.NullReferenceException: Referência de objeto não definida para uma instância de um objeto.
+   em Bussiness.PlayerBussiness.ScanAuction(String& noticeUserID)

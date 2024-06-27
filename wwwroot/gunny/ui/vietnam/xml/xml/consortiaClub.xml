@@ -1,0 +1,105 @@
+<style name="consortiaClub" version="1.0.1" source="ui/vietnam/swf/consortiaClub.swf">
+	<sets>
+		<set stylename="consortia.search_text" args="Arial,16,0x000000" type="flash.text.TextFormat"/>
+		<set stylename="consortia.search_filter" args="1,45,0xC8A075,1,1,1,10" type="flash.filters.DropShadowFilter"/>
+		<set stylename="consortia.createConsortia_text" args="Arial,15,0xffffff" type="flash.text.TextFormat" />
+		<set stylename="consortia.applyListItem_text" args="Arial,16,0x013465,true" type="flash.text.TextFormat" />
+		<set stylename="consortia.applyListItem_filter" args="0xF3EBE2,1,2,2,10" type="flash.filters.GlowFilter"/>
+	</sets>
+	<components>
+		<!--consortiaClubView-->
+		<!--BG or IMG-->
+		<component classname="com.pickgliss.ui.image.MovieImage" stylename="consortia.clubView.BG1"
+			resourceLink="asset.consortia.ConsortiaClubView.BG1" width="976" height="512" x="4" y="15" scaleGridString="15,7,75,20"/>
+		<component classname="com.pickgliss.ui.image.MovieImage" stylename="consortia.clubView.BG2"
+			resourceLink="asset.consortia.ConsortiaClubView.BG2" width="946" height="472" scaleGridString="15,7,75,20"/>
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="consortia.clubView.BG3"
+			width="440"	height="196" x="520" y="103" 
+			resourceLink="asset.consortia.consortiaClubView.BG3.leftUp,asset.consortia.consortiaClubView.BG3.UpMid,asset.consortia.consortiaClubView.BG3.rightUp,asset.consortia.consortiaClubView.BG3.leftMid,asset.consortia.consortiaClubView.BG3.Mid,asset.consortia.consortiaClubView.BG3.rightMid,asset.consortia.consortiaClubView.BG3.leftDown,asset.consortia.consortiaClubView.BG3.DownMid,asset.consortia.consortiaClubView.BG3.rightDown"/>
+		
+		<!--Frame-->
+		<component classname="com.pickgliss.ui.controls.Frame" stylename="consortia.clubView.createConsortiaFrame"
+			parentStyle="BaseFrame" width="353" height="230" moveEnable="false"/>
+		
+		<!--Button-->
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.clubView.createConsortiaBtn"
+			backStyle="asset.consortia.consortiaClubView.createConsortiaBtn" filterString="null,lightFilter,null,grayFilter"
+			width="184" height="46" x="777" y="30"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.clubView.searchConsortiaBtn"
+			backStyle="asset.consortia.consortiaClubView.searchConsortiaBtn" filterString="null,lightFilter,null,grayFilter" 
+			width="92" height="29" x="660" y="36"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.clubView.applyJoinBtn"
+			backStyle="asset.consortia.consortiaClubView.applyJoinBtn" filterString="null,lightFilter,null,grayFilter"
+			width="112" height="39" x="24" y="332"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.clubView.randomSearchBtn"
+			backStyle="asset.consortia.consortiaClubView.randomSearchBtn" filterString="null,lightFilter,null,grayFilter"
+			width="112" height="39" x="390" y="332"/>
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="consortia.clubView.applyNoteBtnSelected"
+			resourceLink="asset.consortia.consortiaClubView.applyNoteBtn2,asset.consortia.consortiaClubView.light"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.clubView.applyNoteBtn"
+			unSelectedStyle="asset.consortia.consortiaClubView.applyNoteBtn1" selectedStyle="consortia.clubView.applyNoteBtnSelected" x="628" y="302"/>
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="consortia.clubView.inviteNoteBtnSelected"
+			resourceLink="asset.consortia.consortiaClubView.inviteNoteBtn2,asset.consortia.consortiaClubView.light"/>
+		<component classname="com.pickgliss.ui.controls.SelectedButton" stylename="consortia.clubView.inviteNoteBtn"
+			unSelectedStyle="asset.consortia.consortiaClubView.inviteNoteBtn1" selectedStyle="consortia.clubView.inviteNoteBtnSelected" x="523" y="302"/>
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.clubView.createConsortiaOKBtn"
+			parentStyle="core.simplebt" x="85" y="188" />
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="consortia.clubView.createConsortiaCancelBtn"
+			parentStyle="core.simplebt" x="185" y="188" />
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.clubView.cancleApplyBtn"
+			backStyle="asset.consortia.consortiaClubView.cancleApplyBtn" filterString="null,lightFilter,null,grayFilter" width="73" height="22" x="340" y="5"/>
+		<component classname="com.pickgliss.ui.controls.BaseButton" stylename="consortia.clubView.acceptInviteBtn"
+			backStyle="asset.consortia.consortiaClubView.acceptInviteBtn" filterString="null,lightFilter,null,grayFilter" width="73" height="22" x="340" y="5"/>
+		
+		<!--Text-->
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.searchTxt"
+			textFormatStyle="consortia.search_text"	filterString="consortia.search_filter" multiline="false" wordWrap="false" autoSize="none"/>
+		<component classname="com.pickgliss.ui.controls.TextInput" stylename="consortia.clubView.searchInput"
+			textStyle="consortia.clubView.searchTxt" textInnerRectString="10,10,3,2,0"  x="377" y="39" width="273" height="22"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.textStyle"
+			filterString="consortia.clubView.text_filter" textFormatStyle="consortia.clubView.text_text" wordWrap="true" type="dynamic" mouseEnabled="false"/>
+		<component classname="com.pickgliss.ui.text.TextArea" stylename="consortia.clubView.text" parentStyle="core.SimpleTextArea"
+			textStyle="consortia.clubView.textStyle" x="536" y="117" width="418" height="166" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.createConsortiaInputTxt"
+			textFormatStyle="consortia.createConsortia_text"/>
+		<component classname="com.pickgliss.ui.controls.TextInput" stylename="consortia.clubView.createConsortiaInput"
+			textStyle="consortia.clubView.createConsortiaInputTxt" textInnerRectString="10,10,3,2,0" width="105" height="25" x="128" y="86" autoSize="none" multiline="false" wordWrap="false" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.clubList.consortiaNameTxt"
+			textFormatStyle="consortia.clubList_text" filterString="consortia.clubList_filter" 	autoSize="none" width="135" height="24" x="2" y="6" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.clubList.cdrTxt"
+			parentStyle="consortia.clubView.clubList.consortiaNameTxt" x="133" y="6" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.clubList.numberTxt"
+			parentStyle="consortia.clubView.clubList.consortiaNameTxt" autoSize="none" width="60" height="22" x="256" y="6" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.clubList.levelTxt"
+			textFormatStyle="consortia.clubList_text" filterString="consortia.clubList_filter" autoSize="none" width="52" height="24" x="320" y="6" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.clubList.consortiaPrestigeTxt"
+			textFormatStyle="consortia.clubList_text" filterString="consortia.clubList_filter" autoSize="none" width="95" height="24" x="376" y="6" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="consortia.clubView.clubList.applyListTitleTxt"
+			textFormatStyle="consortia.applyListItem_text" filterString="consortia.applyListItem_filter" autoSize="none" width="323" height="23" x="15" y="6" />
+		
+		<!--list-->
+		<component classname="consortia.view.club.ConsortiaClubList" stylename="consortia.clubView.clubList"
+			spacing="4" x="21" y="120" />
+		
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="consortia.clubView.RecordListPanel"
+			parentStyle="core.ScrollPanel" width="439" height="154" vUnitIncrement="3" vScrollProxy="0" /> 
+		
+		<component classname="com.pickgliss.ui.controls.container.VBox" stylename="consortia.clubView.ConsortiaRecordListBox" spacing="1"/>
+		
+	</components>
+	<bitmaps>
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg1" x="30" y="-3" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg2" x="28" y="50" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg3" x="520" y="74" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg4" x="281" y="31" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg5" x="55" y="84" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg6" x="200" y="84" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg7" x="288" y="84" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg8" x="350" y="84" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.wordImg9" x="410" y="84" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.createConsortiaFrameBG"	x='16' y='38'/>
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.consortiaClubItemLight" widht="467" height="42" y="-3" />
+		<bitmapData resourceLink="asset.consortia.consortiaClubView.light" x="-3" y="-3" />
+		<bitmapData resourceLink="asset.consortia.myConsortiaView.TextBG" width="105" x="127" y="83" />
+	</bitmaps>
+</style>

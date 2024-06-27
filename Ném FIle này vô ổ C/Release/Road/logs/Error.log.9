@@ -1,0 +1,9 @@
+07:59:24,917 - [6] - ERROR - Game.Base.Packets.PacketProcessor - Error while processing packet (handler=Game.Server.Packets.Client.UserBuyItemHandler  client: 192.168.0.102:57103)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Game.Server.Packets.Client.UserBuyItemHandler.HandlePacket(GameClient client, GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Client\UserBuyItemHandler.cs:line 53
+   at Game.Base.Packets.PacketProcessor.HandlePacket(GSPacketIn packet) in E:\temp\download\Gunny.phien-nhatrang\Herman-PC\workspace\Server3.0\Game.Server\Packets\Server\PacketProcessor.cs:line 77
+07:59:24,980 - [6] - ERROR - Game.Base.Packets.PacketProcessor - Package Buffer:
+0000: 71 AB 00 2D 02 04 00 2C 00 00 00 50 00 00 00 00   q..-...,...P....
+0010: 00 00 00 00 00 00 00 01 00 3D 09 C9 00 00 00 01   .........=......
+0020: 00 00 00 00 00 00 00 00 00 00 00 00 00            .............   
+

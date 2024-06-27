@@ -1,0 +1,62 @@
+﻿<style name="serverList" version="1.0.1" source="ui/vietnam/swf/serverList.swf">
+	<sets>
+		<set stylename="serverlist.tfIndex" args="Arial Black,22,0xFF9933,,,,,,center" type="flash.text.TextFormat"/>
+		<set stylename="serverlist.tfName" args="Arial,14,0x333333,true" type="flash.text.TextFormat"/>
+		<set stylename="serverlist.tfLevel" args="Arial,12,0x333333" type="flash.text.TextFormat"/>
+		
+		<set args="0x6A4625,1,2,2,10,1" stylename="serverlist.glow1" type="flash.filters.GlowFilter"/>
+		<set args="0xF8EBDA,1,2,2,10,1" stylename="serverlist.glow2" type="flash.filters.GlowFilter"/>
+		<set args="0.82,0.84,0.72,1,0,-31,-31" stylename="serverlist.colorTransform" type="flash.geom.ColorTransform" />
+	</sets>
+	
+	<customDisplay>
+		<custom classname="bagAndInfo.info.PlayerInfoView" stylename="serverlist.playInfo" x="42" y="68"/>
+		<custom classname="serverlist.view.ServerListItemView" stylename="serverlist.serverlistItem" width="220" height="72"/>
+		<custom classname="asset.serverlist.GreenArrow" stylename="serverlist.greenArrow" scaleX="0.7" scaleY="0.7" rotation="45" x="627" y="155"/>
+	</customDisplay>
+	
+	<components>
+		<!--木纹拉伸九宫格图片-->
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename="serverlist.bgScale" parentStyle="core.scale9cornerImageTree" width="506" height="360" x="481" y="83"/>
+		
+		<!--Image-->
+		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid" resourceLink="asset.serverlist.grid" width="220" height="72"/>
+		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid0" parentStyle="serverlist.grid" x="509" y="137" />
+   		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid1" parentStyle="serverlist.grid" x="732" y="137" />
+  		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid2" parentStyle="serverlist.grid" x="509" y="207" />
+   		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid3" parentStyle="serverlist.grid" x="732" y="207" />
+    		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid4" parentStyle="serverlist.grid" x="509" y="277" />
+    		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid5" parentStyle="serverlist.grid" x="732" y="277" />
+    		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid6" parentStyle="serverlist.grid" x="509" y="347" />
+   		<component classname="com.pickgliss.ui.image.Image" stylename="serverlist.grid7" parentStyle="serverlist.grid" x="732" y="347" />
+		
+		<!--Button-->
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="serverlist.close" backStyle="asset.serverlist.close" width="50" height="20" x="308" y="40"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="serverlist.btnOk" backStyle="asset.serverlist.ok" width="186" height="48" x="515" y="460"/>
+		<component classname="com.pickgliss.ui.controls.SimpleBitmapButton" stylename="serverlist.btnExit" backStyle="asset.serverlist.exit" width="192" height="54" x="716" y="456"/>
+		
+		<!--ScaleFrameImage-->
+		<component classname="com.pickgliss.ui.image.ScaleFrameImage" stylename="serverlist.serverstatus" resourceLink="asset.serverlist.weihu,asset.serverlist.changtong,asset.serverlist.huobao,asset.serverlist.baoman" x="178" y="20"/>
+		
+		<!--FilterFrameText-->
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="serverlist.txtIndex" filterString="serverlist.glow1" textFormatStyle="serverlist.tfIndex" autoSize="none" width="31" height="41" x="3" y="17"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="serverlist.txtName" filterString="serverlist.glow2" textFormatStyle="serverlist.tfName" width="36" height="18" x="38" y="16"/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="serverlist.txtLevel" filterString="serverlist.glow2" textFormatStyle="serverlist.tfLevel" width="145" height="18" x="112" y="19"/>
+	</components>
+	
+	<bitmaps>
+		<bitmapData resourceLink="asset.serverlist.bg" width="482" height="331" x="492" y="102"/>
+		<bitmapData resourceLink="asset.serverlist.channelList" width="244" height="50" x="378" y="14"/>
+		<bitmapData resourceLink="asset.serverlist.selectChannel" width="79" height="23" x="496" y="74"/>
+		<bitmapData resourceLink="asset.serverlist.F11tip" width="363" height="55" x="6" y="10"/>
+		<bitmapData resourceLink="asset.serverlist.enterGame" width="219" height="48" x="726" y="35"/>
+		<bitmapData resourceLink="asset.serverlist.health" x="51" y="525"/>
+		
+		<bitmapData resourceLink="asset.serverlist.cellBg" width="220" height="72" x="0" y="0"/>
+		<bitmapData resourceLink="asset.serverlist.state" width="173" height="12" x="39" y="52"/>
+		<bitmapData resourceLink="asset.serverlist.weihu"  x="-3" y="5"/>
+		<bitmapData resourceLink="asset.serverlist.changtong" x="2" y="3"/>
+		<bitmapData resourceLink="asset.serverlist.huobao"  x="1" y="2"/>
+		<bitmapData resourceLink="asset.serverlist.baoman"  x="-3" y="-12"/>
+	</bitmaps>
+</style>

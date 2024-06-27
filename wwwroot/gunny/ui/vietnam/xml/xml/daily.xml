@@ -1,0 +1,145 @@
+<style name="daily" version="1.0.1" source="ui/vietnam/swf/daily.swf">
+	<sets>
+		<!--Filter-->
+		<set stylename="daily.T_g1" args="0x410501,1,2,2,1000"  type="flash.filters.GlowFilter"/>
+		<!--TextFormat-->
+		<set stylename="daily.T_1" args="Arial,13,0x764B37,true" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_2" args="Arial,13,0x64563C,true" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_3" args="Arial,13,0x764B37" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_4" args="Arial,13,0xFF0000,true" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_4_1" args="Arial,13,0x42E558,true" type="flash.text.TextFormat"/>
+
+		<set stylename="daily.T_5" args="Arial,14,0x88231D,true" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_6" args="Arial,14,0xFFFFFF,true" type="flash.text.TextFormat"/>
+
+		<set stylename="daily.T_7" args="Arial,14,0xFF0000,true" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_8" args="Arial,14,0x000000" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_9" args="Arial,14,0xA0290F" type="flash.text.TextFormat"/>
+		<set stylename="daily.T_10" args="Arial,14,0x933406,true" type="flash.text.TextFormat"/>
+
+		<set stylename="daily.T_11" args="Arial,13,0xFFFFFF,true" type="flash.text.TextFormat"/>
+	</sets>
+	<components>
+		<!--材料-->
+		<!--黑木纹-->
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename='daily.blackWoodTurtle1_style'
+			width='254' height='468' parentStyle='core.scale9CornerImage1' />
+		<component classname="com.pickgliss.ui.image.Scale9CornerImage" stylename='daily.blackWoodTurtle2_style'
+			x='267' width='489' height='468' parentStyle='core.scale9CornerImage1'
+			/>
+		<!--低图背景3-->
+		<component classname="com.pickgliss.ui.image.ScaleBitmapImage" stylename="daily.bg3_style"
+			x='273' y='6' width="476" height="454" scaleGridString="30,30,40,40" resourceLink="asset.daily.bg3"
+			/>
+
+		<!--读取-->
+		<!--主框-->
+		<component classname="daily.view.DailyConductFrame" stylename="daily.ConductFrame"
+			backStyle="core.bg006" width="790" height="520" parentStyle="BaseFrame"
+			titleStyle="FrameTitleTextStyle" closestyle="core.closebt" closeInnerRectString="44,6,3,30,14"
+			containerX="15" containerY="38" titleOuterRectPosString="6,6,5" moveInnerRectString="0,30,0,30,1"
+			moveEnable="true" escEnable='true' />
+		<!--背景-->
+		<component classname="com.pickgliss.ui.image.MutipleImage" stylename="daily.bg"
+			resourceLink="daily.blackWoodTurtle1_style,daily.blackWoodTurtle2_style,asset.daily.bg1Img,asset.daily.bg2Img,daily.bg3_style,asset.daily.bgDailyText,asset.daily.bgLoginRewardsText,asset.daily.bgDailyTasksText,asset.daily.bgThisActivityText,asset.daily.bgActivityDetailsText"
+			/>
+		<!--领取按钮-->
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="daily.getBtn"
+		 	parentStyle='core.simplebt' 
+			x='150' y='46' 
+			backgoundInnerRectString="18,18,3,2,-1" 
+		/>
+		<!--领取按钮发光坐标-->
+		<custom classname="flash.geom.Rectangle" stylename="daily.getBtnGlowRec"
+			x="149"	 y="46" />
+		<!--领取ScrollPanel-->
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.dailyGetTitleText"
+			textFormatStyle="daily.T_1" />
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="daily.getSrollPanel"
+			x='15' y='75' width='226' height='60' parentStyle="core.ScrollPanel" vUnitIncrement="3"/>
+		<!--任务ScrollPanelt-->
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.dailyTaskTitleText"
+			textFormatStyle="daily.T_2" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.dailyTaskItem1Text"
+			width='145' height='22' textFormatStyle="daily.T_3" />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.dailyTaskItem2Text"
+			x='195'   width='100' height='22' textFormatStyle="daily.T_4,daily.T_4_1" autoSize='right'  />
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="daily.taskSrollPanel"
+			x='16' y='198' width='222' height='245' parentStyle='daily.getSrollPanel'
+			/>
+		<!--活动ScrollPanel-->
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="daily.activeSrollPanel"
+			x='286' y='45' width='455' height='134' parentStyle="core.ScrollPanel"
+			vUnitIncrement="5"/>
+		<!--活动text-->
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.dailyActiveItemText"
+			x='10' y='2' width='425' height='18' textFormatStyle="daily.T_5,daily.T_6"  />
+		<!--活动详细内容ScrollPanel-->
+		<component classname="com.pickgliss.ui.controls.ScrollPanel" stylename="daily.activeContextSrollPanel"
+			x='286' y='220' width='455' height='235' parentStyle="core.ScrollPanel"
+			vUnitIncrement="10"/>
+
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.title_txt"
+			x='0' y='7' width='400' textFormatStyle="daily.T_7" wordWrap="true" autoSize="left"
+			/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.description_txt"
+			x='0' y='31' textFormatStyle="daily.T_8" parentStyle='daily.title_txt'  
+		  />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.availabilityTime_txt"
+			x='100' y='5' width='340' textFormatStyle="daily.T_9" parentStyle='daily.title_txt'
+			/>
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.content_txt"
+			x='31' y='31' textFormatStyle="daily.T_8" parentStyle='daily.title_txt'
+		 />
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.award_txt"
+			x='31' y='27' textFormatStyle="daily.T_10" parentStyle='daily.title_txt'
+		 />
+
+		<component classname="com.pickgliss.ui.text.FilterFrameText" stylename="daily.InputText_txt"
+			textFormatStyle="daily.T_11" mouseEnabled="true" autoSize='none' type='input'
+			/>
+		<component classname="com.pickgliss.ui.image.ScaleBitmapImage" stylename="daily.InputTextbackAsset"
+			width="257" height="30" resourceLink="asset.daily.textBg" scaleGridString="20,5,240,20"
+			/>
+		<component classname="com.pickgliss.ui.controls.TextInput" stylename="daily.textInput"
+			x='80' y='0' width="257" height="30" backStyle="daily.InputTextbackAsset"
+			textStyle="daily.InputText_txt" textInnerRectString="8,8,5,2,0" />
+
+		<component classname="com.pickgliss.ui.controls.TextButton" stylename="daily.ActiveGetBtn"
+			x='340' y='0' parentStyle='daily.getBtn' />
+
+	</components>
+	<bitmaps>
+		<!--低图背景1~2-->
+		<bitmapData resourceLink="asset.daily.bg1Img" x='5' y='5'/>
+		
+		<bitmapData resourceLink="asset.daily.bg2Img" x='5' y='156'/>
+		<!--背景_每日领取-->
+		<bitmapData resourceLink="asset.daily.bgDailyText" x='9' y='9'/>
+		<!--背景_登录奖励-->
+		<bitmapData resourceLink="asset.daily.bgLoginRewardsText" x='13' y='45'/>
+		<!--背景_日常任务-->
+		<bitmapData resourceLink="asset.daily.bgDailyTasksText" x='8' y='158'/>
+		<!--背景_今日活动-->
+		<bitmapData resourceLink="asset.daily.bgThisActivityText" x='275' y='6'/>
+		<!--背景_活动详情-->
+		<bitmapData resourceLink="asset.daily.bgActivityDetailsText" x='276' y='179'/>
+		<!--Item_活动线-->
+		<bitmapData resourceLink="asset.daily.activitiesLine" x='10' y='23'/>
+		<!--Item_背景-->
+		<bitmapData resourceLink="asset.daily.itemBg"/>
+
+
+		<!--ActiveContext_分隔线-->
+		<bitmapData resourceLink="asset.daily.lineBg"/>
+		<!--ActiveContext_活动内容-->
+		<bitmapData resourceLink="asset.daily.contentImg"/>
+		<!--ActiveContext_活动奖励-->
+		<bitmapData resourceLink="asset.daily.awardImg"/>
+		<!--ActiveContext_活动时间-->
+		<bitmapData resourceLink="asset.daily.availabilityTimeImg"/>
+		<!--ActiveContext_活动密卡-->
+		<bitmapData resourceLink="asset.daily.passImg"/>
+
+	</bitmaps>
+</style>
